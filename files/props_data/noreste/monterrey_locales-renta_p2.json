@@ -1,0 +1,425 @@
+[
+  {
+    "Título": "Local en Abedul #5318, Col. Valle de los Cedros C.P. 64369, Monterrey",
+    "Precio": 7000,
+    "Ubicación": "Abedul #5318, Col. Valle de los Cedros C.P. 64369, Monterrey",
+    "Superficie": 25,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-abedul-5318-valle-de-los-cedros-nuevo_leon-27055697",
+    "Lat": "25.7267466",
+    "Lng": "-100.3762838"
+  },
+  {
+    "Título": "Local en Avenida Eugenio Garza Sada #3755, Col. Contry C.P. 64860, Monterrey",
+    "Precio": 290000,
+    "Ubicación": "Avenida Eugenio Garza Sada #3755, Col. Contry C.P. 64860, Monterrey",
+    "Superficie": 1000,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-avenida-eugenio-garza-sada-3755-contry-nuevo_leon-30101740",
+    "Lat": "25.636129719375127",
+    "Lng": "-100.28194660793459"
+  },
+  {
+    "Título": "Local en  , Col. Colinas de San Jerónimo C.P. 64630, Monterrey",
+    "Precio": 7000,
+    "Ubicación": " , Col. Colinas de San Jerónimo C.P. 64630, Monterrey",
+    "Superficie": 15,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-colinas-de-san-jeronimo-nuevo_leon-28495222",
+    "Lat": "25.6901135000",
+    "Lng": "-100.3732504000"
+  },
+  {
+    "Título": "Local en 1a Avenida  #1495, Col. Vista Hermosa C.P. 64620, Monterrey",
+    "Precio": 17000,
+    "Ubicación": "1a Avenida  #1495, Col. Vista Hermosa C.P. 64620, Monterrey",
+    "Superficie": 36,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-1a-avenida-1495-vista-hermosa-nuevo_leon-30101816",
+    "Lat": "25.6910283",
+    "Lng": "-100.3568071"
+  },
+  {
+    "Título": "Local en ALEJANDRO HUMBOLDT, Col. El Mirador Centro C.P. 64070, Monterrey",
+    "Precio": 200000,
+    "Ubicación": "ALEJANDRO HUMBOLDT, Col. El Mirador Centro C.P. 64070, Monterrey",
+    "Superficie": 280,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-alejandro-humboldt-el-mirador-centro-nuevo_leon-28859029",
+    "Lat": "25.6682554",
+    "Lng": "-100.3315143"
+  },
+  {
+    "Título": "Local en Hidalgo ·1555, Col. Obispado C.P. 64060, Monterrey",
+    "Precio": 7500,
+    "Ubicación": "Hidalgo ·1555, Col. Obispado C.P. 64060, Monterrey",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-hidalgo-1555-obispado-nuevo_leon-27362321",
+    "Lat": "25.7078736",
+    "Lng": "-100.3154111"
+  },
+  {
+    "Título": "Local en Guerrero, Col. Centro C.P. 64720, Monterrey",
+    "Precio": 96000,
+    "Ubicación": "Guerrero, Col. Centro C.P. 64720, Monterrey",
+    "Superficie": 360,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-guerrero-centro-nuevo_leon-30145913",
+    "Lat": "25.6931031",
+    "Lng": "-100.3111036"
+  },
+  {
+    "Título": "Local en Avenida Revolución  #643, Col. Jardín Español C.P. 64820, Monterrey",
+    "Precio": 23000,
+    "Ubicación": "Avenida Revolución  #643, Col. Jardín Español C.P. 64820, Monterrey",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-avenida-revolucion-643-jardin-espanol-nuevo_leon-29032468",
+    "Lat": "25.664559099999998",
+    "Lng": "-100.2835439"
+  },
+  {
+    "Título": "Local en garza sada, Col. Nuevo Repueblo C.P. 64700, Monterrey",
+    "Precio": 55000,
+    "Ubicación": "garza sada, Col. Nuevo Repueblo C.P. 64700, Monterrey",
+    "Superficie": 400,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-garza-sada-nuevo-repueblo-nuevo_leon-28692317",
+    "Lat": "25.6625408",
+    "Lng": "-100.2973982"
+  },
+  {
+    "Título": "Local en Antiguo camino a Villa de Santiago, Col. La Estanzuela Vieja C.P. 64984, Monterrey",
+    "Precio": 50680,
+    "Ubicación": "Antiguo camino a Villa de Santiago, Col. La Estanzuela Vieja C.P. 64984, Monterrey",
+    "Superficie": 181,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-antiguo-camino-a-villa-de-santiago-la-estanzuela-vieja-nuevo_leon-28421419",
+    "Lat": "25.5643822",
+    "Lng": "-100.2341331"
+  },
+  {
+    "Título": "Local en La Rioja Privada Residencial, Col. La Rioja Privada Residencial C.P. 64988, Monterrey",
+    "Precio": 22000,
+    "Ubicación": "La Rioja Privada Residencial, Col. La Rioja Privada Residencial C.P. 64988, Monterrey",
+    "Superficie": 54,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-la-rioja-privada-residencial-la-rioja-privada-residencial-nuevo_leon-29993273",
+    "Lat": "25.5750307",
+    "Lng": "-100.2439145"
+  },
+  {
+    "Título": "Local en Carretera Nacional, Col. Valle Alto C.P. 64989, Monterrey",
+    "Precio": 27000,
+    "Ubicación": "Carretera Nacional, Col. Valle Alto C.P. 64989, Monterrey",
+    "Superficie": 59,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-carretera-nacional-valle-alto-nuevo_leon-28421382",
+    "Lat": "25.4571626",
+    "Lng": "-100.1672557"
+  },
+  {
+    "Título": "Local en Pío X, Col. Pío X C.P. 64710, Monterrey",
+    "Precio": 10000,
+    "Ubicación": "Pío X, Col. Pío X C.P. 64710, Monterrey",
+    "Superficie": 24,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-pio-x-pio-x-nuevo_leon-30129741",
+    "Lat": "25.6614298",
+    "Lng": "-100.3308447"
+  },
+  {
+    "Título": "Local en Av Paseo de los Leones, Col. Las Cumbres 2 Sector C.P. 64610, Monterrey",
+    "Precio": 70000,
+    "Ubicación": "Av Paseo de los Leones, Col. Las Cumbres 2 Sector C.P. 64610, Monterrey",
+    "Superficie": 170,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-paseo-de-los-leones-las-cumbres-2-sector-nuevo_leon-30097899",
+    "Lat": "25.7365284",
+    "Lng": "-100.40419"
+  },
+  {
+    "Título": "Local en Valle del INFONAVIT, Col. Valle del INFONAVIT San Bernabé 1-B C.P. 64350, Monterrey",
+    "Precio": 38656,
+    "Ubicación": "Valle del INFONAVIT, Col. Valle del INFONAVIT San Bernabé 1-B C.P. 64350, Monterrey",
+    "Superficie": 89,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-valle-del-infonavit-valle-del-infonavit-san-bernabe-1b-nuevo_leon-30098511",
+    "Lat": "25.7206267",
+    "Lng": "-100.3527895"
+  },
+  {
+    "Título": "Local en Garza Sada, Col. Tecnológico C.P. 64700, Monterrey",
+    "Precio": 64000,
+    "Ubicación": "Garza Sada, Col. Tecnológico C.P. 64700, Monterrey",
+    "Superficie": 103,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-garza-sada-tecnologico-nuevo_leon-30097882",
+    "Lat": "25.6514668",
+    "Lng": "-100.2924876"
+  },
+  {
+    "Título": "Local en Carretera Nacional, Col. Valle Alto C.P. 64989, Monterrey",
+    "Precio": 38000,
+    "Ubicación": "Carretera Nacional, Col. Valle Alto C.P. 64989, Monterrey",
+    "Superficie": 85,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-carretera-nacional-valle-alto-nuevo_leon-28796920",
+    "Lat": "25.4571626",
+    "Lng": "-100.1672557"
+  },
+  {
+    "Título": "Local en Carretera Nacional, Col. Valle Alto C.P. 64989, Monterrey",
+    "Precio": 32000,
+    "Ubicación": "Carretera Nacional, Col. Valle Alto C.P. 64989, Monterrey",
+    "Superficie": 56,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-carretera-nacional-valle-alto-nuevo_leon-28772158",
+    "Lat": "25.4571626",
+    "Lng": "-100.1672557"
+  },
+  {
+    "Título": "Local en Almazan #local 8, Col. Topo Chico C.P. 64260, Monterrey",
+    "Precio": 9350,
+    "Ubicación": "Almazan #local 8, Col. Topo Chico C.P. 64260, Monterrey",
+    "Superficie": 40,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-almazan-local-8-topo-chico-nuevo_leon-28994787",
+    "Lat": "25.73756749104337",
+    "Lng": "-100.32608378042602"
+  },
+  {
+    "Título": "Local en sin nombre de, Col. Aires del Vergel C.P. 64985, Monterrey",
+    "Precio": 15000,
+    "Ubicación": "sin nombre de, Col. Aires del Vergel C.P. 64985, Monterrey",
+    "Superficie": 45,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-sin-nombre-de-aires-del-vergel-nuevo_leon-28565655",
+    "Lat": "25.5490897",
+    "Lng": "-100.2174647"
+  },
+  {
+    "Título": "Local en  , Col. Obispado C.P. 64060, Monterrey",
+    "Precio": 20000,
+    "Ubicación": " , Col. Obispado C.P. 64060, Monterrey",
+    "Superficie": 18,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-obispado-nuevo_leon-29813741",
+    "Lat": "25.6755570000",
+    "Lng": "-100.3497450000"
+  },
+  {
+    "Título": "Local en Av. colon, Col. Modelo C.P. 64580, Monterrey",
+    "Precio": 474250,
+    "Ubicación": "Av. colon, Col. Modelo C.P. 64580, Monterrey",
+    "Superficie": 1897,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-colon-modelo-nuevo_leon-30107697",
+    "Lat": "25.6837864",
+    "Lng": "-100.2941153"
+  },
+  {
+    "Título": "Local en Carretera Nacional, Col. Valle Alto C.P. 64989, Monterrey",
+    "Precio": 109000,
+    "Ubicación": "Carretera Nacional, Col. Valle Alto C.P. 64989, Monterrey",
+    "Superficie": 218,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-carretera-nacional-valle-alto-nuevo_leon-28421290",
+    "Lat": "25.4571626",
+    "Lng": "-100.1672557"
+  },
+  {
+    "Título": "Local en Paseo del Acueducto, Col. Satélite Acueducto Séptimo Sector C.P. 64979, Monterrey",
+    "Precio": 17000,
+    "Ubicación": "Paseo del Acueducto, Col. Satélite Acueducto Séptimo Sector C.P. 64979, Monterrey",
+    "Superficie": 51,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-paseo-del-acueducto-satelite-acueducto-septimo-sector-nuevo_leon-25103188",
+    "Lat": "25.6037597",
+    "Lng": "-100.27754"
+  },
+  {
+    "Título": "Local en Rafael Platón Sánchez Norte #s/n, Col. Centro C.P. 64720, Monterrey",
+    "Precio": 9000,
+    "Ubicación": "Rafael Platón Sánchez Norte #s/n, Col. Centro C.P. 64720, Monterrey",
+    "Superficie": 79,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-rafael-platon-sanchez-norte-sn-centro-nuevo_leon-30063965",
+    "Lat": "25.681749749679916",
+    "Lng": "-100.30204142213744"
+  },
+  {
+    "Título": "Local en Vicente Guerrero, Col. Centro C.P. 64720, Monterrey",
+    "Precio": 30000,
+    "Ubicación": "Vicente Guerrero, Col. Centro C.P. 64720, Monterrey",
+    "Superficie": 124,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-vicente-guerrero-centro-nuevo_leon-28549757",
+    "Lat": "25.6929165",
+    "Lng": "-100.3111275"
+  },
+  {
+    "Título": "Local en  , Col. Valle del Mirador C.P. 64750, Monterrey",
+    "Precio": 60000,
+    "Ubicación": " , Col. Valle del Mirador C.P. 64750, Monterrey",
+    "Superficie": 250,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-valle-del-mirador-nuevo_leon-30124940",
+    "Lat": "25.6425043000",
+    "Lng": "-100.3130732000"
+  },
+  {
+    "Título": "Local en Lincoln, Col. Mitras Norte C.P. 64320, Monterrey",
+    "Precio": 115000,
+    "Ubicación": "Lincoln, Col. Mitras Norte C.P. 64320, Monterrey",
+    "Superficie": 350,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-lincoln-mitras-norte-nuevo_leon-30121656",
+    "Lat": "25.7147548",
+    "Lng": "-100.3481233"
+  },
+  {
+    "Título": "Local en LRC810, Col. Centro C.P. 64720, Monterrey",
+    "Precio": 12000,
+    "Ubicación": "LRC810, Col. Centro C.P. 64720, Monterrey",
+    "Superficie": 55,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-lrc810-centro-nuevo_leon-29371793",
+    "Lat": "25.6780368",
+    "Lng": "-100.3133067"
+  },
+  {
+    "Título": "Local en Av Madero, Col. Monterrey Centro C.P. 64000, Monterrey",
+    "Precio": 130000,
+    "Ubicación": "Av Madero, Col. Monterrey Centro C.P. 64000, Monterrey",
+    "Superficie": 1200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-madero-monterrey-centro-nuevo_leon-30120137",
+    "Lat": "25.6847244",
+    "Lng": "-100.3199621"
+  },
+  {
+    "Título": "Local en Prol. Madero, Col. Parque Industrial Regiomontano C.P. 64540, Monterrey",
+    "Precio": 36500,
+    "Ubicación": "Prol. Madero, Col. Parque Industrial Regiomontano C.P. 64540, Monterrey",
+    "Superficie": 104,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-prol-madero-parque-industrial-regiomontano-nuevo_leon-28655430",
+    "Lat": "25.6860647",
+    "Lng": "-100.2676657"
+  },
+  {
+    "Título": "Local en JARDINES DEL CONTRY, Col. Contry C.P. 64860, Monterrey",
+    "Precio": 240000,
+    "Ubicación": "JARDINES DEL CONTRY, Col. Contry C.P. 64860, Monterrey",
+    "Superficie": 750,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-jardines-del-contry-contry-nuevo_leon-30081037",
+    "Lat": "25.6308855",
+    "Lng": "-100.2715803"
+  },
+  {
+    "Título": "Local en Garza Sada, Col. Tecnológico C.P. 64700, Monterrey",
+    "Precio": 32000,
+    "Ubicación": "Garza Sada, Col. Tecnológico C.P. 64700, Monterrey",
+    "Superficie": 51,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-garza-sada-tecnologico-nuevo_leon-30097881",
+    "Lat": "25.6514668",
+    "Lng": "-100.2924876"
+  },
+  {
+    "Título": "Local en Av Colon, Col. Sarabia C.P. 64490, Monterrey",
+    "Precio": 45920,
+    "Ubicación": "Av Colon, Col. Sarabia C.P. 64490, Monterrey",
+    "Superficie": 131,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-colon-sarabia-nuevo_leon-28777506",
+    "Lat": "25.6858571",
+    "Lng": "-100.3150084"
+  },
+  {
+    "Título": "Local en Avenida gonzalitos norte, Col. Mitras Norte C.P. 64320, Monterrey",
+    "Precio": 70000,
+    "Ubicación": "Avenida gonzalitos norte, Col. Mitras Norte C.P. 64320, Monterrey",
+    "Superficie": 500,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-avenida-gonzalitos-norte-mitras-norte-nuevo_leon-26492415",
+    "Lat": "25.7107432",
+    "Lng": "-100.3469826"
+  },
+  {
+    "Título": "Local en Fleteros, Col. Gonzalitos C.P. 64020, Monterrey",
+    "Precio": 36000,
+    "Ubicación": "Fleteros, Col. Gonzalitos C.P. 64020, Monterrey",
+    "Superficie": 100,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-fleteros-gonzalitos-nuevo_leon-30135072",
+    "Lat": "25.6827739",
+    "Lng": "-100.3483917"
+  },
+  {
+    "Título": "Local en , Col. Obispado C.P. 64060, Monterrey",
+    "Precio": 26544,
+    "Ubicación": ", Col. Obispado C.P. 64060, Monterrey",
+    "Superficie": 66,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-obispado-nuevo_leon-30095027",
+    "Lat": "25.6691443000",
+    "Lng": "-100.3405640000"
+  },
+  {
+    "Título": "Local en Carretera Nacional, Col. Valle Alto C.P. 64989, Monterrey",
+    "Precio": 40000,
+    "Ubicación": "Carretera Nacional, Col. Valle Alto C.P. 64989, Monterrey",
+    "Superficie": 89,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-carretera-nacional-valle-alto-nuevo_leon-28911154",
+    "Lat": "25.4571626",
+    "Lng": "-100.1672557"
+  },
+  {
+    "Título": "Local en Contry, Col. Contry C.P. 64860, Monterrey",
+    "Precio": 219000,
+    "Ubicación": "Contry, Col. Contry C.P. 64860, Monterrey",
+    "Superficie": 790,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-contry-contry-nuevo_leon-30136665",
+    "Lat": "25.6351699",
+    "Lng": "-100.2782412"
+  },
+  {
+    "Título": "Local en Monterrey Centro, Col. Monterrey Centro C.P. 64000, Monterrey",
+    "Precio": 55000,
+    "Ubicación": "Monterrey Centro, Col. Monterrey Centro C.P. 64000, Monterrey",
+    "Superficie": 110,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-monterrey-centro-monterrey-centro-nuevo_leon-30107884",
+    "Lat": "25.6776379",
+    "Lng": "-100.3189185"
+  },
+  {
+    "Título": "Local en  , Col. Monterrey Centro C.P. 64000, Monterrey",
+    "Precio": 57370,
+    "Ubicación": " , Col. Monterrey Centro C.P. 64000, Monterrey",
+    "Superficie": 106,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-monterrey-centro-nuevo_leon-29451261",
+    "Lat": "25.6648968000",
+    "Lng": "-100.3165597000"
+  },
+  {
+    "Título": "Local en Av. Eugenio Garza Sada, Col. Villa Las Fuentes C.P. 64890, Monterrey",
+    "Precio": 43000,
+    "Ubicación": "Av. Eugenio Garza Sada, Col. Villa Las Fuentes C.P. 64890, Monterrey",
+    "Superficie": 106,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-eugenio-garza-sada-villa-las-fuentes-nuevo_leon-30131650",
+    "Lat": "25.6141826",
+    "Lng": "-100.2710368"
+  },
+  {
+    "Título": "Local en Revolución, Col. Jardín Español C.P. 64820, Monterrey",
+    "Precio": 21500,
+    "Ubicación": "Revolución, Col. Jardín Español C.P. 64820, Monterrey",
+    "Superficie": 80,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-revolucion-jardin-espanol-nuevo_leon-30112240",
+    "Lat": "25.66671",
+    "Lng": "-100.28403"
+  },
+  {
+    "Título": "Local en Ruperto Martinez , Col. Centro C.P. 64720, Monterrey",
+    "Precio": 24000,
+    "Ubicación": "Ruperto Martinez , Col. Centro C.P. 64720, Monterrey",
+    "Superficie": 105,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-ruperto-martinez-centro-nuevo_leon-27055852",
+    "Lat": "25.675812842449382",
+    "Lng": "-100.30322159410399"
+  },
+  {
+    "Título": "Local en AV SIMON BOLIVAR, Col. Mitras Centro C.P. 64460, Monterrey",
+    "Precio": 5000,
+    "Ubicación": "AV SIMON BOLIVAR, Col. Mitras Centro C.P. 64460, Monterrey",
+    "Superficie": 10,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-simon-bolivar-mitras-centro-nuevo_leon-27362291",
+    "Lat": "25.6960854",
+    "Lng": "-100.3436229"
+  },
+  {
+    "Título": "Local en Arramberri, Col. Monterrey Centro C.P. 64000, Monterrey",
+    "Precio": 26000,
+    "Ubicación": "Arramberri, Col. Monterrey Centro C.P. 64000, Monterrey",
+    "Superficie": 70,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-arramberri-monterrey-centro-nuevo_leon-30145911",
+    "Lat": "25.6768406",
+    "Lng": "-100.3204134"
+  },
+  {
+    "Título": "Local en Antiguo camino a Villa de Santiago, Col. La Estanzuela Vieja C.P. 64984, Monterrey",
+    "Precio": 22258,
+    "Ubicación": "Antiguo camino a Villa de Santiago, Col. La Estanzuela Vieja C.P. 64984, Monterrey",
+    "Superficie": 71,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-antiguo-camino-a-villa-de-santiago-la-estanzuela-vieja-nuevo_leon-28421387",
+    "Lat": "25.5643822",
+    "Lng": "-100.2341331"
+  }
+]

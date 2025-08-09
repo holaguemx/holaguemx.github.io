@@ -1,0 +1,425 @@
+[
+  {
+    "Título": "Local en Blvd. Nazario Ortiz Garza Saltillo NORTE, Col. Alpes C.P. 25270, Saltillo",
+    "Precio": 120000,
+    "Ubicación": "Blvd. Nazario Ortiz Garza Saltillo NORTE, Col. Alpes C.P. 25270, Saltillo",
+    "Superficie": 378,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-nazario-ortiz-garza-saltillo-norte-alpes-coahuila-25117510",
+    "Lat": "25.4503324",
+    "Lng": "-100.9771678"
+  },
+  {
+    "Título": "Local en Las flores, Col. La Florida C.P. 25296, Saltillo",
+    "Precio": 25000,
+    "Ubicación": "Las flores, Col. La Florida C.P. 25296, Saltillo",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-flores-la-florida-coahuila-27312933",
+    "Lat": "25.4431551",
+    "Lng": "-100.9559757"
+  },
+  {
+    "Título": "Local en Turim #109, Col. La Florencia C.P. 25110, Saltillo",
+    "Precio": 5500,
+    "Ubicación": "Turim #109, Col. La Florencia C.P. 25110, Saltillo",
+    "Superficie": 35,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-turim-109-la-florencia-coahuila-25500726",
+    "Lat": "25.471827",
+    "Lng": "-101.0155384"
+  },
+  {
+    "Título": "Local en Quinta Real #515, Col. Valle Real Primer Sector C.P. 25205, Saltillo",
+    "Precio": 10000,
+    "Ubicación": "Quinta Real #515, Col. Valle Real Primer Sector C.P. 25205, Saltillo",
+    "Superficie": 35,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-quinta-real-515-valle-real-primer-sector-coahuila-30062654",
+    "Lat": "25.4780485",
+    "Lng": "-100.9390254"
+  },
+  {
+    "Título": "Local en  , Col. Nazario S Ortiz Garza C.P. 25100, Saltillo",
+    "Precio": 35590,
+    "Ubicación": " , Col. Nazario S Ortiz Garza C.P. 25100, Saltillo",
+    "Superficie": 117,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-nazario-s-ortiz-garza-coahuila-27886702",
+    "Lat": "25.4829706",
+    "Lng": "-100.9916136"
+  },
+  {
+    "Título": "Local en Blvd. V. Carranza #2665, Col. República Norte C.P. 25280, Saltillo",
+    "Precio": 42318,
+    "Ubicación": "Blvd. V. Carranza #2665, Col. República Norte C.P. 25280, Saltillo",
+    "Superficie": 141,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-v-carranza-2665-republica-norte-coahuila-29790256",
+    "Lat": "25.445948",
+    "Lng": "-100.9905036"
+  },
+  {
+    "Título": "Local en Blvd.Enrique Reyna H #951, Col. Los Pinos C.P. 25204, Saltillo",
+    "Precio": 8800,
+    "Ubicación": "Blvd.Enrique Reyna H #951, Col. Los Pinos C.P. 25204, Saltillo",
+    "Superficie": 44,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvdenrique-reyna-h-951-los-pinos-coahuila-12908580",
+    "Lat": "25.4580255",
+    "Lng": "-100.9659523"
+  },
+  {
+    "Título": "Local en Blvd. Nazario Ortiz Garza #0, Col. Lagos Continental C.P. 25253, Saltillo",
+    "Precio": 60000,
+    "Ubicación": "Blvd. Nazario Ortiz Garza #0, Col. Lagos Continental C.P. 25253, Saltillo",
+    "Superficie": 200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-nazario-ortiz-garza-lagos-continental-coahuila-29182295",
+    "Lat": "25.4676738",
+    "Lng": "-100.9805855"
+  },
+  {
+    "Título": "Local en  , Col. Las Magnolias C.P. 25203, Saltillo",
+    "Precio": 16000,
+    "Ubicación": " , Col. Las Magnolias C.P. 25203, Saltillo",
+    "Superficie": 54,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-magnolias-coahuila-27516625",
+    "Lat": "25.4041492",
+    "Lng": "-100.9539211"
+  },
+  {
+    "Título": "Local en Blvd. Eulalio Gutierrez Treviño, Col. Oceanía C.P. 25290, Saltillo",
+    "Precio": 17000,
+    "Ubicación": "Blvd. Eulalio Gutierrez Treviño, Col. Oceanía C.P. 25290, Saltillo",
+    "Superficie": 53,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-eulalio-gutierrez-trevino-oceania-coahuila-28234571",
+    "Lat": "25.4603999",
+    "Lng": "-100.9530501"
+  },
+  {
+    "Título": "Local en La Aurora #0, Col. La Aurora C.P. 25298, Saltillo",
+    "Precio": 30000,
+    "Ubicación": "La Aurora #0, Col. La Aurora C.P. 25298, Saltillo",
+    "Superficie": 600,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-la-aurora-la-aurora-coahuila-29498497",
+    "Lat": "25.4494682",
+    "Lng": "-100.9359968"
+  },
+  {
+    "Título": "Local en Portal de los Agaves #0, Col. Portal de los Agaves C.P. 25115, Saltillo",
+    "Precio": 5000,
+    "Ubicación": "Portal de los Agaves #0, Col. Portal de los Agaves C.P. 25115, Saltillo",
+    "Superficie": 20,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-portal-de-los-agaves-portal-de-los-agaves-coahuila-29891371",
+    "Lat": "25.4219542",
+    "Lng": "-100.9089397"
+  },
+  {
+    "Título": "Local en  , Col. La Florencia C.P. 25110, Saltillo",
+    "Precio": 5500,
+    "Ubicación": " , Col. La Florencia C.P. 25110, Saltillo",
+    "Superficie": 35,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-la-florencia-coahuila-27477631",
+    "Lat": "25.4719631",
+    "Lng": "-101.0149721"
+  },
+  {
+    "Título": "Local en Rancho de Peña #0, Col. Rancho de Peña C.P. 25210, Saltillo",
+    "Precio": 200000,
+    "Ubicación": "Rancho de Peña #0, Col. Rancho de Peña C.P. 25210, Saltillo",
+    "Superficie": 1058,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-rancho-de-pena-rancho-de-pena-coahuila-25132992",
+    "Lat": "25.4615576",
+    "Lng": "-100.9490714"
+  },
+  {
+    "Título": "Local en . #., Col. San Ángel C.P. 25298, Saltillo",
+    "Precio": 9750,
+    "Ubicación": ". #., Col. San Ángel C.P. 25298, Saltillo",
+    "Superficie": 65,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta--san-angel-coahuila-27779108",
+    "Lat": "25.4491798",
+    "Lng": "-100.9097225"
+  },
+  {
+    "Título": "Local en Jesus Valdez Sanchez y Sierra Mojada #695, Col. República Oriente C.P. 25280, Saltillo",
+    "Precio": 8000,
+    "Ubicación": "Jesus Valdez Sanchez y Sierra Mojada #695, Col. República Oriente C.P. 25280, Saltillo",
+    "Superficie": 40,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-jesus-valdez-sanchez-y-sierra-mojada-695-republica-oriente-coahuila-29182313",
+    "Lat": "25.4352811",
+    "Lng": "-100.9878669"
+  },
+  {
+    "Título": "Local en  , Col. República Oriente C.P. 25280, Saltillo",
+    "Precio": 13500,
+    "Ubicación": " , Col. República Oriente C.P. 25280, Saltillo",
+    "Superficie": 72,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-republica-oriente-coahuila-27483663",
+    "Lat": "25.4380003",
+    "Lng": "-100.985646"
+  },
+  {
+    "Título": "Local en Blvd Morelos, Col. Morelos C.P. 25013, Saltillo",
+    "Precio": 25000,
+    "Ubicación": "Blvd Morelos, Col. Morelos C.P. 25013, Saltillo",
+    "Superficie": 175,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-morelos-morelos-coahuila-12095136",
+    "Lat": "25.4267411",
+    "Lng": "-100.9476969"
+  },
+  {
+    "Título": "Local en Luis Echeverria Alvarez #1648, Col. República Oriente C.P. 25280, Saltillo",
+    "Precio": 23500,
+    "Ubicación": "Luis Echeverria Alvarez #1648, Col. República Oriente C.P. 25280, Saltillo",
+    "Superficie": 107,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-luis-echeverria-alvarez-1648-republica-oriente-coahuila-29160464",
+    "Lat": "25.4447663",
+    "Lng": "-100.984868"
+  },
+  {
+    "Título": "Local en  , Col. Los Pinos C.P. 25198, Saltillo",
+    "Precio": 21000,
+    "Ubicación": " , Col. Los Pinos C.P. 25198, Saltillo",
+    "Superficie": 80,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-los-pinos-coahuila-27488273",
+    "Lat": "25.4060131",
+    "Lng": "-101.0269877"
+  },
+  {
+    "Título": "Local en  , Col. González Cepeda C.P. 25030, Saltillo",
+    "Precio": 4500,
+    "Ubicación": " , Col. González Cepeda C.P. 25030, Saltillo",
+    "Superficie": 28,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-gonzalez-cepeda-coahuila-27657667",
+    "Lat": "25.4110099",
+    "Lng": "-100.9849395"
+  },
+  {
+    "Título": "Local en BLVD JESUS VALDES SANCHEZ #5330, Col. La Aurora C.P. 25298, Saltillo",
+    "Precio": 14000,
+    "Ubicación": "BLVD JESUS VALDES SANCHEZ #5330, Col. La Aurora C.P. 25298, Saltillo",
+    "Superficie": 40,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-jesus-valdes-sanchez-5330-la-aurora-coahuila-29482866",
+    "Lat": "25.4429297",
+    "Lng": "-100.948386"
+  },
+  {
+    "Título": "Local en  , Col. San Ángel C.P. 25298, Saltillo",
+    "Precio": 11050,
+    "Ubicación": " , Col. San Ángel C.P. 25298, Saltillo",
+    "Superficie": 2800,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-san-angel-coahuila-27477625",
+    "Lat": "25.4515651",
+    "Lng": "-100.9103281"
+  },
+  {
+    "Título": "Local en  , Col. Topo Chico C.P. 25284, Saltillo",
+    "Precio": 8250,
+    "Ubicación": " , Col. Topo Chico C.P. 25284, Saltillo",
+    "Superficie": 51,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-topo-chico-coahuila-27528746",
+    "Lat": "25.4314755",
+    "Lng": "-100.9849395"
+  },
+  {
+    "Título": "Local en Blvd. Francisco Coss, Col. Saltillo Centro C.P. 25000, Saltillo",
+    "Precio": 20000,
+    "Ubicación": "Blvd. Francisco Coss, Col. Saltillo Centro C.P. 25000, Saltillo",
+    "Superficie": 600,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-francisco-coss-saltillo-centro-coahuila-28320450",
+    "Lat": "25.4317744",
+    "Lng": "-100.9933242"
+  },
+  {
+    "Título": "Local en  , Col. Los Doctores C.P. 25250, Saltillo",
+    "Precio": 15000,
+    "Ubicación": " , Col. Los Doctores C.P. 25250, Saltillo",
+    "Superficie": 52,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-los-doctores-coahuila-29077173",
+    "Lat": "25.4668122",
+    "Lng": "-100.9802474"
+  },
+  {
+    "Título": "Local en Perla #395, Col. Miravalle C.P. 25060, Saltillo",
+    "Precio": 5500,
+    "Ubicación": "Perla #395, Col. Miravalle C.P. 25060, Saltillo",
+    "Superficie": 23,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-perla-395-miravalle-coahuila-29532847",
+    "Lat": "25.3955324",
+    "Lng": "-101.0007793"
+  },
+  {
+    "Título": "Local en  , Col. Cipreses C.P. 25297, Saltillo",
+    "Precio": 60000,
+    "Ubicación": " , Col. Cipreses C.P. 25297, Saltillo",
+    "Superficie": 600,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-cipreses-coahuila-27445103",
+    "Lat": "25.4545533",
+    "Lng": "-100.9526207"
+  },
+  {
+    "Título": "Local en  , Col. Las Magnolias C.P. 25203, Saltillo",
+    "Precio": 26500,
+    "Ubicación": " , Col. Las Magnolias C.P. 25203, Saltillo",
+    "Superficie": 106,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-magnolias-coahuila-27526666",
+    "Lat": "25.4041492",
+    "Lng": "-100.9539211"
+  },
+  {
+    "Título": "Local en  , Col. Saltillo 2000 C.P. 25115, Saltillo",
+    "Precio": 75000,
+    "Ubicación": " , Col. Saltillo 2000 C.P. 25115, Saltillo",
+    "Superficie": 300,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-saltillo-2000-coahuila-29319849",
+    "Lat": "25.4578476000",
+    "Lng": "-100.9841012000"
+  },
+  {
+    "Título": "Local en Local en RENTA en Blvd. Nazario Ortiz Garza, Col. Cumbres C.P. 25270, Saltillo",
+    "Precio": 74250,
+    "Ubicación": "Local en RENTA en Blvd. Nazario Ortiz Garza, Col. Cumbres C.P. 25270, Saltillo",
+    "Superficie": 297,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-local-en-renta-en-blvd-nazario-ortiz-garza-cumbres-coahuila-18555639",
+    "Lat": "25.4450751",
+    "Lng": "-100.9793067"
+  },
+  {
+    "Título": "Local en Nazario Ortiz Garza #2060, Col. Lagos Continental C.P. 25253, Saltillo",
+    "Precio": 13500,
+    "Ubicación": "Nazario Ortiz Garza #2060, Col. Lagos Continental C.P. 25253, Saltillo",
+    "Superficie": 54,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-nazario-ortiz-garza-2060-lagos-continental-coahuila-30062650",
+    "Lat": "25.4607433",
+    "Lng": "-100.9784384"
+  },
+  {
+    "Título": "Local en Ignacio Allende #133, Col. Saltillo Centro C.P. 25000, Saltillo",
+    "Precio": 29000,
+    "Ubicación": "Ignacio Allende #133, Col. Saltillo Centro C.P. 25000, Saltillo",
+    "Superficie": 173,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-ignacio-allende-133-saltillo-centro-coahuila-29714529",
+    "Lat": "25.4213048",
+    "Lng": "-101.0015333"
+  },
+  {
+    "Título": "Local en Periférico Luis Echeverría Alvarez #1648, Col. República Oriente C.P. 25280, Saltillo",
+    "Precio": 95000,
+    "Ubicación": "Periférico Luis Echeverría Alvarez #1648, Col. República Oriente C.P. 25280, Saltillo",
+    "Superficie": 400,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-periferico-luis-echeverria-alvarez-1648-republica-oriente-coahuila-26374827",
+    "Lat": "25.4447663",
+    "Lng": "-100.984868"
+  },
+  {
+    "Título": "Local en Ramos Arizpe #266, Col. Centro Metropolitano C.P. 25022, Saltillo",
+    "Precio": 11700,
+    "Ubicación": "Ramos Arizpe #266, Col. Centro Metropolitano C.P. 25022, Saltillo",
+    "Superficie": 37,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-ramos-arizpe-266-centro-metropolitano-coahuila-26727325",
+    "Lat": "25.4240781",
+    "Lng": "-101.0106653"
+  },
+  {
+    "Título": "Local en urdiñola #125, Col. Saltillo Centro C.P. 25000, Saltillo",
+    "Precio": 3800,
+    "Ubicación": "urdiñola #125, Col. Saltillo Centro C.P. 25000, Saltillo",
+    "Superficie": 16,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-urdinola-125-saltillo-centro-coahuila-27430396",
+    "Lat": "25.3930504",
+    "Lng": "-100.9949266"
+  },
+  {
+    "Título": "Local en  , Col. Asturias C.P. 25107, Saltillo",
+    "Precio": 80000,
+    "Ubicación": " , Col. Asturias C.P. 25107, Saltillo",
+    "Superficie": 1000,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-asturias-coahuila-26079434",
+    "Lat": "25.4782872",
+    "Lng": "-100.9941249"
+  },
+  {
+    "Título": "Local en SN, Col. Saltillo Centro C.P. 25000, Saltillo",
+    "Precio": 24000,
+    "Ubicación": "SN, Col. Saltillo Centro C.P. 25000, Saltillo",
+    "Superficie": 110,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-sn-saltillo-centro-coahuila-27856993",
+    "Lat": "25.4202852",
+    "Lng": "-100.997658"
+  },
+  {
+    "Título": "Local en MURGUIA, Col. Saltillo Centro C.P. 25000, Saltillo",
+    "Precio": 6000,
+    "Ubicación": "MURGUIA, Col. Saltillo Centro C.P. 25000, Saltillo",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-murguia-saltillo-centro-coahuila-27313002",
+    "Lat": "25.4284276",
+    "Lng": "-101.0114186"
+  },
+  {
+    "Título": "Local en Periférico Luis Echeverría 1285 #1285Int. 34, Col. Guanajuato C.P. 25280, Saltillo",
+    "Precio": 14000,
+    "Ubicación": "Periférico Luis Echeverría 1285 #1285Int. 34, Col. Guanajuato C.P. 25280, Saltillo",
+    "Superficie": 85,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-periferico-luis-echeverria-1285-1285-guanajuato-coahuila-29990183",
+    "Lat": "25.441589336922842",
+    "Lng": "-100.97841980859832"
+  },
+  {
+    "Título": "Local en MURGUIA, Col. Saltillo Centro C.P. 25000, Saltillo",
+    "Precio": 9000,
+    "Ubicación": "MURGUIA, Col. Saltillo Centro C.P. 25000, Saltillo",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-murguia-saltillo-centro-coahuila-27312997",
+    "Lat": "25.4284276",
+    "Lng": "-101.0114186"
+  },
+  {
+    "Título": "Local en  , Col. Saltillo 2000 C.P. 25115, Saltillo",
+    "Precio": 18000,
+    "Ubicación": " , Col. Saltillo 2000 C.P. 25115, Saltillo",
+    "Superficie": 60,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-saltillo-2000-coahuila-24080732",
+    "Lat": "25.4235233",
+    "Lng": "-101.0375648"
+  },
+  {
+    "Título": "Local en SN, Col. Lagos Continental C.P. 25253, Saltillo",
+    "Precio": 12535,
+    "Ubicación": "SN, Col. Lagos Continental C.P. 25253, Saltillo",
+    "Superficie": 54,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-sn-lagos-continental-coahuila-20465934",
+    "Lat": "25.4602787",
+    "Lng": "-100.9761081"
+  },
+  {
+    "Título": "Local en Santa Rosa #0, Col. Santa Rosa Residencial C.P. 25209, Saltillo",
+    "Precio": 17800,
+    "Ubicación": "Santa Rosa #0, Col. Santa Rosa Residencial C.P. 25209, Saltillo",
+    "Superficie": 60,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-rosa-santa-rosa-residencial-coahuila-25906082",
+    "Lat": "25.4824535",
+    "Lng": "-100.9397287"
+  },
+  {
+    "Título": "Local en Ignición zaragoza #397, Col. Centro Metropolitano C.P. 25022, Saltillo",
+    "Precio": 17000,
+    "Ubicación": "Ignición zaragoza #397, Col. Centro Metropolitano C.P. 25022, Saltillo",
+    "Superficie": 107,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-ignicion-zaragoza-397-centro-metropolitano-coahuila-26703754",
+    "Lat": "25.4183445",
+    "Lng": "-100.9651584"
+  },
+  {
+    "Título": "Local en Blvd. Nazario Ortiz Garza #A, Col. Cumbres C.P. 25270, Saltillo",
+    "Precio": 120000,
+    "Ubicación": "Blvd. Nazario Ortiz Garza #A, Col. Cumbres C.P. 25270, Saltillo",
+    "Superficie": 378,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-nazario-ortiz-garza-a-cumbres-coahuila-25776851",
+    "Lat": "25.4450979",
+    "Lng": "-100.9792936"
+  },
+  {
+    "Título": "Local en AVENIDA UNIVERSIDAD #123, Col. Universidad C.P. 25260, Saltillo",
+    "Precio": 7000,
+    "Ubicación": "AVENIDA UNIVERSIDAD #123, Col. Universidad C.P. 25260, Saltillo",
+    "Superficie": 70,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-avenida-universidad-123-universidad-coahuila-29340709",
+    "Lat": "25.4409909",
+    "Lng": "-100.9928241"
+  }
+]

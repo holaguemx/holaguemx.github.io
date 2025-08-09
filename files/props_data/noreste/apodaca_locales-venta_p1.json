@@ -1,0 +1,425 @@
+[
+  {
+    "Título": "Local en Av. San Isidro Sepúlveda Martínez \nTitan   Apodaca Nuevo Leon \nPlaza Le´mon Park  Apodaca, Col. Parque Industrial Apodaca C.P. 66633, Apodaca",
+    "Precio": 8981812,
+    "Ubicación": "Av. San Isidro Sepúlveda Martínez \nTitan   Apodaca Nuevo Leon \nPlaza Le´mon Park  Apodaca, Col. Parque Industrial Apodaca C.P. 66633, Apodaca",
+    "Superficie": 116,
+    "Enlace": "https://www.propiedades.com/inmuebles/local-en-venta-av-san-isidro-sepulveda-martinez-\ntitan---apodaca-nuevo-leon-\nplaza-lemon-park--apodaca-parque-industrial-apodaca-nuevo-leon-30095605",
+    "Lat": "25.780075",
+    "Lng": "-100.1752308"
+  },
+  {
+    "Título": "Local en , Col. Residencial San Francisco C.P. 66603, Apodaca",
+    "Precio": 350000,
+    "Ubicación": ", Col. Residencial San Francisco C.P. 66603, Apodaca",
+    "Superficie": 50,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-residencial-san-francisco-nuevo_leon-30081378",
+    "Lat": "25.7777638000",
+    "Lng": "-100.1960717000"
+  },
+  {
+    "Título": "Local en S/N, Col. Prados de La Cieneguita C.P. 66636, Apodaca",
+    "Precio": 6000000,
+    "Ubicación": "S/N, Col. Prados de La Cieneguita C.P. 66636, Apodaca",
+    "Superficie": 309,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-sn-prados-de-la-cieneguita-nuevo_leon-29860024",
+    "Lat": "25.7830404",
+    "Lng": "-100.2558064"
+  },
+  {
+    "Título": "Local en Avenida Manuela Herrera #802-1Int. 802, Col. Jardines de Apodaca C.P. 66635, Apodaca",
+    "Precio": 1950000,
+    "Ubicación": "Avenida Manuela Herrera #802-1Int. 802, Col. Jardines de Apodaca C.P. 66635, Apodaca",
+    "Superficie": 165,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-manuela-herrera-8021-jardines-de-apodaca-nuevo_leon-28591801",
+    "Lat": "25.7688247",
+    "Lng": "-100.2640704"
+  },
+  {
+    "Título": "Local en IRLANDA #s/n, Col. Las Palmas C.P. 66610, Apodaca",
+    "Precio": 11000000,
+    "Ubicación": "IRLANDA #s/n, Col. Las Palmas C.P. 66610, Apodaca",
+    "Superficie": 628,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-irlanda-sn-las-palmas-nuevo_leon-29802590",
+    "Lat": "25.7810396",
+    "Lng": "-100.2661371"
+  },
+  {
+    "Título": "Local en  , Col. Jardines de Apodaca C.P. 66635, Apodaca",
+    "Precio": 10500000,
+    "Ubicación": " , Col. Jardines de Apodaca C.P. 66635, Apodaca",
+    "Superficie": 300,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-jardines-de-apodaca-nuevo_leon-29698133",
+    "Lat": "25.7689457000",
+    "Lng": "-100.2665894000"
+  },
+  {
+    "Título": "Local en Avenida Manuela Herrera 802 #802, Col. Mujeres Ilustres C.P. 66635, Apodaca",
+    "Precio": 1950000,
+    "Ubicación": "Avenida Manuela Herrera 802 #802, Col. Mujeres Ilustres C.P. 66635, Apodaca",
+    "Superficie": 165,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-manuela-herrera-802-802-mujeres-ilustres-nuevo_leon-28523494",
+    "Lat": "25.757909",
+    "Lng": "-100.2487121"
+  },
+  {
+    "Título": "Local en  , Col. Bosques de Huinalá C.P. 66645, Apodaca",
+    "Precio": 4038400,
+    "Ubicación": " , Col. Bosques de Huinalá C.P. 66645, Apodaca",
+    "Superficie": 100,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-bosques-de-huinala-nuevo_leon-26640086",
+    "Lat": "25.7466879",
+    "Lng": "-100.1779889"
+  },
+  {
+    "Título": "Local en Linaza #500, Col. Valle de las Palmas Segundo Sector C.P. 66612, Apodaca",
+    "Precio": 4000000,
+    "Ubicación": "Linaza #500, Col. Valle de las Palmas Segundo Sector C.P. 66612, Apodaca",
+    "Superficie": 252,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-linaza-500-valle-de-las-palmas-segundo-sector-nuevo_leon-29205260",
+    "Lat": "25.7769751000",
+    "Lng": "-100.2656791000"
+  },
+  {
+    "Título": "Local en , Col. Prados de Santa Rosa C.P. 66610, Apodaca",
+    "Precio": 1980000,
+    "Ubicación": ", Col. Prados de Santa Rosa C.P. 66610, Apodaca",
+    "Superficie": 20,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-prados-de-santa-rosa-nuevo_leon-29916095",
+    "Lat": "25.7945583000",
+    "Lng": "-100.2248084000"
+  },
+  {
+    "Título": "Local en  , Col. Apodaca Centro C.P. 66600, Apodaca",
+    "Precio": 3200000,
+    "Ubicación": " , Col. Apodaca Centro C.P. 66600, Apodaca",
+    "Superficie": 50,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-apodaca-centro-nuevo_leon-7527631",
+    "Lat": "25.7786212000",
+    "Lng": "-100.1941399000"
+  },
+  {
+    "Título": "Local en calle, Col. Huinalá C.P. 66640, Apodaca",
+    "Precio": 6221600,
+    "Ubicación": "calle, Col. Huinalá C.P. 66640, Apodaca",
+    "Superficie": 155,
+    "Enlace": "https://www.propiedades.com/inmuebles/local-en-venta-calle-huinala-nuevo-leon-30138916",
+    "Lat": "25.7456791",
+    "Lng": "-100.1633228"
+  },
+  {
+    "Título": "Local en Huinala, Col. Balcones de Huinalá C.P. 66640, Apodaca",
+    "Precio": 7130000,
+    "Ubicación": "Huinala, Col. Balcones de Huinalá C.P. 66640, Apodaca",
+    "Superficie": 120,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-huinala-balcones-de-huinala-nuevo_leon-28250904",
+    "Lat": "25.7456791000",
+    "Lng": "-100.1633228000"
+  },
+  {
+    "Título": "Local en  , Col. Titán C.P. 66633, Apodaca",
+    "Precio": 2461860,
+    "Ubicación": " , Col. Titán C.P. 66633, Apodaca",
+    "Superficie": 44,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-titan-nuevo_leon-28948421",
+    "Lat": "25.7410038944",
+    "Lng": "-100.2184058170"
+  },
+  {
+    "Título": "Local en Huinalá, Col. Huinalá C.P. 66640, Apodaca",
+    "Precio": 8280000,
+    "Ubicación": "Huinalá, Col. Huinalá C.P. 66640, Apodaca",
+    "Superficie": 400,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-huinala-huinala-nuevo_leon-28751447",
+    "Lat": "25.7456800000",
+    "Lng": "-100.1633220000"
+  },
+  {
+    "Título": "Local en Av Miguel Alemán, Col. Apodaca Centro C.P. 66600, Apodaca",
+    "Precio": 9762297,
+    "Ubicación": "Av Miguel Alemán, Col. Apodaca Centro C.P. 66600, Apodaca",
+    "Superficie": 142,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-av-miguel-aleman-apodaca-centro-nuevo_leon-26576825",
+    "Lat": "25.771949",
+    "Lng": "-100.1885294"
+  },
+  {
+    "Título": "Local en Av Concordia, Col. Prados Residencial C.P. 66640, Apodaca",
+    "Precio": 1690000,
+    "Ubicación": "Av Concordia, Col. Prados Residencial C.P. 66640, Apodaca",
+    "Superficie": 19,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-av-concordia-prados-residencial-nuevo_leon-27217391",
+    "Lat": "25.745843",
+    "Lng": "-100.1773047"
+  },
+  {
+    "Título": "Local en , Col. Misión de Huinalá 1S 1E C.P. 66646, Apodaca",
+    "Precio": 1800000,
+    "Ubicación": ", Col. Misión de Huinalá 1S 1E C.P. 66646, Apodaca",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-mision-de-huinala-1s-1e-nuevo_leon-30141109",
+    "Lat": "25.7565754000",
+    "Lng": "-100.1574661000"
+  },
+  {
+    "Título": "Local en Prados de Santa Rosa, Col. Prados de Santa Rosa C.P. 66610, Apodaca",
+    "Precio": 6000000,
+    "Ubicación": "Prados de Santa Rosa, Col. Prados de Santa Rosa C.P. 66610, Apodaca",
+    "Superficie": 116,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-prados-de-santa-rosa-prados-de-santa-rosa-nuevo_leon-29539191",
+    "Lat": "25.8028430000",
+    "Lng": "-100.2276380000"
+  },
+  {
+    "Título": "Local en Prados, Col. Prados de Santa Rosa C.P. 66610, Apodaca",
+    "Precio": 1160000,
+    "Ubicación": "Prados, Col. Prados de Santa Rosa C.P. 66610, Apodaca",
+    "Superficie": 6,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-prados-prados-de-santa-rosa-nuevo_leon-18482516",
+    "Lat": "25.8025746",
+    "Lng": "-100.2277709"
+  },
+  {
+    "Título": "Local en , Col. Industrial Apodaca C.P. 66614, Apodaca",
+    "Precio": 3031170,
+    "Ubicación": ", Col. Industrial Apodaca C.P. 66614, Apodaca",
+    "Superficie": 43,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-industrial-apodaca-nuevo_leon-30010000",
+    "Lat": "25.7424068000",
+    "Lng": "-100.2168625000"
+  },
+  {
+    "Título": "Local en MIGUEL ALEMAN #120Int. LOCAL LLB-1 LOBBY, Col. El Milagro C.P. 66634, Apodaca",
+    "Precio": 2600000,
+    "Ubicación": "MIGUEL ALEMAN #120Int. LOCAL LLB-1 LOBBY, Col. El Milagro C.P. 66634, Apodaca",
+    "Superficie": 37,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-miguel-aleman-120-el-milagro-nuevo_leon-25795137",
+    "Lat": "25.753464706292505",
+    "Lng": "-100.19781551324462"
+  },
+  {
+    "Título": "Local en Palmas 100, Col. Jardines de Apodaca C.P. 66635, Apodaca",
+    "Precio": 10500000,
+    "Ubicación": "Palmas 100, Col. Jardines de Apodaca C.P. 66635, Apodaca",
+    "Superficie": 628,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-palmas-100-jardines-de-apodaca-nuevo_leon-28988691",
+    "Lat": "25.7719653000",
+    "Lng": "-100.2624661000"
+  },
+  {
+    "Título": "Local en Miguel Hidalgo y Costilla, Col. Apodaca Centro C.P. 66600, Apodaca",
+    "Precio": 1991680,
+    "Ubicación": "Miguel Hidalgo y Costilla, Col. Apodaca Centro C.P. 66600, Apodaca",
+    "Superficie": 51,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-miguel-hidalgo-y-costilla-apodaca-centro-nuevo_leon-25592281",
+    "Lat": "25.7838408000",
+    "Lng": "-100.1829762000"
+  },
+  {
+    "Título": "Local en Prados de Santa Rosa, Col. Prados de Santa Rosa C.P. 66610, Apodaca",
+    "Precio": 900000,
+    "Ubicación": "Prados de Santa Rosa, Col. Prados de Santa Rosa C.P. 66610, Apodaca",
+    "Superficie": 6,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-prados-de-santa-rosa-prados-de-santa-rosa-nuevo_leon-29225870",
+    "Lat": "25.8028430000",
+    "Lng": "-100.2276380000"
+  },
+  {
+    "Título": "Local en Almacentro, Col. Almacentro C.P. 66637, Apodaca",
+    "Precio": 11645000,
+    "Ubicación": "Almacentro, Col. Almacentro C.P. 66637, Apodaca",
+    "Superficie": 274,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-almacentro-almacentro-nuevo_leon-27746228",
+    "Lat": "25.7584028",
+    "Lng": "-100.192026"
+  },
+  {
+    "Título": "Local en , Col. Homero Sepúlveda C.P. 66600, Apodaca",
+    "Precio": 1982713,
+    "Ubicación": ", Col. Homero Sepúlveda C.P. 66600, Apodaca",
+    "Superficie": 44,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-homero-sepulveda-nuevo_leon-30058022",
+    "Lat": "25.7424068000",
+    "Lng": "-100.2168625000"
+  },
+  {
+    "Título": "Local en ave los fresnos  #000Int. 0000, Col. Los Fresnos Segundo Sector C.P. 66635, Apodaca",
+    "Precio": 3450000,
+    "Ubicación": "ave los fresnos  #000Int. 0000, Col. Los Fresnos Segundo Sector C.P. 66635, Apodaca",
+    "Superficie": 300,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-ave-los-fresnos-000-los-fresnos-segundo-sector-nuevo_leon-28850282",
+    "Lat": "25.768819054783133",
+    "Lng": "-100.25203012513123"
+  },
+  {
+    "Título": "Local en Carretera Mezquital Santa Rosa #Local 203, Col. Prados de Santa Rosa C.P. 66610, Apodaca",
+    "Precio": 1100000,
+    "Ubicación": "Carretera Mezquital Santa Rosa #Local 203, Col. Prados de Santa Rosa C.P. 66610, Apodaca",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-carretera-mezquital-santa-rosa-local-203-prados-de-santa-rosa-nuevo_leon-27848286",
+    "Lat": "25.7945583",
+    "Lng": "-100.2248084"
+  },
+  {
+    "Título": "Local en Dream Lagoons, Col. Parque Industrial Apodaca C.P. 66633, Apodaca",
+    "Precio": 2400000,
+    "Ubicación": "Dream Lagoons, Col. Parque Industrial Apodaca C.P. 66633, Apodaca",
+    "Superficie": 50,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-dream-lagoons-parque-industrial-apodaca-nuevo_leon-28400351",
+    "Lat": "25.7672834",
+    "Lng": "-100.2117988"
+  },
+  {
+    "Título": "Local en Avenida Del Teléfono, Col. Parque Industrial Milimex C.P. 66637, Apodaca",
+    "Precio": 4603000,
+    "Ubicación": "Avenida Del Teléfono, Col. Parque Industrial Milimex C.P. 66637, Apodaca",
+    "Superficie": 58,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-del-telefono-parque-industrial-milimex-nuevo_leon-29487642",
+    "Lat": "25.7524675",
+    "Lng": "-100.1983353"
+  },
+  {
+    "Título": "Local en ., Col. Apodaca Centro C.P. 66600, Apodaca",
+    "Precio": 3201203,
+    "Ubicación": "., Col. Apodaca Centro C.P. 66600, Apodaca",
+    "Superficie": 44,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-apodaca-centro-nuevo_leon-28019704",
+    "Lat": "25.7786212",
+    "Lng": "-100.1941399"
+  },
+  {
+    "Título": "Local en Prados de Santa Rosa, Col. Prados de Santa Rosa C.P. 66610, Apodaca",
+    "Precio": 800000,
+    "Ubicación": "Prados de Santa Rosa, Col. Prados de Santa Rosa C.P. 66610, Apodaca",
+    "Superficie": 6,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-prados-de-santa-rosa-prados-de-santa-rosa-nuevo_leon-28876545",
+    "Lat": "25.8081930000",
+    "Lng": "-100.2238920000"
+  },
+  {
+    "Título": "Local en  , Col. Prados de La Cieneguita C.P. 66636, Apodaca",
+    "Precio": 2200000,
+    "Ubicación": " , Col. Prados de La Cieneguita C.P. 66636, Apodaca",
+    "Superficie": 60,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-prados-de-la-cieneguita-nuevo_leon-21923209",
+    "Lat": "25.7830404000",
+    "Lng": "-100.2558064000"
+  },
+  {
+    "Título": "Local en Prados de Santa Rosa, Col. Prados de Santa Rosa C.P. 66610, Apodaca",
+    "Precio": 1100000,
+    "Ubicación": "Prados de Santa Rosa, Col. Prados de Santa Rosa C.P. 66610, Apodaca",
+    "Superficie": 6,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-prados-de-santa-rosa-prados-de-santa-rosa-nuevo_leon-27901681",
+    "Lat": "25.8028430000",
+    "Lng": "-100.2276380000"
+  },
+  {
+    "Título": "Local en  , Col. Bosques de San Miguel C.P. 66647, Apodaca",
+    "Precio": 1600000,
+    "Ubicación": " , Col. Bosques de San Miguel C.P. 66647, Apodaca",
+    "Superficie": 118,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-bosques-de-san-miguel-nuevo_leon-27939270",
+    "Lat": "25.7043898",
+    "Lng": "-100.1457836"
+  },
+  {
+    "Título": "Local en , Col. Privadas Borneo C.P. 66632, Apodaca",
+    "Precio": 8246000,
+    "Ubicación": ", Col. Privadas Borneo C.P. 66632, Apodaca",
+    "Superficie": 217,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-privadas-borneo-nuevo_leon-29386699",
+    "Lat": "25.7734174000",
+    "Lng": "-100.2114638000"
+  },
+  {
+    "Título": "Local en  , Col. Industrial Apodaca C.P. 66614, Apodaca",
+    "Precio": 28000000,
+    "Ubicación": " , Col. Industrial Apodaca C.P. 66614, Apodaca",
+    "Superficie": 2800,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-industrial-apodaca-nuevo_leon-29416386",
+    "Lat": "25.7770155000",
+    "Lng": "-100.2030015000"
+  },
+  {
+    "Título": "Local en Carretera Mezquital - Santa Rosa, Col. Antigua Santa Rosa C.P. 66610, Apodaca",
+    "Precio": 1220000,
+    "Ubicación": "Carretera Mezquital - Santa Rosa, Col. Antigua Santa Rosa C.P. 66610, Apodaca",
+    "Superficie": 6,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-carretera-mezquital-santa-rosa-antigua-santa-rosa-nuevo_leon-27217393",
+    "Lat": "25.7786272000",
+    "Lng": "-100.2262207000"
+  },
+  {
+    "Título": "Local en BAMBOO, Col. La Encarnación C.P. 66633, Apodaca",
+    "Precio": 4500000,
+    "Ubicación": "BAMBOO, Col. La Encarnación C.P. 66633, Apodaca",
+    "Superficie": 0,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-bamboo-la-encarnacion-nuevo_leon-28943385",
+    "Lat": "25.771553",
+    "Lng": "-100.2653543"
+  },
+  {
+    "Título": "Local en Carretera Mezquital Santa Rosa #6500, Col. Prados de Santa Rosa C.P. 66610, Apodaca",
+    "Precio": 750000,
+    "Ubicación": "Carretera Mezquital Santa Rosa #6500, Col. Prados de Santa Rosa C.P. 66610, Apodaca",
+    "Superficie": 20,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-carretera-mezquital-santa-rosa-6500-prados-de-santa-rosa-nuevo_leon-26172422",
+    "Lat": "25.8034450000",
+    "Lng": "-100.2239930000"
+  },
+  {
+    "Título": "Local en  , Col. Apodaca Centro C.P. 66600, Apodaca",
+    "Precio": 2200000,
+    "Ubicación": " , Col. Apodaca Centro C.P. 66600, Apodaca",
+    "Superficie": 50,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-apodaca-centro-nuevo_leon-29297271",
+    "Lat": "25.7776212000",
+    "Lng": "-100.1951399000"
+  },
+  {
+    "Título": "Local en Avenida Del Teléfono, Col. Parque Industrial Milimex C.P. 66637, Apodaca",
+    "Precio": 7793200,
+    "Ubicación": "Avenida Del Teléfono, Col. Parque Industrial Milimex C.P. 66637, Apodaca",
+    "Superficie": 155,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-del-telefono-parque-industrial-milimex-nuevo_leon-29487637",
+    "Lat": "25.7524675",
+    "Lng": "-100.1983353"
+  },
+  {
+    "Título": "Local en Carretera Mezquital Santa Rosa, Col. Prados de Santa Rosa C.P. 66610, Apodaca",
+    "Precio": 950000,
+    "Ubicación": "Carretera Mezquital Santa Rosa, Col. Prados de Santa Rosa C.P. 66610, Apodaca",
+    "Superficie": 6,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-carretera-mezquital-santa-rosa-prados-de-santa-rosa-nuevo_leon-27883942",
+    "Lat": "25.8081945000",
+    "Lng": "-100.2238937000"
+  },
+  {
+    "Título": "Local en Zafiro 202 #202, Col. Joyas Del Pedregal C.P. 66648, Apodaca",
+    "Precio": 4100000,
+    "Ubicación": "Zafiro 202 #202, Col. Joyas Del Pedregal C.P. 66648, Apodaca",
+    "Superficie": 290,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-zafiro-202-202-joyas-del-pedregal-nuevo_leon-27269626",
+    "Lat": "25.7330327",
+    "Lng": "-100.169618"
+  },
+  {
+    "Título": "Local en Famsa los Fresnos, Col. Jardines de Apodaca C.P. 66635, Apodaca",
+    "Precio": 110000000,
+    "Ubicación": "Famsa los Fresnos, Col. Jardines de Apodaca C.P. 66635, Apodaca",
+    "Superficie": 3000,
+    "Enlace": "https://www.propiedades.com/inmuebles/local-en-venta-jardines-de-apodaca-nuevo-leon-27813037",
+    "Lat": "25.7719653",
+    "Lng": "-100.2624661"
+  },
+  {
+    "Título": "Local en  , Col. Misión Real I C.P. 66640, Apodaca",
+    "Precio": 810000,
+    "Ubicación": " , Col. Misión Real I C.P. 66640, Apodaca",
+    "Superficie": 6,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-mision-real-i-nuevo_leon-26490421",
+    "Lat": "25.7904377",
+    "Lng": "-100.2649198"
+  }
+]

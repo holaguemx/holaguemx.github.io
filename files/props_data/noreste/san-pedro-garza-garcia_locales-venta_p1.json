@@ -1,0 +1,425 @@
+[
+  {
+    "Título": "Local en Avenida Real San Agustin 302 #302, Col. Zona San Agustín C.P. 66260, San Pedro Garza García",
+    "Precio": 12000000,
+    "Ubicación": "Avenida Real San Agustin 302 #302, Col. Zona San Agustín C.P. 66260, San Pedro Garza García",
+    "Superficie": 106,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-real-san-agustin-302-302-zona-san-agustin-nuevo_leon-30093837",
+    "Lat": "25.6488949",
+    "Lng": "-100.3399671"
+  },
+  {
+    "Título": "Local en Calzada San Pedro 202, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 3780000,
+    "Ubicación": "Calzada San Pedro 202, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 32,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-calzada-san-pedro-202-del-valle-nuevo_leon-29214397",
+    "Lat": "25.6549376",
+    "Lng": "-100.3715961"
+  },
+  {
+    "Título": "Local en Av. José Vasconcelos, Col. San Pedro Garza Garcia Centro C.P. 66200, San Pedro Garza García",
+    "Precio": 4830000,
+    "Ubicación": "Av. José Vasconcelos, Col. San Pedro Garza Garcia Centro C.P. 66200, San Pedro Garza García",
+    "Superficie": 67,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-av-jose-vasconcelos-san-pedro-garza-garcia-centro-nuevo_leon-28549846",
+    "Lat": "25.6524105",
+    "Lng": "-100.3783964"
+  },
+  {
+    "Título": "Local en Calzada San Pedro, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 7500000,
+    "Ubicación": "Calzada San Pedro, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 71,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-calzada-san-pedro-del-valle-nuevo_leon-28188496",
+    "Lat": "25.6594396",
+    "Lng": "-100.3698076"
+  },
+  {
+    "Título": "Local en Avenida Lázaro Cárdenas y paseo olga, Col. Hacienda de La Sierra C.P. 66260, San Pedro Garza García",
+    "Precio": 9000000,
+    "Ubicación": "Avenida Lázaro Cárdenas y paseo olga, Col. Hacienda de La Sierra C.P. 66260, San Pedro Garza García",
+    "Superficie": 231,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-lazaro-cardenas-y-paseo-olga-hacienda-de-la-sierra-nuevo_leon-29500992",
+    "Lat": "25.643058999999997",
+    "Lng": "-100.3194279"
+  },
+  {
+    "Título": "Local en Avenida Vasconcelos, Col. San Gabriel C.P. 66230, San Pedro Garza García",
+    "Precio": 7424805,
+    "Ubicación": "Avenida Vasconcelos, Col. San Gabriel C.P. 66230, San Pedro Garza García",
+    "Superficie": 88,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-vasconcelos-san-gabriel-nuevo_leon-18395974",
+    "Lat": "25.6524105",
+    "Lng": "-100.3783964"
+  },
+  {
+    "Título": "Local en AV.RICARDO MARGAIN , ESQUINA CON NOGALES #335, Col. Santa Engracia C.P. 66267, San Pedro Garza García",
+    "Precio": 12200000,
+    "Ubicación": "AV.RICARDO MARGAIN , ESQUINA CON NOGALES #335, Col. Santa Engracia C.P. 66267, San Pedro Garza García",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avricardo-margain-esquina-con-nogales-335-santa-engracia-nuevo_leon-29905857",
+    "Lat": "25.6568997",
+    "Lng": "-100.3525811"
+  },
+  {
+    "Título": "Local en  , Col. Tampiquito C.P. 66240, San Pedro Garza García",
+    "Precio": 8600000,
+    "Ubicación": " , Col. Tampiquito C.P. 66240, San Pedro Garza García",
+    "Superficie": 173,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-tampiquito-nuevo_leon-27218069",
+    "Lat": "25.6533372",
+    "Lng": "-100.382777"
+  },
+  {
+    "Título": "Local en Av. del Roble 660Valle del Campestre66265 San Pedro Garza GarcíaN.L., Col. Valle Del Campestre C.P. 66265, San Pedro Garza García",
+    "Precio": 57852176,
+    "Ubicación": "Av. del Roble 660Valle del Campestre66265 San Pedro Garza GarcíaN.L., Col. Valle Del Campestre C.P. 66265, San Pedro Garza García",
+    "Superficie": 514,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-av-del-roble-660valle-del-campestre66265-san-pedro-garza-garcianl-valle-del-campestre-nuevo_leon-30129717",
+    "Lat": "25.6500114",
+    "Lng": "-100.3559108"
+  },
+  {
+    "Título": "Local en  , Col. San Pedro Garza Garcia Centro C.P. 66200, San Pedro Garza García",
+    "Precio": 42000000,
+    "Ubicación": " , Col. San Pedro Garza Garcia Centro C.P. 66200, San Pedro Garza García",
+    "Superficie": 320,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-san-pedro-garza-garcia-centro-nuevo_leon-28859526",
+    "Lat": "25.6538075511",
+    "Lng": "-100.3595454483"
+  },
+  {
+    "Título": "Local en Calzada San Pedro, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 9619000,
+    "Ubicación": "Calzada San Pedro, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 96,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-calzada-san-pedro-del-valle-nuevo_leon-21382973",
+    "Lat": "25.6594396",
+    "Lng": "-100.3698076"
+  },
+  {
+    "Título": "Local en San Pedro, Col. San Pedro C.P. 66230, San Pedro Garza García",
+    "Precio": 7300000,
+    "Ubicación": "San Pedro, Col. San Pedro C.P. 66230, San Pedro Garza García",
+    "Superficie": 98,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-san-pedro-san-pedro-nuevo_leon-27991744",
+    "Lat": "25.6797838",
+    "Lng": "-100.4168299"
+  },
+  {
+    "Título": "Local en  , Col. Residencial San Agustín Primer Sector C.P. 66260, San Pedro Garza García",
+    "Precio": 9696650,
+    "Ubicación": " , Col. Residencial San Agustín Primer Sector C.P. 66260, San Pedro Garza García",
+    "Superficie": 102,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-residencial-san-agustin-primer-sector-nuevo_leon-7475566",
+    "Lat": "25.6522888",
+    "Lng": "-100.3447414"
+  },
+  {
+    "Título": "Local en Gomez Morin #889, Col. Del Valle Sect Norte C.P. 66268, San Pedro Garza García",
+    "Precio": 36000000,
+    "Ubicación": "Gomez Morin #889, Col. Del Valle Sect Norte C.P. 66268, San Pedro Garza García",
+    "Superficie": 253,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-gomez-morin-889-del-valle-sect-norte-nuevo_leon-28724670",
+    "Lat": "25.6606003",
+    "Lng": "-100.3556524"
+  },
+  {
+    "Título": "Local en ,, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 6000000,
+    "Ubicación": ",, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 40,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-del-valle-nuevo_leon-29917707",
+    "Lat": "25.6623353",
+    "Lng": "-100.3694401"
+  },
+  {
+    "Título": "Local en Real de San Agustin, Col. Real de San Agustin C.P. 66278, San Pedro Garza García",
+    "Precio": 6400000,
+    "Ubicación": "Real de San Agustin, Col. Real de San Agustin C.P. 66278, San Pedro Garza García",
+    "Superficie": 77,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-real-de-san-agustin-real-de-san-agustin-nuevo_leon-26620703",
+    "Lat": "25.6439662",
+    "Lng": "-100.3347035"
+  },
+  {
+    "Título": "Local en rio orinoco, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 41800000,
+    "Ubicación": "rio orinoco, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 498,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-rio-orinoco-del-valle-nuevo_leon-29443488",
+    "Lat": "25.6601221",
+    "Lng": "-100.3677997"
+  },
+  {
+    "Título": "Local en  , Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 4750000,
+    "Ubicación": " , Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 41,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-del-valle-nuevo_leon-27920663",
+    "Lat": "25.6623353",
+    "Lng": "-100.3694401"
+  },
+  {
+    "Título": "Local en  , Col. Residencial San Agustín Segundo Sector C.P. 66260, San Pedro Garza García",
+    "Precio": 13907904,
+    "Ubicación": " , Col. Residencial San Agustín Segundo Sector C.P. 66260, San Pedro Garza García",
+    "Superficie": 170,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-residencial-san-agustin-segundo-sector-nuevo_leon-27342390",
+    "Lat": "25.6522888",
+    "Lng": "-100.3447414"
+  },
+  {
+    "Título": "Local en  , Col. Privanza Fundadores C.P. 66278, San Pedro Garza García",
+    "Precio": 4100000,
+    "Ubicación": " , Col. Privanza Fundadores C.P. 66278, San Pedro Garza García",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-privanza-fundadores-nuevo_leon-17883559",
+    "Lat": "25.64059",
+    "Lng": "-100.3216228"
+  },
+  {
+    "Título": "Local en Calzada San Pedro, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 7500000000,
+    "Ubicación": "Calzada San Pedro, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 71,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-calzada-san-pedro-del-valle-nuevo_leon-30108856",
+    "Lat": "25.6593",
+    "Lng": "-100.369165"
+  },
+  {
+    "Título": "Local en Calzada del valle, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 9000000,
+    "Ubicación": "Calzada del valle, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 80,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-calzada-del-valle-del-valle-nuevo_leon-29960218",
+    "Lat": "25.6572328",
+    "Lng": "-100.3709217"
+  },
+  {
+    "Título": "Local en Zozaya #114, Col. Santa Engracia C.P. 66267, San Pedro Garza García",
+    "Precio": 36000000,
+    "Ubicación": "Zozaya #114, Col. Santa Engracia C.P. 66267, San Pedro Garza García",
+    "Superficie": 550,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-zozaya-114-santa-engracia-nuevo_leon-27804089",
+    "Lat": "25.6563235",
+    "Lng": "-100.3511929"
+  },
+  {
+    "Título": "Local en Del valle, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 7360000,
+    "Ubicación": "Del valle, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 84,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-del-valle-del-valle-nuevo_leon-26973693",
+    "Lat": "25.6623353",
+    "Lng": "-100.3694401"
+  },
+  {
+    "Título": "Local en Zona Loma Larga Oriente, Col. Zona Loma Larga Oriente C.P. 66266, San Pedro Garza García",
+    "Precio": 5300000,
+    "Ubicación": "Zona Loma Larga Oriente, Col. Zona Loma Larga Oriente C.P. 66266, San Pedro Garza García",
+    "Superficie": 104,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-zona-loma-larga-oriente-zona-loma-larga-oriente-nuevo_leon-26791094",
+    "Lat": "25.6545973",
+    "Lng": "-100.3343527"
+  },
+  {
+    "Título": "Local en  , Col. Zona Gómez Morin C.P. 66259, San Pedro Garza García",
+    "Precio": 27000000,
+    "Ubicación": " , Col. Zona Gómez Morin C.P. 66259, San Pedro Garza García",
+    "Superficie": 134,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-zona-gomez-morin-nuevo_leon-28471964",
+    "Lat": "25.6467719000",
+    "Lng": "-100.3598952000"
+  },
+  {
+    "Título": "Local en Torre Elysium, Col. Zona Valle Oriente Sur C.P. 66278, San Pedro Garza García",
+    "Precio": 5658000,
+    "Ubicación": "Torre Elysium, Col. Zona Valle Oriente Sur C.P. 66278, San Pedro Garza García",
+    "Superficie": 92,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-torre-elysium-zona-valle-oriente-sur-nuevo_leon-28227488",
+    "Lat": "25.6265106",
+    "Lng": "-100.3048674"
+  },
+  {
+    "Título": "Local en  , Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 4500000,
+    "Ubicación": " , Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 80,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-del-valle-nuevo_leon-30046875",
+    "Lat": "25.6515929000",
+    "Lng": "-100.3611661000"
+  },
+  {
+    "Título": "Local en Rio Grijalba, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 7700000,
+    "Ubicación": "Rio Grijalba, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 73,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-rio-grijalba-del-valle-nuevo_leon-30108171",
+    "Lat": "25.6577104",
+    "Lng": "-100.3686678"
+  },
+  {
+    "Título": "Local en Del Valle, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 341721600,
+    "Ubicación": "Del Valle, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 2135,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-del-valle-del-valle-nuevo_leon-30059596",
+    "Lat": "25.6623353",
+    "Lng": "-100.3694401"
+  },
+  {
+    "Título": "Local en Av. del Roble, Col. Zona Valle Oriente Norte C.P. 66266, San Pedro Garza García",
+    "Precio": 29345400,
+    "Ubicación": "Av. del Roble, Col. Zona Valle Oriente Norte C.P. 66266, San Pedro Garza García",
+    "Superficie": 138,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-av-del-roble-zona-valle-oriente-norte-nuevo_leon-22641002",
+    "Lat": "25.6502319",
+    "Lng": "-100.353517"
+  },
+  {
+    "Título": "Local en Calzada San Pedro, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 7500000,
+    "Ubicación": "Calzada San Pedro, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 72,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-calzada-san-pedro-del-valle-nuevo_leon-30135866",
+    "Lat": "25.6593",
+    "Lng": "-100.369165"
+  },
+  {
+    "Título": "Local en San Pedro, Col. San Pedro C.P. 66230, San Pedro Garza García",
+    "Precio": 7659000,
+    "Ubicación": "San Pedro, Col. San Pedro C.P. 66230, San Pedro Garza García",
+    "Superficie": 102,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-san-pedro-san-pedro-nuevo_leon-27990748",
+    "Lat": "25.6797838",
+    "Lng": "-100.4168299"
+  },
+  {
+    "Título": "Local en Casco Urbano, Col. Zona Palo Blanco C.P. 66230, San Pedro Garza García",
+    "Precio": 10000000,
+    "Ubicación": "Casco Urbano, Col. Zona Palo Blanco C.P. 66230, San Pedro Garza García",
+    "Superficie": 250,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-casco-urbano-zona-palo-blanco-nuevo_leon-29025604",
+    "Lat": "25.6504619",
+    "Lng": "-100.3953763"
+  },
+  {
+    "Título": "Local en Av. José Vasconcelos, Col. San Pedro Garza Garcia Centro C.P. 66200, San Pedro Garza García",
+    "Precio": 8570931,
+    "Ubicación": "Av. José Vasconcelos, Col. San Pedro Garza Garcia Centro C.P. 66200, San Pedro Garza García",
+    "Superficie": 102,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-av-jose-vasconcelos-san-pedro-garza-garcia-centro-nuevo_leon-26348714",
+    "Lat": "25.6524105",
+    "Lng": "-100.3783964"
+  },
+  {
+    "Título": "Local en Real San Agustin, Col. Residencial San Agustín Primer Sector C.P. 66260, San Pedro Garza García",
+    "Precio": 13600000,
+    "Ubicación": "Real San Agustin, Col. Residencial San Agustín Primer Sector C.P. 66260, San Pedro Garza García",
+    "Superficie": 147,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-real-san-agustin-residencial-san-agustin-primer-sector-nuevo_leon-28844679",
+    "Lat": "25.6542604",
+    "Lng": "-100.3376438"
+  },
+  {
+    "Título": "Local en  , Col. Privada Sierra Madre C.P. 66250, San Pedro Garza García",
+    "Precio": 5523000,
+    "Ubicación": " , Col. Privada Sierra Madre C.P. 66250, San Pedro Garza García",
+    "Superficie": 29,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-privada-sierra-madre-nuevo_leon-22212104",
+    "Lat": "25.6487898",
+    "Lng": "-100.3645271"
+  },
+  {
+    "Título": "Local en Calzada San Pedro, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 5250000,
+    "Ubicación": "Calzada San Pedro, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 47,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-calzada-san-pedro-del-valle-nuevo_leon-29803755",
+    "Lat": "25.6593",
+    "Lng": "-100.369165"
+  },
+  {
+    "Título": "Local en San Alberto Ote., Col. Zona Loma Larga Oriente C.P. 66266, San Pedro Garza García",
+    "Precio": 6900000,
+    "Ubicación": "San Alberto Ote., Col. Zona Loma Larga Oriente C.P. 66266, San Pedro Garza García",
+    "Superficie": 103,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-san-alberto-ote-zona-loma-larga-oriente-nuevo_leon-27196808",
+    "Lat": "25.657219",
+    "Lng": "-100.3378621"
+  },
+  {
+    "Título": "Local en  , Col. Jardines Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 7500000,
+    "Ubicación": " , Col. Jardines Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 89,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-jardines-del-valle-nuevo_leon-27754155",
+    "Lat": "25.6598905",
+    "Lng": "-100.3729496"
+  },
+  {
+    "Título": "Local en  , Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 4500000,
+    "Ubicación": " , Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 52,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-del-valle-nuevo_leon-7476245",
+    "Lat": "25.6564843",
+    "Lng": "-100.3694401"
+  },
+  {
+    "Título": "Local en  , Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 4000000,
+    "Ubicación": " , Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 50,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-del-valle-nuevo_leon-7475382",
+    "Lat": "25.6564843",
+    "Lng": "-100.3694401"
+  },
+  {
+    "Título": "Local en Av. Gomez Morín, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 5300000,
+    "Ubicación": "Av. Gomez Morín, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 57,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-av-gomez-morin-del-valle-nuevo_leon-29896024",
+    "Lat": "25.6556186",
+    "Lng": "-100.3571379"
+  },
+  {
+    "Título": "Local en  , Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 8500000,
+    "Ubicación": " , Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 59,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-del-valle-nuevo_leon-25282181",
+    "Lat": "25.6564843",
+    "Lng": "-100.3694401"
+  },
+  {
+    "Título": "Local en  , Col. Residencial San Agustín Segundo Sector C.P. 66260, San Pedro Garza García",
+    "Precio": 10567440,
+    "Ubicación": " , Col. Residencial San Agustín Segundo Sector C.P. 66260, San Pedro Garza García",
+    "Superficie": 146,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-residencial-san-agustin-segundo-sector-nuevo_leon-27342391",
+    "Lat": "25.6522888",
+    "Lng": "-100.3447414"
+  },
+  {
+    "Título": "Local en Av. José Vasconcelos, Col. San Pedro Garza Garcia Centro C.P. 66200, San Pedro Garza García",
+    "Precio": 8044723,
+    "Ubicación": "Av. José Vasconcelos, Col. San Pedro Garza Garcia Centro C.P. 66200, San Pedro Garza García",
+    "Superficie": 76,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-av-jose-vasconcelos-san-pedro-garza-garcia-centro-nuevo_leon-26348712",
+    "Lat": "25.6524105",
+    "Lng": "-100.3783964"
+  },
+  {
+    "Título": "Local en R. de la Plata 125, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Precio": 18400000,
+    "Ubicación": "R. de la Plata 125, Col. Del Valle C.P. 66220, San Pedro Garza García",
+    "Superficie": 80,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-r-de-la-plata-125-del-valle-nuevo_leon-27990718",
+    "Lat": "25.6576626",
+    "Lng": "-100.3662146"
+  }
+]

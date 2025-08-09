@@ -1,0 +1,425 @@
+[
+  {
+    "Título": "Terreno comercial en Av.Churubusco #193, Col. Churubusco C.P. 64590, Monterrey",
+    "Precio": 262500000,
+    "Ubicación": "Av.Churubusco #193, Col. Churubusco C.P. 64590, Monterrey",
+    "Superficie": 25000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-avchurubusco-193-churubusco-nuevo_leon-28725885",
+    "Lat": "25.6847038",
+    "Lng": "-100.2682536"
+  },
+  {
+    "Título": "Terreno comercial en pino, Col. Campestre los Cristales C.P. 64990, Monterrey",
+    "Precio": 196850000,
+    "Ubicación": "pino, Col. Campestre los Cristales C.P. 64990, Monterrey",
+    "Superficie": 69504,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-pino-campestre-los-cristales-nuevo_leon-27751037",
+    "Lat": "25.5370442",
+    "Lng": "-100.2065353"
+  },
+  {
+    "Título": "Terreno comercial en , Col. Los Cristales C.P. 64985, Monterrey",
+    "Precio": 46182500,
+    "Ubicación": ", Col. Los Cristales C.P. 64985, Monterrey",
+    "Superficie": 3185,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-los-cristales-nuevo_leon-29758571",
+    "Lat": "25.7089481204",
+    "Lng": "-100.2976636263"
+  },
+  {
+    "Título": "Terreno comercial en Alamo, Col. Moderna C.P. 64530, Monterrey",
+    "Precio": 5298420,
+    "Ubicación": "Alamo, Col. Moderna C.P. 64530, Monterrey",
+    "Superficie": 882,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-alamo-moderna-nuevo_leon-26173869",
+    "Lat": "25.6989455",
+    "Lng": "-100.2866556"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Cumbres del Sol C.P. 64349, Monterrey",
+    "Precio": 24000000,
+    "Ubicación": " , Col. Cumbres del Sol C.P. 64349, Monterrey",
+    "Superficie": 2788,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-cumbres-del-sol-nuevo_leon-20845153",
+    "Lat": "25.7356937",
+    "Lng": "-100.3968179"
+  },
+  {
+    "Título": "Terreno comercial en Morones Prieto, Col. Buenos Aires C.P. 64800, Monterrey",
+    "Precio": 60000000,
+    "Ubicación": "Morones Prieto, Col. Buenos Aires C.P. 64800, Monterrey",
+    "Superficie": 4812,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-morones-prieto-buenos-aires-nuevo_leon-27621880",
+    "Lat": "25.6726407",
+    "Lng": "-100.2831682"
+  },
+  {
+    "Título": "Terreno comercial en Cumbres del Sol, Col. Cumbres del Sol C.P. 64349, Monterrey",
+    "Precio": 24000000,
+    "Ubicación": "Cumbres del Sol, Col. Cumbres del Sol C.P. 64349, Monterrey",
+    "Superficie": 2785,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-cumbres-del-sol-cumbres-del-sol-nuevo_leon-28883029",
+    "Lat": "25.7580391",
+    "Lng": "-100.426662"
+  },
+  {
+    "Título": "Terreno comercial en Las Cumbres, Col. Las Cumbres 1 Sector C.P. 64610, Monterrey",
+    "Precio": 18000000,
+    "Ubicación": "Las Cumbres, Col. Las Cumbres 1 Sector C.P. 64610, Monterrey",
+    "Superficie": 790,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-las-cumbres-las-cumbres-1-sector-nuevo_leon-25837575",
+    "Lat": "25.6970128",
+    "Lng": "-100.3558695"
+  },
+  {
+    "Título": "Terreno comercial en Los Cristales, Col. Los Cristales C.P. 64985, Monterrey",
+    "Precio": 45000000,
+    "Ubicación": "Los Cristales, Col. Los Cristales C.P. 64985, Monterrey",
+    "Superficie": 3200,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-los-cristales-los-cristales-nuevo_leon-27342933",
+    "Lat": "25.5378531",
+    "Lng": "-100.2053488"
+  },
+  {
+    "Título": "Terreno comercial en El Uro, Col. L Andana Residencial C.P. 64986, Monterrey",
+    "Precio": 26000000,
+    "Ubicación": "El Uro, Col. L Andana Residencial C.P. 64986, Monterrey",
+    "Superficie": 2000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-el-uro-l-andana-residencial-nuevo_leon-28364018",
+    "Lat": "25.5511095",
+    "Lng": "-100.2354798"
+  },
+  {
+    "Título": "Terreno comercial en Mitras Norte , Col. Mitras Norte C.P. 64320, Monterrey",
+    "Precio": 4390000,
+    "Ubicación": "Mitras Norte , Col. Mitras Norte C.P. 64320, Monterrey",
+    "Superficie": 366,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-mitras-norte-mitras-norte-nuevo_leon-27620116",
+    "Lat": "25.7107432",
+    "Lng": "-100.3469826"
+  },
+  {
+    "Título": "Terreno comercial en Monterrey Centro, Col. Monterrey Centro C.P. 64000, Monterrey",
+    "Precio": 35000000,
+    "Ubicación": "Monterrey Centro, Col. Monterrey Centro C.P. 64000, Monterrey",
+    "Superficie": 1043,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-monterrey-centro-monterrey-centro-nuevo_leon-26103907",
+    "Lat": "25.6780368",
+    "Lng": "-100.3133067"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Juana de Arco C.P. 64510, Monterrey",
+    "Precio": 35000000,
+    "Ubicación": " , Col. Juana de Arco C.P. 64510, Monterrey",
+    "Superficie": 0,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-juana-de-arco-nuevo_leon-29817694",
+    "Lat": "25.7049882000",
+    "Lng": "-100.2891100000"
+  },
+  {
+    "Título": "Terreno comercial en Moderna, Col. Moderna C.P. 64530, Monterrey",
+    "Precio": 1880000,
+    "Ubicación": "Moderna, Col. Moderna C.P. 64530, Monterrey",
+    "Superficie": 158,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-moderna-moderna-nuevo_leon-28191963",
+    "Lat": "25.6989455",
+    "Lng": "-100.2866556"
+  },
+  {
+    "Título": "Terreno comercial en Caracol, Col. Caracol C.P. 64810, Monterrey",
+    "Precio": 4500000,
+    "Ubicación": "Caracol, Col. Caracol C.P. 64810, Monterrey",
+    "Superficie": 432,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-caracol-caracol-nuevo_leon-28519039",
+    "Lat": "25.6653841",
+    "Lng": "-100.2957722"
+  },
+  {
+    "Título": "Terreno comercial en 16 de Septiembre, Col. Independencia C.P. 64720, Monterrey",
+    "Precio": 7500000,
+    "Ubicación": "16 de Septiembre, Col. Independencia C.P. 64720, Monterrey",
+    "Superficie": 569,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-16-de-septiembre-independencia-nuevo_leon-27966817",
+    "Lat": "25.6616384",
+    "Lng": "-100.316229"
+  },
+  {
+    "Título": "Terreno comercial en Centro #s/n, Col. Sarabia C.P. 64490, Monterrey",
+    "Precio": 40000000,
+    "Ubicación": "Centro #s/n, Col. Sarabia C.P. 64490, Monterrey",
+    "Superficie": 205,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-centro-sn-sarabia-nuevo_leon-29223977",
+    "Lat": "25.6866142",
+    "Lng": "-100.3161126"
+  },
+  {
+    "Título": "Terreno comercial en Mitras Norte , Col. Mitras Norte C.P. 64320, Monterrey",
+    "Precio": 4390000,
+    "Ubicación": "Mitras Norte , Col. Mitras Norte C.P. 64320, Monterrey",
+    "Superficie": 366,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-mitras-norte-mitras-norte-nuevo_leon-27632604",
+    "Lat": "25.7107432",
+    "Lng": "-100.3469826"
+  },
+  {
+    "Título": "Terreno comercial en Mitras Norte , Col. Terminal C.P. 64580, Monterrey",
+    "Precio": 4390000,
+    "Ubicación": "Mitras Norte , Col. Terminal C.P. 64580, Monterrey",
+    "Superficie": 366,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-mitras-norte-terminal-nuevo_leon-27594584",
+    "Lat": "25.685285",
+    "Lng": "-100.29677475"
+  },
+  {
+    "Título": "Terreno comercial en AZTLAN, Col. Barrio Topo Chico C.P. 64102, Monterrey",
+    "Precio": 8000000,
+    "Ubicación": "AZTLAN, Col. Barrio Topo Chico C.P. 64102, Monterrey",
+    "Superficie": 697,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-aztlan-barrio-topo-chico-nuevo_leon-16665133",
+    "Lat": "25.7848523",
+    "Lng": "-100.3817329"
+  },
+  {
+    "Título": "Terreno comercial en Acero, Col. Terminal C.P. 64580, Monterrey",
+    "Precio": 11000000,
+    "Ubicación": "Acero, Col. Terminal C.P. 64580, Monterrey",
+    "Superficie": 509,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-acero-terminal-nuevo_leon-27437297",
+    "Lat": "25.6893725",
+    "Lng": "-100.2978762"
+  },
+  {
+    "Título": "Terreno comercial en Acero, Col. San Bernabe C.P. 64100, Monterrey",
+    "Precio": 6200000,
+    "Ubicación": "Acero, Col. San Bernabe C.P. 64100, Monterrey",
+    "Superficie": 465,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-acero-san-bernabe-nuevo_leon-27536008",
+    "Lat": "25.7539695",
+    "Lng": "-100.3764593"
+  },
+  {
+    "Título": "Terreno comercial en , Col. Del Maestro C.P. 64180, Monterrey",
+    "Precio": 98000000,
+    "Ubicación": ", Col. Del Maestro C.P. 64180, Monterrey",
+    "Superficie": 8216,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-del-maestro-nuevo_leon-29694324",
+    "Lat": "",
+    "Lng": ""
+  },
+  {
+    "Título": "Terreno comercial en Av Ruiz Cortines  #111, Col. Coyoacán C.P. 64510, Monterrey",
+    "Precio": 3500000,
+    "Ubicación": "Av Ruiz Cortines  #111, Col. Coyoacán C.P. 64510, Monterrey",
+    "Superficie": 111,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-av-ruiz-cortines-111-coyoacan-nuevo_leon-28118946",
+    "Lat": "25.70381393523861",
+    "Lng": "-100.28283071244202"
+  },
+  {
+    "Título": "Terreno comercial en Chepevera, Col. Chepevera C.P. 64030, Monterrey",
+    "Precio": 12500000,
+    "Ubicación": "Chepevera, Col. Chepevera C.P. 64030, Monterrey",
+    "Superficie": 460,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-chepevera-chepevera-nuevo_leon-29889469",
+    "Lat": "25.6832535",
+    "Lng": "-100.3427724"
+  },
+  {
+    "Título": "Terreno comercial en , Col. Centro C.P. 64720, Monterrey",
+    "Precio": 8028000,
+    "Ubicación": ", Col. Centro C.P. 64720, Monterrey",
+    "Superficie": 446,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-centro-nuevo_leon-29745455",
+    "Lat": "25.7011677756",
+    "Lng": "-100.3587944833"
+  },
+  {
+    "Título": "Terreno comercial en Acero, Col. San Bernabe C.P. 64100, Monterrey",
+    "Precio": 7400000,
+    "Ubicación": "Acero, Col. San Bernabe C.P. 64100, Monterrey",
+    "Superficie": 574,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-acero-san-bernabe-nuevo_leon-27532942",
+    "Lat": "25.7539695",
+    "Lng": "-100.3764593"
+  },
+  {
+    "Título": "Terreno comercial en La Alianza Sector B, Col. La Alianza Sector B C.P. 64103, Monterrey",
+    "Precio": 45089000,
+    "Ubicación": "La Alianza Sector B, Col. La Alianza Sector B C.P. 64103, Monterrey",
+    "Superficie": 8198,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-la-alianza-sector-b-la-alianza-sector-b-nuevo_leon-27608348",
+    "Lat": "25.7745147",
+    "Lng": "-100.4064162"
+  },
+  {
+    "Título": "Terreno comercial en Garza Sada, Col. Residencial Mederos C.P. 64979, Monterrey",
+    "Precio": 53000000,
+    "Ubicación": "Garza Sada, Col. Residencial Mederos C.P. 64979, Monterrey",
+    "Superficie": 1271,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-garza-sada-residencial-mederos-nuevo_leon-28471167",
+    "Lat": "25.640249",
+    "Lng": "-100.2852746"
+  },
+  {
+    "Título": "Terreno comercial en Topo Chico, Col. Topo Chico C.P. 64260, Monterrey",
+    "Precio": 8000000,
+    "Ubicación": "Topo Chico, Col. Topo Chico C.P. 64260, Monterrey",
+    "Superficie": 700,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-topo-chico-topo-chico-nuevo_leon-25837498",
+    "Lat": "25.7339822",
+    "Lng": "-100.3287399"
+  },
+  {
+    "Título": "Terreno comercial en Acero, Col. San Bernabe C.P. 64100, Monterrey",
+    "Precio": 17200000,
+    "Ubicación": "Acero, Col. San Bernabe C.P. 64100, Monterrey",
+    "Superficie": 974,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-acero-san-bernabe-nuevo_leon-27532948",
+    "Lat": "25.7539695",
+    "Lng": "-100.3764593"
+  },
+  {
+    "Título": "Terreno comercial en Arteaga, Col. Centro C.P. 64720, Monterrey",
+    "Precio": 33000000,
+    "Ubicación": "Arteaga, Col. Centro C.P. 64720, Monterrey",
+    "Superficie": 1264,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-arteaga-centro-nuevo_leon-29106066",
+    "Lat": "25.6834076",
+    "Lng": "-100.3162895"
+  },
+  {
+    "Título": "Terreno comercial en El Uro, Col. L Andana Residencial C.P. 64986, Monterrey",
+    "Precio": 26000000,
+    "Ubicación": "El Uro, Col. L Andana Residencial C.P. 64986, Monterrey",
+    "Superficie": 2000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-el-uro-l-andana-residencial-nuevo_leon-28404062",
+    "Lat": "25.5551174",
+    "Lng": "-100.2333879"
+  },
+  {
+    "Título": "Terreno comercial en Del Norte #0, Col. Del Norte C.P. 64500, Monterrey",
+    "Precio": 320000000,
+    "Ubicación": "Del Norte #0, Col. Del Norte C.P. 64500, Monterrey",
+    "Superficie": 20000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-del-norte-del-norte-nuevo_leon-28876064",
+    "Lat": "25.7123781",
+    "Lng": "-100.303487"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Bosques de Valle Alto C.P. 64989, Monterrey",
+    "Precio": 2000000,
+    "Ubicación": " , Col. Bosques de Valle Alto C.P. 64989, Monterrey",
+    "Superficie": 123,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-bosques-de-valle-alto-nuevo_leon-22218660",
+    "Lat": "25.5846575",
+    "Lng": "-100.2579094"
+  },
+  {
+    "Título": "Terreno comercial en 1913, Col. Antonio I. Villarreal C.P. 64390, Monterrey",
+    "Precio": 5800000,
+    "Ubicación": "1913, Col. Antonio I. Villarreal C.P. 64390, Monterrey",
+    "Superficie": 410,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-1913-antonio-i-villarreal-nuevo_leon-28297883",
+    "Lat": "25.70361816894021",
+    "Lng": "-100.35803440417634"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. El Barro C.P. 64997, Monterrey",
+    "Precio": 2744245,
+    "Ubicación": " , Col. El Barro C.P. 64997, Monterrey",
+    "Superficie": 5000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-el-barro-nuevo_leon-27191928",
+    "Lat": "25.5193087",
+    "Lng": "-100.2088519"
+  },
+  {
+    "Título": "Terreno comercial en Mirador Residencial, Col. Mirador Residencial C.P. 64910, Monterrey",
+    "Precio": 27000000,
+    "Ubicación": "Mirador Residencial, Col. Mirador Residencial C.P. 64910, Monterrey",
+    "Superficie": 905,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-mirador-residencial-mirador-residencial-nuevo_leon-23828681",
+    "Lat": "25.6237282",
+    "Lng": "-100.2945001"
+  },
+  {
+    "Título": "Terreno comercial en El Uro, Col. El Uro C.P. 64986, Monterrey",
+    "Precio": 215265000,
+    "Ubicación": "El Uro, Col. El Uro C.P. 64986, Monterrey",
+    "Superficie": 12700,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-el-uro-el-uro-nuevo_leon-28169130",
+    "Lat": "25.5511095",
+    "Lng": "-100.2354798"
+  },
+  {
+    "Título": "Terreno comercial en Acero, Col. Acero C.P. 64580, Monterrey",
+    "Precio": 11000000,
+    "Ubicación": "Acero, Col. Acero C.P. 64580, Monterrey",
+    "Superficie": 509,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-acero-acero-nuevo_leon-25126810",
+    "Lat": "25.6832446",
+    "Lng": "-100.286305"
+  },
+  {
+    "Título": "Terreno comercial en ., Col. Cumbres del Valle C.P. 64650, Monterrey",
+    "Precio": 80000000,
+    "Ubicación": "., Col. Cumbres del Valle C.P. 64650, Monterrey",
+    "Superficie": 4809,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-cumbres-del-valle-nuevo_leon-28234664",
+    "Lat": "25.673295",
+    "Lng": "-100.3747044"
+  },
+  {
+    "Título": "Terreno comercial en Sarabia, Col. Sarabia C.P. 64490, Monterrey",
+    "Precio": 13000000,
+    "Ubicación": "Sarabia, Col. Sarabia C.P. 64490, Monterrey",
+    "Superficie": 915,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-sarabia-sarabia-nuevo_leon-28234149",
+    "Lat": "25.6881767",
+    "Lng": "-100.3147096"
+  },
+  {
+    "Título": "Terreno comercial en Ave Jose Alvarado #., Col. Buenos Aires C.P. 64800, Monterrey",
+    "Precio": 85000000,
+    "Ubicación": "Ave Jose Alvarado #., Col. Buenos Aires C.P. 64800, Monterrey",
+    "Superficie": 9958,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-ave-jose-alvarado-buenos-aires-nuevo_leon-24136192",
+    "Lat": "25.6645815",
+    "Lng": "-100.2842115"
+  },
+  {
+    "Título": "Terreno comercial en sin nombre, Col. Barrio Antiguo Cd. Solidaridad C.P. 64100, Monterrey",
+    "Precio": 29013000,
+    "Ubicación": "sin nombre, Col. Barrio Antiguo Cd. Solidaridad C.P. 64100, Monterrey",
+    "Superficie": 8646,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-sin-nombre-barrio-antiguo-cd-solidaridad-nuevo_leon-21842363",
+    "Lat": "25.6671762",
+    "Lng": "-100.3067121"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Monterrey Centro C.P. 64000, Monterrey",
+    "Precio": 11500000,
+    "Ubicación": " , Col. Monterrey Centro C.P. 64000, Monterrey",
+    "Superficie": 173,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-monterrey-centro-nuevo_leon-26962376",
+    "Lat": "25.6866746",
+    "Lng": "-100.3163442"
+  },
+  {
+    "Título": "Terreno comercial en Paris, Col. El Mirador Centro C.P. 64070, Monterrey",
+    "Precio": 23000000,
+    "Ubicación": "Paris, Col. El Mirador Centro C.P. 64070, Monterrey",
+    "Superficie": 1136,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-paris-el-mirador-centro-nuevo_leon-27291257",
+    "Lat": "25.6780368",
+    "Lng": "-100.3133067"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Talleres C.P. 64480, Monterrey",
+    "Precio": 4250000,
+    "Ubicación": " , Col. Talleres C.P. 64480, Monterrey",
+    "Superficie": 250,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-talleres-nuevo_leon-28711763",
+    "Lat": "25.6948270000",
+    "Lng": "-100.3353567000"
+  }
+]

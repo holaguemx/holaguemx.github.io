@@ -1,0 +1,29 @@
+[
+  {
+    "Título": "Terreno comercial en Avenida Ricardo Covarrubias , Col. Narvarte C.P. 64830, Monterrey",
+    "Precio": 19000000,
+    "Ubicación": "Avenida Ricardo Covarrubias , Col. Narvarte C.P. 64830, Monterrey",
+    "Superficie": 882,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-avenida-ricardo-covarrubias-narvarte-nuevo_leon-27734687",
+    "Lat": "25.652572956323688",
+    "Lng": "-100.28272857790985"
+  },
+  {
+    "Título": "Terreno comercial en Ruperto Martinez, Col. Monterrey Centro C.P. 64000, Monterrey",
+    "Precio": 78240000,
+    "Ubicación": "Ruperto Martinez, Col. Monterrey Centro C.P. 64000, Monterrey",
+    "Superficie": 2608,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-ruperto-martinez-monterrey-centro-nuevo_leon-29783446",
+    "Lat": "25.6779532",
+    "Lng": "-100.3228082"
+  },
+  {
+    "Título": "Terreno comercial en N/A, Col. Contry Tesoro C.P. 64850, Monterrey",
+    "Precio": 15500000,
+    "Ubicación": "N/A, Col. Contry Tesoro C.P. 64850, Monterrey",
+    "Superficie": 576,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-na-contry-tesoro-nuevo_leon-29741597",
+    "Lat": "25.648895",
+    "Lng": "-100.2738196"
+  }
+]

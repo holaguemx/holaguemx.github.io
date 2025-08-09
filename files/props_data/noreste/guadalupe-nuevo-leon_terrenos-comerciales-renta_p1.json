@@ -1,0 +1,416 @@
+[
+  {
+    "Título": "Terreno comercial en Guerrero, Col. Guadalupe Centro C.P. 67100, Guadalupe",
+    "Precio": 35000,
+    "Ubicación": "Guerrero, Col. Guadalupe Centro C.P. 67100, Guadalupe",
+    "Superficie": 950,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-guerrero-guadalupe-centro-nuevo_leon-27676018",
+    "Lat": "25.6775244",
+    "Lng": "-100.2586104"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Los Encinos C.P. 67165, Guadalupe",
+    "Precio": 60000,
+    "Ubicación": " , Col. Los Encinos C.P. 67165, Guadalupe",
+    "Superficie": 3000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-los-encinos-nuevo_leon-18575405",
+    "Lat": "25.6708737",
+    "Lng": "-100.1664462"
+  },
+  {
+    "Título": "Terreno comercial en Valle Soleado, Col. Valle Soleado C.P. 67130, Guadalupe",
+    "Precio": 50000,
+    "Ubicación": "Valle Soleado, Col. Valle Soleado C.P. 67130, Guadalupe",
+    "Superficie": 1000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-valle-soleado-valle-soleado-nuevo_leon-29423893",
+    "Lat": "25.7024628",
+    "Lng": "-100.1545547"
+  },
+  {
+    "Título": "Terreno comercial en Avenida Ruiz Cortines, Col. Ciudad Guadalupe Centro C.P. 67100, Guadalupe",
+    "Precio": 50000,
+    "Ubicación": "Avenida Ruiz Cortines, Col. Ciudad Guadalupe Centro C.P. 67100, Guadalupe",
+    "Superficie": 160,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-avenida-ruiz-cortines-ciudad-guadalupe-centro-nuevo_leon-29552908",
+    "Lat": "25.709688304659622",
+    "Lng": "-100.18143474177246"
+  },
+  {
+    "Título": "Terreno comercial en Carr Monterrey - Cadereyta Cuota, Col. Valle Soleado C.P. 67130, Guadalupe",
+    "Precio": 189000,
+    "Ubicación": "Carr Monterrey - Cadereyta Cuota, Col. Valle Soleado C.P. 67130, Guadalupe",
+    "Superficie": 4500,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-carr-monterrey-cadereyta-cuota-valle-soleado-nuevo_leon-27622027",
+    "Lat": "26.6691454",
+    "Lng": "-99.9715665"
+  },
+  {
+    "Título": "Terreno comercial en Nuevo San Rafael, Col. Nuevo San Rafael C.P. 67118, Guadalupe",
+    "Precio": 750000,
+    "Ubicación": "Nuevo San Rafael, Col. Nuevo San Rafael C.P. 67118, Guadalupe",
+    "Superficie": 7500,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-nuevo-san-rafael-nuevo-san-rafael-nuevo_leon-26223968",
+    "Lat": "25.6936660000",
+    "Lng": "-100.2060470000"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Tierra Propia Sector 1 C.P. 67197, Guadalupe",
+    "Precio": 130000,
+    "Ubicación": " , Col. Tierra Propia Sector 1 C.P. 67197, Guadalupe",
+    "Superficie": 2000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-tierra-propia-sector-1-nuevo_leon-23147729",
+    "Lat": "25.641494",
+    "Lng": "-100.1863482"
+  },
+  {
+    "Título": "Terreno comercial en Carr Monterrey - Cadereyta Cuota, Col. Valle Soleado C.P. 67130, Guadalupe",
+    "Precio": 516000,
+    "Ubicación": "Carr Monterrey - Cadereyta Cuota, Col. Valle Soleado C.P. 67130, Guadalupe",
+    "Superficie": 14758,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-carr-monterrey-cadereyta-cuota-valle-soleado-nuevo_leon-28286198",
+    "Lat": "26.6691454",
+    "Lng": "-99.9715665"
+  },
+  {
+    "Título": "Terreno comercial en Valle Soleado, Col. Valle Soleado C.P. 67130, Guadalupe",
+    "Precio": 100000,
+    "Ubicación": "Valle Soleado, Col. Valle Soleado C.P. 67130, Guadalupe",
+    "Superficie": 2000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-valle-soleado-valle-soleado-nuevo_leon-29409911",
+    "Lat": "25.7024628",
+    "Lng": "-100.1545547"
+  },
+  {
+    "Título": "Terreno comercial en Gral Plutarco Elias Calles, Col. Nueva Joya C.P. 67168, Guadalupe",
+    "Precio": 28000,
+    "Ubicación": "Gral Plutarco Elias Calles, Col. Nueva Joya C.P. 67168, Guadalupe",
+    "Superficie": 360,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-gral-plutarco-elias-calles-nueva-joya-nuevo_leon-26190227",
+    "Lat": "25.686528751206346",
+    "Lng": "-100.19327679039017"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Valle Soleado C.P. 67130, Guadalupe",
+    "Precio": 95000,
+    "Ubicación": " , Col. Valle Soleado C.P. 67130, Guadalupe",
+    "Superficie": 9800,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-valle-soleado-nuevo_leon-27366502",
+    "Lat": "25.7024628",
+    "Lng": "-100.1545547"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Benito Juárez C.P. 67144, Guadalupe",
+    "Precio": 59900,
+    "Ubicación": " , Col. Benito Juárez C.P. 67144, Guadalupe",
+    "Superficie": 856,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-benito-juarez-nuevo_leon-24295809",
+    "Lat": "25.699139",
+    "Lng": "-100.1906375"
+  },
+  {
+    "Título": "Terreno comercial en Valle Soleado, Col. Valle Soleado C.P. 67130, Guadalupe",
+    "Precio": 12500,
+    "Ubicación": "Valle Soleado, Col. Valle Soleado C.P. 67130, Guadalupe",
+    "Superficie": 500,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-valle-soleado-valle-soleado-nuevo_leon-29423879",
+    "Lat": "25.7024628",
+    "Lng": "-100.1545547"
+  },
+  {
+    "Título": "Terreno comercial en Alemania 86 2804 #2804, Col. México 86 C.P. 67194, Guadalupe",
+    "Precio": 60000,
+    "Ubicación": "Alemania 86 2804 #2804, Col. México 86 C.P. 67194, Guadalupe",
+    "Superficie": 1240,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-alemania-86-2804-2804-mexico-86-nuevo_leon-28643605",
+    "Lat": "25.651696825012984",
+    "Lng": "-100.19953409874189"
+  },
+  {
+    "Título": "Terreno comercial en AV. HIERRO, Col. Rincón de los Sabinos C.P. 67205, Guadalupe",
+    "Precio": 95000,
+    "Ubicación": "AV. HIERRO, Col. Rincón de los Sabinos C.P. 67205, Guadalupe",
+    "Superficie": 5807,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-av-hierro-rincon-de-los-sabinos-nuevo_leon-28175195",
+    "Lat": "25.6709000000",
+    "Lng": "-100.1630000000"
+  },
+  {
+    "Título": "Terreno comercial en Circunvalación Poniente, Col. Nuevo San Miguel C.P. 67116, Guadalupe",
+    "Precio": 14999,
+    "Ubicación": "Circunvalación Poniente, Col. Nuevo San Miguel C.P. 67116, Guadalupe",
+    "Superficie": 329,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-circunvalacion-poniente-nuevo-san-miguel-nuevo_leon-13798730",
+    "Lat": "25.6961476000",
+    "Lng": "-100.1883861000"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Lomas de San Miguel C.P. 67113, Guadalupe",
+    "Precio": 28000,
+    "Ubicación": " , Col. Lomas de San Miguel C.P. 67113, Guadalupe",
+    "Superficie": 150,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-lomas-de-san-miguel-nuevo_leon-28549785",
+    "Lat": "25.7205011000",
+    "Lng": "-100.1885360000"
+  },
+  {
+    "Título": "Terreno comercial en Plutarco Elias Calles y Hda Los Molinos, Col. Hacienda los Lerma Segundo Sector C.P. 67168, Guadalupe",
+    "Precio": 74300,
+    "Ubicación": "Plutarco Elias Calles y Hda Los Molinos, Col. Hacienda los Lerma Segundo Sector C.P. 67168, Guadalupe",
+    "Superficie": 1486,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-plutarco-elias-calles-y-hda-los-molinos-hacienda-los-lerma-segundo-sector-nuevo_leon-27969147",
+    "Lat": "25.6873523",
+    "Lng": "-100.1905825"
+  },
+  {
+    "Título": "Terreno comercial en AV. DE HIERRO, Col. Kalos C.P. 67205, Guadalupe",
+    "Precio": 85000,
+    "Ubicación": "AV. DE HIERRO, Col. Kalos C.P. 67205, Guadalupe",
+    "Superficie": 5807,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-av-de-hierro-kalos-nuevo_leon-28175183",
+    "Lat": "25.6670597",
+    "Lng": "-100.1577208"
+  },
+  {
+    "Título": "Terreno comercial en Privada San Carlos, Col. Privada San Carlos C.P. 67134, Guadalupe",
+    "Precio": 50000,
+    "Ubicación": "Privada San Carlos, Col. Privada San Carlos C.P. 67134, Guadalupe",
+    "Superficie": 1106,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-privada-san-carlos-privada-san-carlos-nuevo_leon-25634303",
+    "Lat": "25.6811005",
+    "Lng": "-100.1766289"
+  },
+  {
+    "Título": "Terreno comercial en Villa Olímpica, Col. Villa Olímpica C.P. 67183, Guadalupe",
+    "Precio": 47000,
+    "Ubicación": "Villa Olímpica, Col. Villa Olímpica C.P. 67183, Guadalupe",
+    "Superficie": 430,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-villa-olimpica-villa-olimpica-nuevo_leon-29875160",
+    "Lat": "25.6482140000",
+    "Lng": "-100.2075580000"
+  },
+  {
+    "Título": "Terreno comercial en HIDALGO #1000, Col. Guadalupe Centro C.P. 67100, Guadalupe",
+    "Precio": 135000,
+    "Ubicación": "HIDALGO #1000, Col. Guadalupe Centro C.P. 67100, Guadalupe",
+    "Superficie": 1350,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-hidalgo-1000-guadalupe-centro-nuevo_leon-29427599",
+    "Lat": "25.6661462",
+    "Lng": "-100.3119062"
+  },
+  {
+    "Título": "Terreno comercial en Prolongación Ruiz Cortines #2920, Col. Mixcoac C.P. 67113, Guadalupe",
+    "Precio": 320000,
+    "Ubicación": "Prolongación Ruiz Cortines #2920, Col. Mixcoac C.P. 67113, Guadalupe",
+    "Superficie": 4000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-prolongacion-ruiz-cortines-2920-mixcoac-nuevo_leon-29455204",
+    "Lat": "25.707677",
+    "Lng": "-100.179238"
+  },
+  {
+    "Título": "Terreno comercial en calle, Col. Valle Soleado C.P. 67130, Guadalupe",
+    "Precio": 210000,
+    "Ubicación": "calle, Col. Valle Soleado C.P. 67130, Guadalupe",
+    "Superficie": 15997,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-calle-valle-soleado-nuevo_leon-28744312",
+    "Lat": "25.6684533",
+    "Lng": "-100.1723877"
+  },
+  {
+    "Título": "Terreno comercial en Benito Juárez, Col. Benito Juárez C.P. 67144, Guadalupe",
+    "Precio": 120000,
+    "Ubicación": "Benito Juárez, Col. Benito Juárez C.P. 67144, Guadalupe",
+    "Superficie": 1600,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-benito-juarez-benito-juarez-nuevo_leon-29959841",
+    "Lat": "25.6694549",
+    "Lng": "-100.2152879"
+  },
+  {
+    "Título": "Terreno comercial en PLUTARCO ELIAS CALLES, Col. Las Escobas C.P. 67196, Guadalupe",
+    "Precio": 650000,
+    "Ubicación": "PLUTARCO ELIAS CALLES, Col. Las Escobas C.P. 67196, Guadalupe",
+    "Superficie": 13000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-plutarco-elias-calles-las-escobas-nuevo_leon-24333534",
+    "Lat": "25.6545684",
+    "Lng": "-100.1689251"
+  },
+  {
+    "Título": "Terreno comercial en ELOY CAVAZOS, Col. Mirador de la Silla C.P. 67176, Guadalupe",
+    "Precio": 40000,
+    "Ubicación": "ELOY CAVAZOS, Col. Mirador de la Silla C.P. 67176, Guadalupe",
+    "Superficie": 302,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-eloy-cavazos-mirador-de-la-silla-nuevo_leon-26855090",
+    "Lat": "25.6615825000",
+    "Lng": "-100.2362468000"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. La Quinta C.P. 67175, Guadalupe",
+    "Precio": 77500,
+    "Ubicación": " , Col. La Quinta C.P. 67175, Guadalupe",
+    "Superficie": 500,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-la-quinta-nuevo_leon-18571712",
+    "Lat": "25.6671868000",
+    "Lng": "-100.2413635000"
+  },
+  {
+    "Título": "Terreno comercial en Avenida Miguel Aleman 4401 #4401Int. 4401, Col. Valle de las Flores C.P. 67130, Guadalupe",
+    "Precio": 3000,
+    "Ubicación": "Avenida Miguel Aleman 4401 #4401Int. 4401, Col. Valle de las Flores C.P. 67130, Guadalupe",
+    "Superficie": 1000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-avenida-miguel-aleman-4401-4401-valle-de-las-flores-nuevo_leon-26871875",
+    "Lat": "25.689956896171388",
+    "Lng": "-100.2543565821433"
+  },
+  {
+    "Título": "Terreno comercial en , Col. Los Lermas C.P. 67188, Guadalupe",
+    "Precio": 210000,
+    "Ubicación": ", Col. Los Lermas C.P. 67188, Guadalupe",
+    "Superficie": 6000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-los-lermas-nuevo_leon-30045904",
+    "Lat": "25.6746126000",
+    "Lng": "-100.2003283000"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Mirasol C.P. 67170, Guadalupe",
+    "Precio": 45000,
+    "Ubicación": " , Col. Mirasol C.P. 67170, Guadalupe",
+    "Superficie": 186,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-mirasol-nuevo_leon-26960354",
+    "Lat": "25.6601090000",
+    "Lng": "-100.2303770000"
+  },
+  {
+    "Título": "Terreno comercial en Ruiz Cortines, Col. Ruiz Cortínes C.P. 67176, Guadalupe",
+    "Precio": 240000,
+    "Ubicación": "Ruiz Cortines, Col. Ruiz Cortínes C.P. 67176, Guadalupe",
+    "Superficie": 5990,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-ruiz-cortines-ruiz-cortines-nuevo_leon-29959839",
+    "Lat": "25.6646744",
+    "Lng": "-100.2333773"
+  },
+  {
+    "Título": "Terreno comercial en avenida Coahuila, Col. Tamaulipas C.P. 67200, Guadalupe",
+    "Precio": 28000,
+    "Ubicación": "avenida Coahuila, Col. Tamaulipas C.P. 67200, Guadalupe",
+    "Superficie": 335,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-avenida-coahuila-tamaulipas-nuevo_leon-26190219",
+    "Lat": "25.665198689958924",
+    "Lng": "-100.1383018896576"
+  },
+  {
+    "Título": "Terreno comercial en , Col. Valle Soleado C.P. 67130, Guadalupe",
+    "Precio": 14999,
+    "Ubicación": ", Col. Valle Soleado C.P. 67130, Guadalupe",
+    "Superficie": 329,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-valle-soleado-nuevo_leon-30090353",
+    "Lat": "25.7067310000",
+    "Lng": "-100.1743292000"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Maya C.P. 67115, Guadalupe",
+    "Precio": 140000,
+    "Ubicación": " , Col. Maya C.P. 67115, Guadalupe",
+    "Superficie": 4000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-maya-nuevo_leon-30107614",
+    "Lat": "25.7064095000",
+    "Lng": "-100.2250555000"
+  },
+  {
+    "Título": "Terreno comercial en ., Col. Guadalupe Centro C.P. 67100, Guadalupe",
+    "Precio": 500000,
+    "Ubicación": "., Col. Guadalupe Centro C.P. 67100, Guadalupe",
+    "Superficie": 7500,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-guadalupe-centro-nuevo_leon-27548317",
+    "Lat": "25.654342",
+    "Lng": "-100.2242671"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Guadalupe Centro C.P. 67100, Guadalupe",
+    "Precio": 40000,
+    "Ubicación": " , Col. Guadalupe Centro C.P. 67100, Guadalupe",
+    "Superficie": 918,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-guadalupe-centro-nuevo_leon-27651751",
+    "Lat": "25.6775244",
+    "Lng": "-100.2586104"
+  },
+  {
+    "Título": "Terreno comercial en   #2100, Col. Valle San Miguel C.P. 67113, Guadalupe",
+    "Precio": 60000,
+    "Ubicación": "  #2100, Col. Valle San Miguel C.P. 67113, Guadalupe",
+    "Superficie": 330,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-2100-valle-san-miguel-nuevo_leon-27643103",
+    "Lat": "25.7210446",
+    "Lng": "-100.193025"
+  },
+  {
+    "Título": "Terreno comercial en Padre Severiano Martinez #222, Col. Linda Vista C.P. 67123, Guadalupe",
+    "Precio": 250000,
+    "Ubicación": "Padre Severiano Martinez #222, Col. Linda Vista C.P. 67123, Guadalupe",
+    "Superficie": 3100,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-padre-severiano-martinez-222-linda-vista-nuevo_leon-28857698",
+    "Lat": "25.6898285000",
+    "Lng": "-100.2585134000"
+  },
+  {
+    "Título": "Terreno comercial en Avenida Monterrey, Col. Rincón de la Sierra C.P. 67194, Guadalupe",
+    "Precio": 30000,
+    "Ubicación": "Avenida Monterrey, Col. Rincón de la Sierra C.P. 67194, Guadalupe",
+    "Superficie": 900,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-avenida-monterrey-rincon-de-la-sierra-nuevo_leon-29293447",
+    "Lat": "25.6448097",
+    "Lng": "-100.1977157"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Valle Soleado C.P. 67130, Guadalupe",
+    "Precio": 12000,
+    "Ubicación": " , Col. Valle Soleado C.P. 67130, Guadalupe",
+    "Superficie": 245,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-valle-soleado-nuevo_leon-29460323",
+    "Lat": "",
+    "Lng": ""
+  },
+  {
+    "Título": "Terreno comercial en Ruiz Cortines, Col. Maya C.P. 67115, Guadalupe",
+    "Precio": 198390,
+    "Ubicación": "Ruiz Cortines, Col. Maya C.P. 67115, Guadalupe",
+    "Superficie": 6623,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-ruiz-cortines-maya-nuevo_leon-27621937",
+    "Lat": "25.7075888885",
+    "Lng": "-100.1911720320"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Arboledas de Corregidora C.P. 67123, Guadalupe",
+    "Precio": 270000,
+    "Ubicación": " , Col. Arboledas de Corregidora C.P. 67123, Guadalupe",
+    "Superficie": 6502,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-arboledas-de-corregidora-nuevo_leon-20009666",
+    "Lat": "25.6851963",
+    "Lng": "-100.2605632"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Guadalupe Victoria C.P. 67185, Guadalupe",
+    "Precio": 79200,
+    "Ubicación": " , Col. Guadalupe Victoria C.P. 67185, Guadalupe",
+    "Superficie": 1280,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-guadalupe-victoria-nuevo_leon-29976628",
+    "Lat": "",
+    "Lng": ""
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Guadalupe Victoria C.P. 67185, Guadalupe",
+    "Precio": 39600,
+    "Ubicación": " , Col. Guadalupe Victoria C.P. 67185, Guadalupe",
+    "Superficie": 640,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-guadalupe-victoria-nuevo_leon-29976631",
+    "Lat": "",
+    "Lng": ""
+  },
+  {
+    "Título": "Terreno comercial en AVE. ACUEDUCTO #100, Col. Tierra Propia Sector 1 C.P. 67197, Guadalupe",
+    "Precio": 90000,
+    "Ubicación": "AVE. ACUEDUCTO #100, Col. Tierra Propia Sector 1 C.P. 67197, Guadalupe",
+    "Superficie": 2000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-ave-acueducto-100-tierra-propia-sector-1-nuevo_leon-29173352",
+    "Lat": "25.6394698",
+    "Lng": "-100.180863"
+  }
+]

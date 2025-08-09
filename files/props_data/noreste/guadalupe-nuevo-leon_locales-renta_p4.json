@@ -1,0 +1,425 @@
+[
+  {
+    "Título": "Local en FELIX U GOMEZ #1401, Col. Central de Abastos C.P. 67140, Guadalupe",
+    "Precio": 65000,
+    "Ubicación": "FELIX U GOMEZ #1401, Col. Central de Abastos C.P. 67140, Guadalupe",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-felix-u-gomez-1401-central-de-abastos-nuevo_leon-29759072",
+    "Lat": "25.6634539",
+    "Lng": "-100.2971132"
+  },
+  {
+    "Título": "Local en  , Col. Contry la Silla C.P. 67173, Guadalupe",
+    "Precio": 13000,
+    "Ubicación": " , Col. Contry la Silla C.P. 67173, Guadalupe",
+    "Superficie": 40,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-contry-la-silla-nuevo_leon-12176026",
+    "Lat": "25.6281105000",
+    "Lng": "-100.2668478000"
+  },
+  {
+    "Título": "Local en  , Col. Las Villas C.P. 67175, Guadalupe",
+    "Precio": 9500,
+    "Ubicación": " , Col. Las Villas C.P. 67175, Guadalupe",
+    "Superficie": 35,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-villas-nuevo_leon-26980275",
+    "Lat": "25.6623538000",
+    "Lng": "-100.2377575000"
+  },
+  {
+    "Título": "Local en Ruiz Cortines, Col. Bello Amanecer C.P. 67132, Guadalupe",
+    "Precio": 49742,
+    "Ubicación": "Ruiz Cortines, Col. Bello Amanecer C.P. 67132, Guadalupe",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-ruiz-cortines-bello-amanecer-nuevo_leon-28549815",
+    "Lat": "25.7007940000",
+    "Lng": "-100.1346441000"
+  },
+  {
+    "Título": "Local en  , Col. Ciudad Guadalupe Centro C.P. 67100, Guadalupe",
+    "Precio": 120000,
+    "Ubicación": " , Col. Ciudad Guadalupe Centro C.P. 67100, Guadalupe",
+    "Superficie": 200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-ciudad-guadalupe-centro-nuevo_leon-30145140",
+    "Lat": "25.6767186000",
+    "Lng": "-100.2694886000"
+  },
+  {
+    "Título": "Local en  , Col. Country Sol C.P. 67174, Guadalupe",
+    "Precio": 23100,
+    "Ubicación": " , Col. Country Sol C.P. 67174, Guadalupe",
+    "Superficie": 41,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-country-sol-nuevo_leon-28759524",
+    "Lat": "25.6622988000",
+    "Lng": "-100.2605226000"
+  },
+  {
+    "Título": "Local en  , Col. Las Américas C.P. 67128, Guadalupe",
+    "Precio": 46378,
+    "Ubicación": " , Col. Las Américas C.P. 67128, Guadalupe",
+    "Superficie": 197,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-americas-nuevo_leon-28715301",
+    "Lat": "25.6410820502",
+    "Lng": "-100.2695483290"
+  },
+  {
+    "Título": "Local en  , Col. Linda Vista C.P. 67123, Guadalupe",
+    "Precio": 23500,
+    "Ubicación": " , Col. Linda Vista C.P. 67123, Guadalupe",
+    "Superficie": 68,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-linda-vista-nuevo_leon-24325563",
+    "Lat": "25.6888916525",
+    "Lng": "-100.2574324608"
+  },
+  {
+    "Título": "Local en  , Col. Guadalupe Chávez C.P. 67182, Guadalupe",
+    "Precio": 1500,
+    "Ubicación": " , Col. Guadalupe Chávez C.P. 67182, Guadalupe",
+    "Superficie": 1404,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-guadalupe-chavez-nuevo_leon-28637637",
+    "Lat": "25.6577084000",
+    "Lng": "-100.2212139000"
+  },
+  {
+    "Título": "Local en , Col. Country Sol C.P. 67174, Guadalupe",
+    "Precio": 83600,
+    "Ubicación": ", Col. Country Sol C.P. 67174, Guadalupe",
+    "Superficie": 152,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-country-sol-nuevo_leon-29905313",
+    "Lat": "25.6632988000",
+    "Lng": "-100.2595226000"
+  },
+  {
+    "Título": "Local en  , Col. Las Américas C.P. 67128, Guadalupe",
+    "Precio": 53758,
+    "Ubicación": " , Col. Las Américas C.P. 67128, Guadalupe",
+    "Superficie": 148,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-americas-nuevo_leon-28715296",
+    "Lat": "25.6410820502",
+    "Lng": "-100.2695483290"
+  },
+  {
+    "Título": "Local en  , Col. Las Américas C.P. 67128, Guadalupe",
+    "Precio": 48217,
+    "Ubicación": " , Col. Las Américas C.P. 67128, Guadalupe",
+    "Superficie": 205,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-americas-nuevo_leon-28715297",
+    "Lat": "25.6410820502",
+    "Lng": "-100.2695483290"
+  },
+  {
+    "Título": "Local en  , Col. Las Américas C.P. 67128, Guadalupe",
+    "Precio": 56542,
+    "Ubicación": " , Col. Las Américas C.P. 67128, Guadalupe",
+    "Superficie": 155,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-americas-nuevo_leon-28715305",
+    "Lat": "25.6410820502",
+    "Lng": "-100.2695483290"
+  },
+  {
+    "Título": "Local en  , Col. Las Américas C.P. 67128, Guadalupe",
+    "Precio": 43102,
+    "Ubicación": " , Col. Las Américas C.P. 67128, Guadalupe",
+    "Superficie": 118,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-americas-nuevo_leon-28715303",
+    "Lat": "25.6410820502",
+    "Lng": "-100.2695483290"
+  },
+  {
+    "Título": "Local en  , Col. Las Américas C.P. 67128, Guadalupe",
+    "Precio": 43574,
+    "Ubicación": " , Col. Las Américas C.P. 67128, Guadalupe",
+    "Superficie": 120,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-americas-nuevo_leon-28715298",
+    "Lat": "25.6410820502",
+    "Lng": "-100.2695483290"
+  },
+  {
+    "Título": "Local en  , Col. Las Américas C.P. 67128, Guadalupe",
+    "Precio": 40303,
+    "Ubicación": " , Col. Las Américas C.P. 67128, Guadalupe",
+    "Superficie": 111,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-americas-nuevo_leon-28715300",
+    "Lat": "25.6410820502",
+    "Lng": "-100.2695483290"
+  },
+  {
+    "Título": "Local en Ganadera, Col. Expo Ganadera C.P. 67155, Guadalupe",
+    "Precio": 140000,
+    "Ubicación": "Ganadera, Col. Expo Ganadera C.P. 67155, Guadalupe",
+    "Superficie": 669,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-ganadera-expo-ganadera-nuevo_leon-27811553",
+    "Lat": "25.6778822000",
+    "Lng": "-100.2453404000"
+  },
+  {
+    "Título": "Local en  , Col. Las Américas C.P. 67128, Guadalupe",
+    "Precio": 62929,
+    "Ubicación": " , Col. Las Américas C.P. 67128, Guadalupe",
+    "Superficie": 173,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-americas-nuevo_leon-28715304",
+    "Lat": "25.6410820502",
+    "Lng": "-100.2695483290"
+  },
+  {
+    "Título": "Local en  , Col. Las Américas C.P. 67128, Guadalupe",
+    "Precio": 61752,
+    "Ubicación": " , Col. Las Américas C.P. 67128, Guadalupe",
+    "Superficie": 170,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-americas-nuevo_leon-28715299",
+    "Lat": "25.6410820502",
+    "Lng": "-100.2695483290"
+  },
+  {
+    "Título": "Local en Ruiz Cortinez #101, Col. Provivienda C.P. 67112, Guadalupe",
+    "Precio": 45000,
+    "Ubicación": "Ruiz Cortinez #101, Col. Provivienda C.P. 67112, Guadalupe",
+    "Superficie": 200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-ruiz-cortinez-101-provivienda-nuevo_leon-29290776",
+    "Lat": "25.7054135",
+    "Lng": "-100.1696837"
+  },
+  {
+    "Título": "Local en  , Col. Las Américas C.P. 67128, Guadalupe",
+    "Precio": 48323,
+    "Ubicación": " , Col. Las Américas C.P. 67128, Guadalupe",
+    "Superficie": 133,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-americas-nuevo_leon-28715302",
+    "Lat": "25.6410820502",
+    "Lng": "-100.2695483290"
+  },
+  {
+    "Título": "Local en Av. Eloy Cavazos #2000, Col. Del Maestro C.P. 67140, Guadalupe",
+    "Precio": 68750,
+    "Ubicación": "Av. Eloy Cavazos #2000, Col. Del Maestro C.P. 67140, Guadalupe",
+    "Superficie": 16169,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-eloy-cavazos-2000-del-maestro-nuevo_leon-28319973",
+    "Lat": "25.6628858",
+    "Lng": "-100.2605057"
+  },
+  {
+    "Título": "Local en Miguel Alemán Prol. Fco.I. Madero, Col. Privada San Miguel C.P. 67130, Guadalupe",
+    "Precio": 20502,
+    "Ubicación": "Miguel Alemán Prol. Fco.I. Madero, Col. Privada San Miguel C.P. 67130, Guadalupe",
+    "Superficie": 51,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-miguel-aleman-prol-fcoi-madero-privada-san-miguel-nuevo_leon-27692261",
+    "Lat": "25.6992924",
+    "Lng": "-100.1528896"
+  },
+  {
+    "Título": "Local en Paseo las Americas, Col. Contry la Silla C.P. 67173, Guadalupe",
+    "Precio": 16500,
+    "Ubicación": "Paseo las Americas, Col. Contry la Silla C.P. 67173, Guadalupe",
+    "Superficie": 60,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-paseo-las-americas-contry-la-silla-nuevo_leon-30046110",
+    "Lat": "25.6438891324",
+    "Lng": "-100.2683211813"
+  },
+  {
+    "Título": "Local en  , Col. Nueva Lindavista C.P. 67129, Guadalupe",
+    "Precio": 25000,
+    "Ubicación": " , Col. Nueva Lindavista C.P. 67129, Guadalupe",
+    "Superficie": 488,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-nueva-lindavista-nuevo_leon-18492697",
+    "Lat": "25.7037332000",
+    "Lng": "-100.2314892000"
+  },
+  {
+    "Título": "Local en  , Col. Rincón de la Sierra C.P. 67194, Guadalupe",
+    "Precio": 9450,
+    "Ubicación": " , Col. Rincón de la Sierra C.P. 67194, Guadalupe",
+    "Superficie": 45,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-rincon-de-la-sierra-nuevo_leon-27347211",
+    "Lat": "25.6377741",
+    "Lng": "-100.1997442"
+  },
+  {
+    "Título": "Local en  , Col. Camino Real C.P. 67170, Guadalupe",
+    "Precio": 7500,
+    "Ubicación": " , Col. Camino Real C.P. 67170, Guadalupe",
+    "Superficie": 35,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-camino-real-nuevo_leon-26980276",
+    "Lat": "25.6650694",
+    "Lng": "-100.2277709"
+  },
+  {
+    "Título": "Local en independencia  #304Int. 5, Col. Ciudad Guadalupe Centro C.P. 67100, Guadalupe",
+    "Precio": 12500,
+    "Ubicación": "independencia  #304Int. 5, Col. Ciudad Guadalupe Centro C.P. 67100, Guadalupe",
+    "Superficie": 50,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-independencia-304-ciudad-guadalupe-centro-nuevo_leon-27560382",
+    "Lat": "25.678427212141745",
+    "Lng": "-100.26121979577026"
+  },
+  {
+    "Título": "Local en  , Col. Guadalupe Centro C.P. 67100, Guadalupe",
+    "Precio": 12000,
+    "Ubicación": " , Col. Guadalupe Centro C.P. 67100, Guadalupe",
+    "Superficie": 36,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-guadalupe-centro-nuevo_leon-27159401",
+    "Lat": "25.654342",
+    "Lng": "-100.2242671"
+  },
+  {
+    "Título": "Local en  , Col. Torres Lindavista C.P. 67126, Guadalupe",
+    "Precio": 17500,
+    "Ubicación": " , Col. Torres Lindavista C.P. 67126, Guadalupe",
+    "Superficie": 51,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-torres-lindavista-nuevo_leon-29855285",
+    "Lat": "25.6923524000",
+    "Lng": "-100.2558064000"
+  },
+  {
+    "Título": "Local en Benito Juarez, Col. Ciudad Guadalupe Centro C.P. 67100, Guadalupe",
+    "Precio": 120000,
+    "Ubicación": "Benito Juarez, Col. Ciudad Guadalupe Centro C.P. 67100, Guadalupe",
+    "Superficie": 203,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-benito-juarez-ciudad-guadalupe-centro-nuevo_leon-29908480",
+    "Lat": "25.6798175000",
+    "Lng": "-100.2574084000"
+  },
+  {
+    "Título": "Local en Av. Eloy Cavazos, Col. Tolteca C.P. 67175, Guadalupe",
+    "Precio": 7500,
+    "Ubicación": "Av. Eloy Cavazos, Col. Tolteca C.P. 67175, Guadalupe",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-eloy-cavazos-tolteca-nuevo_leon-30103104",
+    "Lat": "25.6632937000",
+    "Lng": "-100.2500600000"
+  },
+  {
+    "Título": "Local en  , Col. Mirador de la Silla C.P. 67176, Guadalupe",
+    "Precio": 77390,
+    "Ubicación": " , Col. Mirador de la Silla C.P. 67176, Guadalupe",
+    "Superficie": 337,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-mirador-de-la-silla-nuevo_leon-29326224",
+    "Lat": "25.6686295000",
+    "Lng": "-100.2349980000"
+  },
+  {
+    "Título": "Local en Benito Juárez 298 #298, Col. Ciudad Guadalupe Centro C.P. 67100, Guadalupe",
+    "Precio": 120000,
+    "Ubicación": "Benito Juárez 298 #298, Col. Ciudad Guadalupe Centro C.P. 67100, Guadalupe",
+    "Superficie": 200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-benito-juarez-298-298-ciudad-guadalupe-centro-nuevo_leon-29790850",
+    "Lat": "25.679247099999998",
+    "Lng": "-100.2607573"
+  },
+  {
+    "Título": "Local en Miguel Aleman, Col. Condocasa Lindavista C.P. 67125, Guadalupe",
+    "Precio": 19950,
+    "Ubicación": "Miguel Aleman, Col. Condocasa Lindavista C.P. 67125, Guadalupe",
+    "Superficie": 57,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-miguel-aleman-condocasa-lindavista-nuevo_leon-28655771",
+    "Lat": "25.6972787",
+    "Lng": "-100.2374613"
+  },
+  {
+    "Título": "Local en  , Col. Alamedas de la Hacienda C.P. 67155, Guadalupe",
+    "Precio": 44402,
+    "Ubicación": " , Col. Alamedas de la Hacienda C.P. 67155, Guadalupe",
+    "Superficie": 134,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-alamedas-de-la-hacienda-nuevo_leon-27562393",
+    "Lat": "25.6714139",
+    "Lng": "-100.2493224"
+  },
+  {
+    "Título": "Local en  , Col. Riberas del Río C.P. 67160, Guadalupe",
+    "Precio": 16206,
+    "Ubicación": " , Col. Riberas del Río C.P. 67160, Guadalupe",
+    "Superficie": 54,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-riberas-del-rio-nuevo_leon-28430299",
+    "Lat": "25.2797312000",
+    "Lng": "-100.0191857000"
+  },
+  {
+    "Título": "Local en  , Col. Las Américas C.P. 67128, Guadalupe",
+    "Precio": 49251,
+    "Ubicación": " , Col. Las Américas C.P. 67128, Guadalupe",
+    "Superficie": 212,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-americas-nuevo_leon-27685516",
+    "Lat": "25.6931035",
+    "Lng": "-100.2424423"
+  },
+  {
+    "Título": "Local en  , Col. Las Américas C.P. 67128, Guadalupe",
+    "Precio": 25592,
+    "Ubicación": " , Col. Las Américas C.P. 67128, Guadalupe",
+    "Superficie": 88,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-americas-nuevo_leon-27685507",
+    "Lat": "25.6931035",
+    "Lng": "-100.2424423"
+  },
+  {
+    "Título": "Local en  , Col. Las Américas C.P. 67128, Guadalupe",
+    "Precio": 18850,
+    "Ubicación": " , Col. Las Américas C.P. 67128, Guadalupe",
+    "Superficie": 65,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-americas-nuevo_leon-27685528",
+    "Lat": "25.6931035",
+    "Lng": "-100.2424423"
+  },
+  {
+    "Título": "Local en  , Col. Bello Amanecer C.P. 67132, Guadalupe",
+    "Precio": 49742,
+    "Ubicación": " , Col. Bello Amanecer C.P. 67132, Guadalupe",
+    "Superficie": 238,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-bello-amanecer-nuevo_leon-27191956",
+    "Lat": "25.6979746",
+    "Lng": "-100.1354573"
+  },
+  {
+    "Título": "Local en Chapultepec #0, Col. Contry la Silla C.P. 67173, Guadalupe",
+    "Precio": 61896,
+    "Ubicación": "Chapultepec #0, Col. Contry la Silla C.P. 67173, Guadalupe",
+    "Superficie": 215,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-chapultepec-contry-la-silla-nuevo_leon-30017657",
+    "Lat": "25.6689725",
+    "Lng": "-100.2570153"
+  },
+  {
+    "Título": "Local en  , Col. Valle de las Flores C.P. 67130, Guadalupe",
+    "Precio": 27000,
+    "Ubicación": " , Col. Valle de las Flores C.P. 67130, Guadalupe",
+    "Superficie": 68,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-valle-de-las-flores-nuevo_leon-29844925",
+    "Lat": "25.6923524000",
+    "Lng": "-100.2558064000"
+  },
+  {
+    "Título": "Local en  , Col. Country Sol C.P. 67174, Guadalupe",
+    "Precio": 40000,
+    "Ubicación": " , Col. Country Sol C.P. 67174, Guadalupe",
+    "Superficie": 200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-country-sol-nuevo_leon-18511897",
+    "Lat": "25.6530370000",
+    "Lng": "-100.2635177000"
+  },
+  {
+    "Título": "Local en calle #S/D, Col. Guadalupe Victoria C.P. 67185, Guadalupe",
+    "Precio": 9500,
+    "Ubicación": "calle #S/D, Col. Guadalupe Victoria C.P. 67185, Guadalupe",
+    "Superficie": 32,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-sd-guadalupe-victoria-nuevo_leon-27870004",
+    "Lat": "25.6682013",
+    "Lng": "-100.2144571"
+  },
+  {
+    "Título": "Local en  , Col. Riberas del Río C.P. 67160, Guadalupe",
+    "Precio": 39598,
+    "Ubicación": " , Col. Riberas del Río C.P. 67160, Guadalupe",
+    "Superficie": 141,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-riberas-del-rio-nuevo_leon-28430300",
+    "Lat": "25.2797312000",
+    "Lng": "-100.0191857000"
+  },
+  {
+    "Título": "Local en  , Col. Contry la Silla C.P. 67173, Guadalupe",
+    "Precio": 46492,
+    "Ubicación": " , Col. Contry la Silla C.P. 67173, Guadalupe",
+    "Superficie": 197,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-contry-la-silla-nuevo_leon-29492298",
+    "Lat": "25.6410878000",
+    "Lng": "-100.2678866000"
+  }
+]

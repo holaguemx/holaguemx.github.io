@@ -1,0 +1,425 @@
+[
+  {
+    "Título": "Local en  , Col. Los Remedios C.P. 34100, Durango",
+    "Precio": 25773,
+    "Ubicación": " , Col. Los Remedios C.P. 34100, Durango",
+    "Superficie": 86,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-los-remedios-durango-29209160",
+    "Lat": "24.0147808000",
+    "Lng": "-104.6835631000"
+  },
+  {
+    "Título": "Local en Av. La Salle, Col. Colinas del Saltito C.P. 34105, Durango",
+    "Precio": 3500,
+    "Ubicación": "Av. La Salle, Col. Colinas del Saltito C.P. 34105, Durango",
+    "Superficie": 20,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-la-salle-colinas-del-saltito-durango-28682232",
+    "Lat": "24.0094164",
+    "Lng": "-104.7089076"
+  },
+  {
+    "Título": "Local en , Col. El Calvario C.P. 34074, Durango",
+    "Precio": 25000,
+    "Ubicación": ", Col. El Calvario C.P. 34074, Durango",
+    "Superficie": 180,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-el-calvario-durango-29952506",
+    "Lat": "24.0746667000",
+    "Lng": "-104.5840030000"
+  },
+  {
+    "Título": "Local en Felipe Angeles #100, Col. J Guadalupe Rodriguez C.P. 34280, Durango",
+    "Precio": 4500,
+    "Ubicación": "Felipe Angeles #100, Col. J Guadalupe Rodriguez C.P. 34280, Durango",
+    "Superficie": 50,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-felipe-angeles-100-j-guadalupe-rodriguez-durango-29135801",
+    "Lat": "24.0268196",
+    "Lng": "-104.6313521"
+  },
+  {
+    "Título": "Local en Gral. Blas Corral, Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Precio": 15500,
+    "Ubicación": "Gral. Blas Corral, Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Superficie": 72,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-gral-blas-corral-victoria-de-durango-centro-durango-28741554",
+    "Lat": "24.0285105",
+    "Lng": "-104.6573684"
+  },
+  {
+    "Título": "Local en 20 de Noviembre, Col. Nueva Vizcaya C.P. 34080, Durango",
+    "Precio": 7000,
+    "Ubicación": "20 de Noviembre, Col. Nueva Vizcaya C.P. 34080, Durango",
+    "Superficie": 38,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-20-de-noviembre-nueva-vizcaya-durango-27961191",
+    "Lat": "24.0283436",
+    "Lng": "-104.6493255"
+  },
+  {
+    "Título": "Local en  , Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Precio": 6500,
+    "Ubicación": " , Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Superficie": 50,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-victoria-de-durango-centro-durango-28970368",
+    "Lat": "24.0185921000",
+    "Lng": "-104.6563246000"
+  },
+  {
+    "Título": "Local en  , Col. Real del Naranjal C.P. 34190, Durango",
+    "Precio": 25000,
+    "Ubicación": " , Col. Real del Naranjal C.P. 34190, Durango",
+    "Superficie": 600,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-real-del-naranjal-durango-28938629",
+    "Lat": "23.9968766000",
+    "Lng": "-104.6623740000"
+  },
+  {
+    "Título": "Local en  , Col. Victoria de Durango C.P. 34167, Durango",
+    "Precio": 6250,
+    "Ubicación": " , Col. Victoria de Durango C.P. 34167, Durango",
+    "Superficie": 35,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-victoria-de-durango-durango-30008591",
+    "Lat": "24.0508110000",
+    "Lng": "-104.6016741000"
+  },
+  {
+    "Título": "Local en Nazas, Col. Valle del Guadiana C.P. 34166, Durango",
+    "Precio": 9500,
+    "Ubicación": "Nazas, Col. Valle del Guadiana C.P. 34166, Durango",
+    "Superficie": 50,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-nazas-valle-del-guadiana-durango-29097389",
+    "Lat": "24.0107842",
+    "Lng": "-104.644599"
+  },
+  {
+    "Título": "Local en sin nombre, Col. Hacienda de Tapias C.P. 34147, Durango",
+    "Precio": 4500,
+    "Ubicación": "sin nombre, Col. Hacienda de Tapias C.P. 34147, Durango",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-sin-nombre-hacienda-de-tapias-durango-29748952",
+    "Lat": "23.9917645",
+    "Lng": "-104.6944652"
+  },
+  {
+    "Título": "Local en Del bosque, Col. El Refugio C.P. 34170, Durango",
+    "Precio": 38000,
+    "Ubicación": "Del bosque, Col. El Refugio C.P. 34170, Durango",
+    "Superficie": 248,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-del-bosque-el-refugio-durango-28253523",
+    "Lat": "24.0098478",
+    "Lng": "-104.6596045"
+  },
+  {
+    "Título": "Local en Blvd. Durango, Col. Barrio Tierra Blanca C.P. 34139, Durango",
+    "Precio": 6000,
+    "Ubicación": "Blvd. Durango, Col. Barrio Tierra Blanca C.P. 34139, Durango",
+    "Superficie": 60,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-durango-barrio-tierra-blanca-durango-29429573",
+    "Lat": "24.0107483",
+    "Lng": "-104.6676487"
+  },
+  {
+    "Título": "Local en Instituto Politécnico Nacional, Col. El Refugio C.P. 34170, Durango",
+    "Precio": 20000,
+    "Ubicación": "Instituto Politécnico Nacional, Col. El Refugio C.P. 34170, Durango",
+    "Superficie": 150,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-instituto-politecnico-nacional-el-refugio-durango-28562455",
+    "Lat": "24.0086131",
+    "Lng": "-104.6609153"
+  },
+  {
+    "Título": "Local en Cuahutemoc, Col. Fátima C.P. 34060, Durango",
+    "Precio": 30000,
+    "Ubicación": "Cuahutemoc, Col. Fátima C.P. 34060, Durango",
+    "Superficie": 500,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-cuahutemoc-fatima-durango-28821818",
+    "Lat": "24.0320847000",
+    "Lng": "-104.6551383000"
+  },
+  {
+    "Título": "Local en Piedra del sol, Col. Octavio Paz C.P. 34234, Durango",
+    "Precio": 5000,
+    "Ubicación": "Piedra del sol, Col. Octavio Paz C.P. 34234, Durango",
+    "Superficie": 80,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-piedra-del-sol-octavio-paz-durango-28065839",
+    "Lat": "24.0406941",
+    "Lng": "-104.6023352"
+  },
+  {
+    "Título": "Local en Av. Lázaro Cardenas, Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Precio": 30000,
+    "Ubicación": "Av. Lázaro Cardenas, Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Superficie": 250,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-lazaro-cardenas-victoria-de-durango-centro-durango-29121463",
+    "Lat": "24.0265133",
+    "Lng": "-104.6527914"
+  },
+  {
+    "Título": "Local en CARRETERA A MÉXICO, Col. 20 de Noviembre Fundo Legal C.P. 34236, Durango",
+    "Precio": 8400,
+    "Ubicación": "CARRETERA A MÉXICO, Col. 20 de Noviembre Fundo Legal C.P. 34236, Durango",
+    "Superficie": 56,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-carretera-a-mexico-20-de-noviembre-fundo-legal-durango-27961235",
+    "Lat": "24.0467154",
+    "Lng": "-104.5937696"
+  },
+  {
+    "Título": "Local en progreso, Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Precio": 12000,
+    "Ubicación": "progreso, Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Superficie": 100,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-progreso-victoria-de-durango-centro-durango-29535571",
+    "Lat": "24.0240357",
+    "Lng": "-104.6656654"
+  },
+  {
+    "Título": "Local en AVENIDA SAHUATOBA, Col. Tierra y Libertad C.P. 34127, Durango",
+    "Precio": 30000,
+    "Ubicación": "AVENIDA SAHUATOBA, Col. Tierra y Libertad C.P. 34127, Durango",
+    "Superficie": 200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-avenida-sahuatoba-tierra-y-libertad-durango-29748953",
+    "Lat": "24.0078251",
+    "Lng": "-104.6940538"
+  },
+  {
+    "Título": "Local en Av. La Salle, Col. Colinas del Saltito C.P. 34105, Durango",
+    "Precio": 12000,
+    "Ubicación": "Av. La Salle, Col. Colinas del Saltito C.P. 34105, Durango",
+    "Superficie": 89,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-la-salle-colinas-del-saltito-durango-29994740",
+    "Lat": "24.00947",
+    "Lng": "-104.7098391"
+  },
+  {
+    "Título": "Local en Av. La Salle, Col. Colinas del Saltito C.P. 34105, Durango",
+    "Precio": 10000,
+    "Ubicación": "Av. La Salle, Col. Colinas del Saltito C.P. 34105, Durango",
+    "Superficie": 79,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-la-salle-colinas-del-saltito-durango-29994741",
+    "Lat": "24.00947",
+    "Lng": "-104.7098391"
+  },
+  {
+    "Título": "Local en , Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Precio": 9000,
+    "Ubicación": ", Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Superficie": 45,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-victoria-de-durango-centro-durango-30090405",
+    "Lat": "24.0279778000",
+    "Lng": "-104.6599839000"
+  },
+  {
+    "Título": "Local en , Col. Victoria de Durango C.P. 34167, Durango",
+    "Precio": 32000,
+    "Ubicación": ", Col. Victoria de Durango C.P. 34167, Durango",
+    "Superficie": 176,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-victoria-de-durango-durango-29825446",
+    "Lat": "24.0350402000",
+    "Lng": "-104.6574322000"
+  },
+  {
+    "Título": "Local en Felipe Angeles, Col. J Guadalupe Rodriguez C.P. 34280, Durango",
+    "Precio": 4500,
+    "Ubicación": "Felipe Angeles, Col. J Guadalupe Rodriguez C.P. 34280, Durango",
+    "Superficie": 50,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-felipe-angeles-j-guadalupe-rodriguez-durango-29067167",
+    "Lat": "24.0493723",
+    "Lng": "-104.6408772"
+  },
+  {
+    "Título": "Local en  , Col. Nueva Vizcaya C.P. 34080, Durango",
+    "Precio": 10000,
+    "Ubicación": " , Col. Nueva Vizcaya C.P. 34080, Durango",
+    "Superficie": 96,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-nueva-vizcaya-durango-28945115",
+    "Lat": "24.0303484000",
+    "Lng": "-104.6482608000"
+  },
+  {
+    "Título": "Local en Cerro Gordo, Col. Lomas del Parque C.P. 34100, Durango",
+    "Precio": 5800,
+    "Ubicación": "Cerro Gordo, Col. Lomas del Parque C.P. 34100, Durango",
+    "Superficie": 30,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-cerro-gordo-lomas-del-parque-durango-29468305",
+    "Lat": "24.0180832",
+    "Lng": "-104.6906221"
+  },
+  {
+    "Título": "Local en San Felipe Pescador #939, Col. Centro SCT Durango C.P. 34118, Durango",
+    "Precio": 10000,
+    "Ubicación": "San Felipe Pescador #939, Col. Centro SCT Durango C.P. 34118, Durango",
+    "Superficie": 52,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-san-felipe-pescador-939-centro-sct-durango-durango-25988155",
+    "Lat": "24.0343979",
+    "Lng": "-104.6741125"
+  },
+  {
+    "Título": "Local en Instituto Politécnico Nacional, Col. El Refugio C.P. 34170, Durango",
+    "Precio": 40000,
+    "Ubicación": "Instituto Politécnico Nacional, Col. El Refugio C.P. 34170, Durango",
+    "Superficie": 248,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-instituto-politecnico-nacional-el-refugio-durango-28562458",
+    "Lat": "24.0086131",
+    "Lng": "-104.6609153"
+  },
+  {
+    "Título": "Local en  , Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Precio": 13000,
+    "Ubicación": " , Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Superficie": 60,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-victoria-de-durango-centro-durango-28938623",
+    "Lat": "24.0279778000",
+    "Lng": "-104.6599839000"
+  },
+  {
+    "Título": "Local en , Col. Lomas del Parque C.P. 34100, Durango",
+    "Precio": 50000,
+    "Ubicación": ", Col. Lomas del Parque C.P. 34100, Durango",
+    "Superficie": 314,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-lomas-del-parque-durango-30104746",
+    "Lat": "24.0173665000",
+    "Lng": "-104.6983462000"
+  },
+  {
+    "Título": "Local en Col. Valle del Sur, Col. Valle del Sur C.P. 34120, Durango",
+    "Precio": 3000,
+    "Ubicación": "Col. Valle del Sur, Col. Valle del Sur C.P. 34120, Durango",
+    "Superficie": 20,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-col-valle-del-sur-valle-del-sur-durango-29320638",
+    "Lat": "24.0097154",
+    "Lng": "-104.6835626"
+  },
+  {
+    "Título": "Local en  , Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Precio": 14500,
+    "Ubicación": " , Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Superficie": 46,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-victoria-de-durango-centro-durango-29038327",
+    "Lat": "24.0262970000",
+    "Lng": "-104.6529031000"
+  },
+  {
+    "Título": "Local en Bruno Martinez #500, Col. IV Centenario C.P. 34150, Durango",
+    "Precio": 10000,
+    "Ubicación": "Bruno Martinez #500, Col. IV Centenario C.P. 34150, Durango",
+    "Superficie": 20,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-bruno-martinez-500-iv-centenario-durango-28531203",
+    "Lat": "24.021781767586724",
+    "Lng": "-104.6713505482849"
+  },
+  {
+    "Título": "Local en Pino Suarez, Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Precio": 20000,
+    "Ubicación": "Pino Suarez, Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Superficie": 200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-pino-suarez-victoria-de-durango-centro-durango-29345968",
+    "Lat": "24.0234295",
+    "Lng": "-104.6621249"
+  },
+  {
+    "Título": "Local en Mezquital, Col. Real del Mezquital C.P. 34199, Durango",
+    "Precio": 22000,
+    "Ubicación": "Mezquital, Col. Real del Mezquital C.P. 34199, Durango",
+    "Superficie": 80,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-mezquital-real-del-mezquital-durango-29806815",
+    "Lat": "23.9999427",
+    "Lng": "-104.647705"
+  },
+  {
+    "Título": "Local en 12 de Diciembre, Col. Cuadra del Ferrocarril C.P. 34020, Durango",
+    "Precio": 19000,
+    "Ubicación": "12 de Diciembre, Col. Cuadra del Ferrocarril C.P. 34020, Durango",
+    "Superficie": 700,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-12-de-diciembre-cuadra-del-ferrocarril-durango-29923628",
+    "Lat": "24.0379336",
+    "Lng": "-104.675619"
+  },
+  {
+    "Título": "Local en  , Col. Fátima C.P. 34060, Durango",
+    "Precio": 22500,
+    "Ubicación": " , Col. Fátima C.P. 34060, Durango",
+    "Superficie": 200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-fatima-durango-30019383",
+    "Lat": "24.0356183000",
+    "Lng": "-104.6599900000"
+  },
+  {
+    "Título": "Local en 20 DE NOVIEMBRE #816, Col. Nueva Vizcaya C.P. 34080, Durango",
+    "Precio": 5000,
+    "Ubicación": "20 DE NOVIEMBRE #816, Col. Nueva Vizcaya C.P. 34080, Durango",
+    "Superficie": 30,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-20-de-noviembre-816-nueva-vizcaya-durango-29135741",
+    "Lat": "24.027416",
+    "Lng": "-104.6542563"
+  },
+  {
+    "Título": "Local en Nazas, Col. Hipódromo C.P. 34270, Durango",
+    "Precio": 9500,
+    "Ubicación": "Nazas, Col. Hipódromo C.P. 34270, Durango",
+    "Superficie": 72,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-nazas-hipodromo-durango-29521117",
+    "Lat": "24.0210034",
+    "Lng": "-104.6440251"
+  },
+  {
+    "Título": "Local en Zona Centro, Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Precio": 20000,
+    "Ubicación": "Zona Centro, Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Superficie": 200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-zona-centro-victoria-de-durango-centro-durango-29493256",
+    "Lat": "24.027249",
+    "Lng": "-104.6675277"
+  },
+  {
+    "Título": "Local en Avenida la salle, Col. Colinas del Saltito C.P. 34105, Durango",
+    "Precio": 3500,
+    "Ubicación": "Avenida la salle, Col. Colinas del Saltito C.P. 34105, Durango",
+    "Superficie": 20,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-avenida-la-salle-colinas-del-saltito-durango-26352851",
+    "Lat": "24.0094035",
+    "Lng": "-104.7057186"
+  },
+  {
+    "Título": "Local en Av. 5 de Febrero, Col. Herrera Leyva C.P. 34000, Durango",
+    "Precio": 6800,
+    "Ubicación": "Av. 5 de Febrero, Col. Herrera Leyva C.P. 34000, Durango",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-5-de-febrero-herrera-leyva-durango-29306004",
+    "Lat": "24.0249808",
+    "Lng": "-104.659881"
+  },
+  {
+    "Título": "Local en  , Col. Colinas del Saltito C.P. 34105, Durango",
+    "Precio": 15000,
+    "Ubicación": " , Col. Colinas del Saltito C.P. 34105, Durango",
+    "Superficie": 100,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-colinas-del-saltito-durango-28965514",
+    "Lat": "24.0094164000",
+    "Lng": "-104.7089076000"
+  },
+  {
+    "Título": "Local en Blvd. Armando Del Castillo Franco, Col. Santa María C.P. 34050, Durango",
+    "Precio": 10000,
+    "Ubicación": "Blvd. Armando Del Castillo Franco, Col. Santa María C.P. 34050, Durango",
+    "Superficie": 60,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-armando-del-castillo-franco-santa-maria-durango-29498687",
+    "Lat": "23.9948301",
+    "Lng": "-104.6876301"
+  },
+  {
+    "Título": "Local en Juarez, Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Precio": 7000,
+    "Ubicación": "Juarez, Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Superficie": 200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-juarez-victoria-de-durango-centro-durango-29716707",
+    "Lat": "24.0258815",
+    "Lng": "-104.6700215"
+  },
+  {
+    "Título": "Local en Miguel de Cervantes Saavedra, Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Precio": 6500,
+    "Ubicación": "Miguel de Cervantes Saavedra, Col. Victoria de Durango Centro C.P. 34000, Durango",
+    "Superficie": 22,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-miguel-de-cervantes-saavedra-victoria-de-durango-centro-durango-29833042",
+    "Lat": "24.027686",
+    "Lng": "-104.6614374"
+  }
+]

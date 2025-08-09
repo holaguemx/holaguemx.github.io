@@ -1,0 +1,425 @@
+[
+  {
+    "Título": "Local en BLVD. LA LIBERTAD ESQ. CON LA BRECHA #2727, Col. Monte Real C.P. 27277, Torreón",
+    "Precio": 10000,
+    "Ubicación": "BLVD. LA LIBERTAD ESQ. CON LA BRECHA #2727, Col. Monte Real C.P. 27277, Torreón",
+    "Superficie": 24,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-la-libertad-esq-con-la-brecha-2727-monte-real-coahuila-26974317",
+    "Lat": "25.509831",
+    "Lng": "-103.3560146"
+  },
+  {
+    "Título": "Local en  , Col. Santa María C.P. 27020, Torreón",
+    "Precio": 10500,
+    "Ubicación": " , Col. Santa María C.P. 27020, Torreón",
+    "Superficie": 81,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-maria-coahuila-29118648",
+    "Lat": "25.5557443",
+    "Lng": "-103.4237244"
+  },
+  {
+    "Título": "Local en , Col. Residencial el Fresno C.P. 27018, Torreón",
+    "Precio": 15000,
+    "Ubicación": ", Col. Residencial el Fresno C.P. 27018, Torreón",
+    "Superficie": 61,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-residencial-el-fresno-coahuila-30093508",
+    "Lat": "25.5774101000",
+    "Lng": "-103.4092780000"
+  },
+  {
+    "Título": "Local en BLVD. DIAGONAL REFORMA #2932, Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 10000,
+    "Ubicación": "BLVD. DIAGONAL REFORMA #2932, Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-diagonal-reforma-2932-torreon-centro-coahuila-29759300",
+    "Lat": "25.5436728",
+    "Lng": "-103.4167153"
+  },
+  {
+    "Título": "Local en , Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 10000,
+    "Ubicación": ", Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 65,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-torreon-centro-coahuila-30001964",
+    "Lat": "",
+    "Lng": ""
+  },
+  {
+    "Título": "Local en Plaza jumbo #13, Col. Plaza Jumbo C.P. 27270, Torreón",
+    "Precio": 40000,
+    "Ubicación": "Plaza jumbo #13, Col. Plaza Jumbo C.P. 27270, Torreón",
+    "Superficie": 250,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-plaza-jumbo-13-plaza-jumbo-coahuila-29130692",
+    "Lat": "25.532595",
+    "Lng": "-103.3746656"
+  },
+  {
+    "Título": "Local en S/N, Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 69000,
+    "Ubicación": "S/N, Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 300,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-sn-torreon-centro-coahuila-28214711",
+    "Lat": "25.544008",
+    "Lng": "-103.4509182"
+  },
+  {
+    "Título": "Local en Juarez #2136 ORIENTE , Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 47786,
+    "Ubicación": "Juarez #2136 ORIENTE , Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 174,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-juarez-2136-oriente-torreon-centro-coahuila-25692483",
+    "Lat": "25.5383849",
+    "Lng": "-103.4527272"
+  },
+  {
+    "Título": "Local en Blvd. Revolución, Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 25000,
+    "Ubicación": "Blvd. Revolución, Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 680,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-revolucion-torreon-centro-coahuila-29878026",
+    "Lat": "25.5357108",
+    "Lng": "-103.4527556"
+  },
+  {
+    "Título": "Local en Plaza Jumbo #0, Col. Luis Horacio Salinas C.P. 27279, Torreón",
+    "Precio": 50000,
+    "Ubicación": "Plaza Jumbo #0, Col. Luis Horacio Salinas C.P. 27279, Torreón",
+    "Superficie": 618,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-plaza-jumbo-luis-horacio-salinas-coahuila-28919914",
+    "Lat": "25.532595",
+    "Lng": "-103.3746656"
+  },
+  {
+    "Título": "Local en S/N, Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 45000,
+    "Ubicación": "S/N, Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-sn-torreon-centro-coahuila-28214755",
+    "Lat": "25.544008",
+    "Lng": "-103.4509182"
+  },
+  {
+    "Título": "Local en Av. Bravo #377, Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 17809,
+    "Ubicación": "Av. Bravo #377, Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-bravo-377-torreon-centro-coahuila-29759274",
+    "Lat": "25.5451878",
+    "Lng": "-103.4445097"
+  },
+  {
+    "Título": "Local en  , Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 7000,
+    "Ubicación": " , Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 15,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-torreon-centro-coahuila-22497079",
+    "Lat": "25.5429234",
+    "Lng": "-103.4509286"
+  },
+  {
+    "Título": "Local en Colon #422 NORTE , Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 16000,
+    "Ubicación": "Colon #422 NORTE , Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 80,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-colon-422-norte-torreon-centro-coahuila-10450590",
+    "Lat": "25.541225",
+    "Lng": "-103.4485551"
+  },
+  {
+    "Título": "Local en calle 33 #330, Col. San Marcos C.P. 27060, Torreón",
+    "Precio": 2000,
+    "Ubicación": "calle 33 #330, Col. San Marcos C.P. 27060, Torreón",
+    "Superficie": 32,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-calle-33-330-san-marcos-coahuila-29128715",
+    "Lat": "25.544303",
+    "Lng": "-103.4131202"
+  },
+  {
+    "Título": "Local en Paseo del tec #1, Col. Residencial La Hacienda C.P. 27276, Torreón",
+    "Precio": 9500,
+    "Ubicación": "Paseo del tec #1, Col. Residencial La Hacienda C.P. 27276, Torreón",
+    "Superficie": 60,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-paseo-del-tec-1-residencial-la-hacienda-coahuila-28173847",
+    "Lat": "25.51756",
+    "Lng": "-103.3912394"
+  },
+  {
+    "Título": "Local en S/N, Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 62500,
+    "Ubicación": "S/N, Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 372,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-sn-torreon-centro-coahuila-29911593",
+    "Lat": "25.5429234",
+    "Lng": "-103.4509286"
+  },
+  {
+    "Título": "Local en S/N, Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 40000,
+    "Ubicación": "S/N, Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 440,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-sn-torreon-centro-coahuila-5572666",
+    "Lat": "25.5429234",
+    "Lng": "-103.4509286"
+  },
+  {
+    "Título": "Local en Cuauhtemoc #270, Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 17000,
+    "Ubicación": "Cuauhtemoc #270, Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 50,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-cuauhtemoc-270-torreon-centro-coahuila-29439535",
+    "Lat": "25.5389743",
+    "Lng": "-103.4345376"
+  },
+  {
+    "Título": "Local en , Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 12000,
+    "Ubicación": ", Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 72,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-torreon-centro-coahuila-29895468",
+    "Lat": "25.5513443000",
+    "Lng": "-103.4264293000"
+  },
+  {
+    "Título": "Local en BLVD. CONSTITUCION Y CALLE RODRIGUEZ #251, Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 12000,
+    "Ubicación": "BLVD. CONSTITUCION Y CALLE RODRIGUEZ #251, Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-constitucion-y-calle-rodriguez-251-torreon-centro-coahuila-29759248",
+    "Lat": "25.5436603",
+    "Lng": "-103.4615361"
+  },
+  {
+    "Título": "Local en  , Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 9500,
+    "Ubicación": " , Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 82,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-torreon-centro-coahuila-29197773",
+    "Lat": "",
+    "Lng": ""
+  },
+  {
+    "Título": "Local en , Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 20000,
+    "Ubicación": ", Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 105,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-torreon-centro-coahuila-30086302",
+    "Lat": "25.5557509000",
+    "Lng": "-103.4349890000"
+  },
+  {
+    "Título": "Local en Juarez #3325 ORIENTE , Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 14500,
+    "Ubicación": "Juarez #3325 ORIENTE , Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-juarez-3325-oriente-torreon-centro-coahuila-29759270",
+    "Lat": "25.5451759",
+    "Lng": "-103.4249793"
+  },
+  {
+    "Título": "Local en Blvd. Independencia, Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 70380,
+    "Ubicación": "Blvd. Independencia, Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 306,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-independencia-torreon-centro-coahuila-29717142",
+    "Lat": "25.5453298",
+    "Lng": "-103.4527977"
+  },
+  {
+    "Título": "Local en Mercahorro #-, Col. Real del Sol I C.P. 27087, Torreón",
+    "Precio": 7000,
+    "Ubicación": "Mercahorro #-, Col. Real del Sol I C.P. 27087, Torreón",
+    "Superficie": 24,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-mercahorro-real-del-sol-i-coahuila-29483744",
+    "Lat": "25.5550008",
+    "Lng": "-103.3267054"
+  },
+  {
+    "Título": "Local en Rodríguez Triana #585, Col. Santa Fe C.P. 27400, Torreón",
+    "Precio": 79000,
+    "Ubicación": "Rodríguez Triana #585, Col. Santa Fe C.P. 27400, Torreón",
+    "Superficie": 416,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-rodriguez-triana-585-santa-fe-coahuila-29849339",
+    "Lat": "25.525417",
+    "Lng": "-103.3810595"
+  },
+  {
+    "Título": "Local en  , Col. Los Ángeles C.P. 27148, Torreón",
+    "Precio": 30000,
+    "Ubicación": " , Col. Los Ángeles C.P. 27148, Torreón",
+    "Superficie": 661,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-los-angeles-coahuila-29118543",
+    "Lat": "25.5501539000",
+    "Lng": "-103.4526219000"
+  },
+  {
+    "Título": "Local en Calzada Avila Camacho #1233, Col. Navarro C.P. 27010, Torreón",
+    "Precio": 60000,
+    "Ubicación": "Calzada Avila Camacho #1233, Col. Navarro C.P. 27010, Torreón",
+    "Superficie": 50,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-calzada-avila-camacho-1233-navarro-coahuila-29148563",
+    "Lat": "25.5587041",
+    "Lng": "-103.4346442"
+  },
+  {
+    "Título": "Local en guerrero #1, Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 18500,
+    "Ubicación": "guerrero #1, Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 300,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-guerrero-1-torreon-centro-coahuila-29543553",
+    "Lat": "25.5409149",
+    "Lng": "-103.4274517"
+  },
+  {
+    "Título": "Local en Guerrero, Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 18000,
+    "Ubicación": "Guerrero, Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 600,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-guerrero-torreon-centro-coahuila-29792203",
+    "Lat": "25.5477897",
+    "Lng": "-103.4262566"
+  },
+  {
+    "Título": "Local en CALZADA CUITLAHUAC #1901, Col. Santa María C.P. 27020, Torreón",
+    "Precio": 19032,
+    "Ubicación": "CALZADA CUITLAHUAC #1901, Col. Santa María C.P. 27020, Torreón",
+    "Superficie": 163,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-calzada-cuitlahuac-1901-santa-maria-coahuila-26797313",
+    "Lat": "25.5551341",
+    "Lng": "-103.4228129"
+  },
+  {
+    "Título": "Local en S/N, Col. Residencial Campestre la Rosita C.P. 27250, Torreón",
+    "Precio": 17000,
+    "Ubicación": "S/N, Col. Residencial Campestre la Rosita C.P. 27250, Torreón",
+    "Superficie": 157,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-sn-residencial-campestre-la-rosita-coahuila-29952893",
+    "Lat": "25.5232901",
+    "Lng": "-103.4136118"
+  },
+  {
+    "Título": "Local en - #-, Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 8000,
+    "Ubicación": "- #-, Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 60,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta--torreon-centro-coahuila-29900238",
+    "Lat": "25.5429234",
+    "Lng": "-103.4509286"
+  },
+  {
+    "Título": "Local en Leona vicario #1000, Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 20000,
+    "Ubicación": "Leona vicario #1000, Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 166,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-leona-vicario-1000-torreon-centro-coahuila-29482250",
+    "Lat": "25.5359908",
+    "Lng": "-103.4548495"
+  },
+  {
+    "Título": "Local en  , Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 80000,
+    "Ubicación": " , Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 1331,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-torreon-centro-coahuila-29399580",
+    "Lat": "25.5456417000",
+    "Lng": "-103.4528477000"
+  },
+  {
+    "Título": "Local en Cuahutemoc #13, Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 18000,
+    "Ubicación": "Cuahutemoc #13, Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 250,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-cuahutemoc-13-torreon-centro-coahuila-29979814",
+    "Lat": "25.5347376",
+    "Lng": "-103.4343426"
+  },
+  {
+    "Título": "Local en  , Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 21850,
+    "Ubicación": " , Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 112,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-torreon-centro-coahuila-30029623",
+    "Lat": "25.5429234000",
+    "Lng": "-103.4509286000"
+  },
+  {
+    "Título": "Local en Blvd. Carlos López Sosa, Col. Los Viñedos C.P. 27023, Torreón",
+    "Precio": 11500,
+    "Ubicación": "Blvd. Carlos López Sosa, Col. Los Viñedos C.P. 27023, Torreón",
+    "Superficie": 156,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-carlos-lopez-sosa-los-vinedos-coahuila-29371557",
+    "Lat": "25.5803212",
+    "Lng": "-103.3812231"
+  },
+  {
+    "Título": "Local en 00 #00, Col. San Isidro C.P. 27100, Torreón",
+    "Precio": 25000,
+    "Ubicación": "00 #00, Col. San Isidro C.P. 27100, Torreón",
+    "Superficie": 150,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-00-00-san-isidro-coahuila-28586353",
+    "Lat": "25.566821",
+    "Lng": "-103.4295033"
+  },
+  {
+    "Título": "Local en  , Col. Villas La Merced C.P. 27296, Torreón",
+    "Precio": 22600,
+    "Ubicación": " , Col. Villas La Merced C.P. 27296, Torreón",
+    "Superficie": 150,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-villas-la-merced-coahuila-28895932",
+    "Lat": "25.5073035310",
+    "Lng": "-103.4005441610"
+  },
+  {
+    "Título": "Local en Blvd. Efraín López Sánchez #5, Col. Residencial Palma Real C.P. 27023, Torreón",
+    "Precio": 7500,
+    "Ubicación": "Blvd. Efraín López Sánchez #5, Col. Residencial Palma Real C.P. 27023, Torreón",
+    "Superficie": 34,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-efrain-lopez-sanchez-5-residencial-palma-real-coahuila-28935331",
+    "Lat": "25.5746833",
+    "Lng": "-103.374213"
+  },
+  {
+    "Título": "Local en San Ignacio de Loyola #604, Col. Residencial Senderos C.P. 27018, Torreón",
+    "Precio": 24400,
+    "Ubicación": "San Ignacio de Loyola #604, Col. Residencial Senderos C.P. 27018, Torreón",
+    "Superficie": 61,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-san-ignacio-de-loyola-604-residencial-senderos-coahuila-29061778",
+    "Lat": "25.6041117",
+    "Lng": "-103.404561"
+  },
+  {
+    "Título": "Local en  , Col. Santa Anita C.P. 27294, Torreón",
+    "Precio": 70000,
+    "Ubicación": " , Col. Santa Anita C.P. 27294, Torreón",
+    "Superficie": 300,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-anita-coahuila-30134668",
+    "Lat": "25.5170502000",
+    "Lng": "-103.3893719000"
+  },
+  {
+    "Título": "Local en S/N, Col. Residencial el Fresno C.P. 27018, Torreón",
+    "Precio": 14000,
+    "Ubicación": "S/N, Col. Residencial el Fresno C.P. 27018, Torreón",
+    "Superficie": 52,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-sn-residencial-el-fresno-coahuila-28458329",
+    "Lat": "",
+    "Lng": ""
+  },
+  {
+    "Título": "Local en Victoria #10, Col. Hacienda del Rosario C.P. 27106, Torreón",
+    "Precio": 30000,
+    "Ubicación": "Victoria #10, Col. Hacienda del Rosario C.P. 27106, Torreón",
+    "Superficie": 350,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-victoria-10-hacienda-del-rosario-coahuila-29148608",
+    "Lat": "25.6201085",
+    "Lng": "-103.3935244"
+  },
+  {
+    "Título": "Local en Calzada Colón #100, Col. Torreón Centro C.P. 27000, Torreón",
+    "Precio": 15000,
+    "Ubicación": "Calzada Colón #100, Col. Torreón Centro C.P. 27000, Torreón",
+    "Superficie": 100,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-calzada-colon-100-torreon-centro-coahuila-29160331",
+    "Lat": "25.540092",
+    "Lng": "-103.4487628"
+  }
+]

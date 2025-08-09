@@ -1,0 +1,47 @@
+[
+  {
+    "Título": "Terreno comercial en Blv Republica, Col. Villa de Fuente C.P. 26090, Piedras Negras",
+    "Precio": 100000,
+    "Ubicación": "Blv Republica, Col. Villa de Fuente C.P. 26090, Piedras Negras",
+    "Superficie": 5856,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-blv-republica-villa-de-fuente-coahuila-29140335",
+    "Lat": "28.6612944",
+    "Lng": "-100.5634337"
+  },
+  {
+    "Título": "Terreno comercial en , Col. Tecnológico C.P. 26080, Piedras Negras",
+    "Precio": 120000,
+    "Ubicación": ", Col. Tecnológico C.P. 26080, Piedras Negras",
+    "Superficie": 2000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-tecnologico-coahuila-29874909",
+    "Lat": "28.6880075900",
+    "Lng": "-100.5591183200"
+  },
+  {
+    "Título": "Terreno comercial en AV LAZARO CARDENAS ESQUINA CON PAR VIAL ROMAN CEPEDA, Col. Buenavista Norte C.P. 26040, Piedras Negras",
+    "Precio": 50000,
+    "Ubicación": "AV LAZARO CARDENAS ESQUINA CON PAR VIAL ROMAN CEPEDA, Col. Buenavista Norte C.P. 26040, Piedras Negras",
+    "Superficie": 2350,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-av-lazaro-cardenas-esquina-con-par-vial-roman-cepeda-buenavista-norte-coahuila-26012808",
+    "Lat": "28.6914252",
+    "Lng": "-100.5332457"
+  },
+  {
+    "Título": "Terreno comercial en , Col. Nísperos C.P. 26020, Piedras Negras",
+    "Precio": 39000,
+    "Ubicación": ", Col. Nísperos C.P. 26020, Piedras Negras",
+    "Superficie": 676,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-nisperos-coahuila-29874917",
+    "Lat": "28.7003850001",
+    "Lng": "-100.5317296040"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Hidalgo C.P. 26060, Piedras Negras",
+    "Precio": 200000,
+    "Ubicación": " , Col. Hidalgo C.P. 26060, Piedras Negras",
+    "Superficie": 10000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-hidalgo-coahuila-26277892",
+    "Lat": "28.6861141",
+    "Lng": "-100.5571671"
+  }
+]

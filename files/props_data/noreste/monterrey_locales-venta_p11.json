@@ -1,0 +1,425 @@
+[
+  {
+    "Título": "Local en  , Col. Ciudad Satélite C.P. 64960, Monterrey",
+    "Precio": 38000000,
+    "Ubicación": " , Col. Ciudad Satélite C.P. 64960, Monterrey",
+    "Superficie": 1013,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-ciudad-satelite-nuevo_leon-29543582",
+    "Lat": "25.6035728000",
+    "Lng": "-100.2698275000"
+  },
+  {
+    "Título": "Local en Avenida San Jerónimo, Col. Residencial San Jerónimo II C.P. 64635, Monterrey",
+    "Precio": 3723933,
+    "Ubicación": "Avenida San Jerónimo, Col. Residencial San Jerónimo II C.P. 64635, Monterrey",
+    "Superficie": 48,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-san-jeronimo-residencial-san-jeronimo-ii-nuevo_leon-22657706",
+    "Lat": "25.6751802",
+    "Lng": "-100.3612681"
+  },
+  {
+    "Título": "Local en VISTA HERMOSA, Col. Vista Hermosa C.P. 64620, Monterrey",
+    "Precio": 13800000,
+    "Ubicación": "VISTA HERMOSA, Col. Vista Hermosa C.P. 64620, Monterrey",
+    "Superficie": 385,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-vista-hermosa-vista-hermosa-nuevo_leon-28872802",
+    "Lat": "25.6910283",
+    "Lng": "-100.3568071"
+  },
+  {
+    "Título": "Local en Tecnológico, Col. Tecnológico C.P. 64700, Monterrey",
+    "Precio": 2500000,
+    "Ubicación": "Tecnológico, Col. Tecnológico C.P. 64700, Monterrey",
+    "Superficie": 45,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-tecnologico-tecnologico-nuevo_leon-26224281",
+    "Lat": "25.6542625",
+    "Lng": "-100.2978762"
+  },
+  {
+    "Título": "Local en  , Col. Independencia C.P. 64720, Monterrey",
+    "Precio": 5750000,
+    "Ubicación": " , Col. Independencia C.P. 64720, Monterrey",
+    "Superficie": 1035,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-independencia-nuevo_leon-15356838",
+    "Lat": "25.6587204",
+    "Lng": "-100.3175155"
+  },
+  {
+    "Título": "Local en ., Col. Empleados SFEO C.P. 64909, Monterrey",
+    "Precio": 3323500,
+    "Ubicación": "., Col. Empleados SFEO C.P. 64909, Monterrey",
+    "Superficie": 39,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-empleados-sfeo-nuevo_leon-28378723",
+    "Lat": "25.6295325",
+    "Lng": "-100.3010322"
+  },
+  {
+    "Título": "Local en avenida del estado, Col. Tecnológico C.P. 64700, Monterrey",
+    "Precio": 2600000,
+    "Ubicación": "avenida del estado, Col. Tecnológico C.P. 64700, Monterrey",
+    "Superficie": 34,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-del-estado-tecnologico-nuevo_leon-27691501",
+    "Lat": "25.6499665",
+    "Lng": "-100.2943353"
+  },
+  {
+    "Título": "Local en , Col. Villas la Rioja C.P. 64984, Monterrey",
+    "Precio": 17425000,
+    "Ubicación": ", Col. Villas la Rioja C.P. 64984, Monterrey",
+    "Superficie": 950,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-villas-la-rioja-nuevo_leon-27744586",
+    "Lat": "25.5805678",
+    "Lng": "-100.2484462"
+  },
+  {
+    "Título": "Local en Abraham Lincoln, Col. San Jorge C.P. 64330, Monterrey",
+    "Precio": 4000000,
+    "Ubicación": "Abraham Lincoln, Col. San Jorge C.P. 64330, Monterrey",
+    "Superficie": 151,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-abraham-lincoln-san-jorge-nuevo_leon-25753351",
+    "Lat": "25.7240391",
+    "Lng": "-100.3645717"
+  },
+  {
+    "Título": "Local en Belisario Domínguez, Col. Obispado C.P. 64060, Monterrey",
+    "Precio": 4120000,
+    "Ubicación": "Belisario Domínguez, Col. Obispado C.P. 64060, Monterrey",
+    "Superficie": 62,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-belisario-dominguez-obispado-nuevo_leon-26633698",
+    "Lat": "25.6730992",
+    "Lng": "-100.3460207"
+  },
+  {
+    "Título": "Local en Carretera nacional, Col. La Rioja Privada Residencial C.P. 64988, Monterrey",
+    "Precio": 15000000,
+    "Ubicación": "Carretera nacional, Col. La Rioja Privada Residencial C.P. 64988, Monterrey",
+    "Superficie": 152,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-carretera-nacional-la-rioja-privada-residencial-nuevo_leon-26249509",
+    "Lat": "25.5469962",
+    "Lng": "-100.2252785"
+  },
+  {
+    "Título": "Local en Colonial La Silla, Col. Colonial La Silla C.P. 64860, Monterrey",
+    "Precio": 30000000,
+    "Ubicación": "Colonial La Silla, Col. Colonial La Silla C.P. 64860, Monterrey",
+    "Superficie": 850,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-colonial-la-silla-colonial-la-silla-nuevo_leon-27451110",
+    "Lat": "25.6350273",
+    "Lng": "-100.2750859"
+  },
+  {
+    "Título": "Local en IDELFONSO VAZQUEZ #151, Col. Fabriles C.P. 64550, Monterrey",
+    "Precio": 3500000,
+    "Ubicación": "IDELFONSO VAZQUEZ #151, Col. Fabriles C.P. 64550, Monterrey",
+    "Superficie": 180,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-idelfonso-vazquez-151-fabriles-nuevo_leon-29802670",
+    "Lat": "25.6880003",
+    "Lng": "-100.2842584"
+  },
+  {
+    "Título": "Local en Sonora #615, Col. Nuevo Repueblo C.P. 64700, Monterrey",
+    "Precio": 12000000,
+    "Ubicación": "Sonora #615, Col. Nuevo Repueblo C.P. 64700, Monterrey",
+    "Superficie": 316,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-sonora-615-nuevo-repueblo-nuevo_leon-29924371",
+    "Lat": "25.6612639",
+    "Lng": "-100.3019747"
+  },
+  {
+    "Título": "Local en  , Col. Las Torres C.P. 64930, Monterrey",
+    "Precio": 7500000,
+    "Ubicación": " , Col. Las Torres C.P. 64930, Monterrey",
+    "Superficie": 100,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-las-torres-nuevo_leon-29947117",
+    "Lat": "25.7398540000",
+    "Lng": "-100.2509160000"
+  },
+  {
+    "Título": "Local en  , Col. Portales de San Bernabé C.P. 64103, Monterrey",
+    "Precio": 1290000,
+    "Ubicación": " , Col. Portales de San Bernabé C.P. 64103, Monterrey",
+    "Superficie": 120,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-portales-de-san-bernabe-nuevo_leon-27752765",
+    "Lat": "25.7726925",
+    "Lng": "-100.4171805"
+  },
+  {
+    "Título": "Local en DIAGONAL, Col. Tecnológico C.P. 64700, Monterrey",
+    "Precio": 4500000,
+    "Ubicación": "DIAGONAL, Col. Tecnológico C.P. 64700, Monterrey",
+    "Superficie": 74,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-diagonal-tecnologico-nuevo_leon-25786008",
+    "Lat": "25.6568618",
+    "Lng": "-100.2951617"
+  },
+  {
+    "Título": "Local en Av. Francisco Márquez, Col. Centro C.P. 64720, Monterrey",
+    "Precio": 4365000,
+    "Ubicación": "Av. Francisco Márquez, Col. Centro C.P. 64720, Monterrey",
+    "Superficie": 75,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-av-francisco-marquez-centro-nuevo_leon-27682384",
+    "Lat": "25.6587204",
+    "Lng": "-100.3175155"
+  },
+  {
+    "Título": "Local en Av. Solidaridad #5151, Col. Simón Bolívar C.P. 64270, Monterrey",
+    "Precio": 3000000,
+    "Ubicación": "Av. Solidaridad #5151, Col. Simón Bolívar C.P. 64270, Monterrey",
+    "Superficie": 190,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-av-solidaridad-5151-simon-bolivar-nuevo_leon-28397468",
+    "Lat": "25.7269104",
+    "Lng": "-100.3436276"
+  },
+  {
+    "Título": "Local en NNN #123, Col. La Rioja Privada Residencial C.P. 64988, Monterrey",
+    "Precio": 350000,
+    "Ubicación": "NNN #123, Col. La Rioja Privada Residencial C.P. 64988, Monterrey",
+    "Superficie": 78,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-nnn-123-la-rioja-privada-residencial-nuevo_leon-28428758",
+    "Lat": "25.5750307",
+    "Lng": "-100.2439145"
+  },
+  {
+    "Título": "Local en , Col. El Uro C.P. 64986, Monterrey",
+    "Precio": 4214650,
+    "Ubicación": ", Col. El Uro C.P. 64986, Monterrey",
+    "Superficie": 76,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-el-uro-nuevo_leon-30010004",
+    "Lat": "25.5534029000",
+    "Lng": "-100.2270986000"
+  },
+  {
+    "Título": "Local en , Col. Centro C.P. 64720, Monterrey",
+    "Precio": 2500000,
+    "Ubicación": ", Col. Centro C.P. 64720, Monterrey",
+    "Superficie": 139,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-centro-nuevo_leon-30058060",
+    "Lat": "25.6780368000",
+    "Lng": "-100.3133067000"
+  },
+  {
+    "Título": "Local en  , Col. Centro C.P. 64720, Monterrey",
+    "Precio": 2400000,
+    "Ubicación": " , Col. Centro C.P. 64720, Monterrey",
+    "Superficie": 65,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-centro-nuevo_leon-26632472",
+    "Lat": "25.6587204",
+    "Lng": "-100.3175155"
+  },
+  {
+    "Título": "Local en Washington, Col. Monterrey Centro C.P. 64000, Monterrey",
+    "Precio": 4066820,
+    "Ubicación": "Washington, Col. Monterrey Centro C.P. 64000, Monterrey",
+    "Superficie": 56,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-washington-monterrey-centro-nuevo_leon-28475208",
+    "Lat": "25.6747963",
+    "Lng": "-100.3177715"
+  },
+  {
+    "Título": "Local en  , Col. La Estanzuela C.P. 64988, Monterrey",
+    "Precio": 3420000,
+    "Ubicación": " , Col. La Estanzuela C.P. 64988, Monterrey",
+    "Superficie": 76,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-la-estanzuela-nuevo_leon-28947814",
+    "Lat": "25.5643822000",
+    "Lng": "-100.2341331000"
+  },
+  {
+    "Título": "Local en  , Col. Centro C.P. 64720, Monterrey",
+    "Precio": 22000000,
+    "Ubicación": " , Col. Centro C.P. 64720, Monterrey",
+    "Superficie": 612,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-centro-nuevo_leon-29736772",
+    "Lat": "25.6731353000",
+    "Lng": "-100.3266663000"
+  },
+  {
+    "Título": "Local en  , Col. La Estanzuela Vieja C.P. 64984, Monterrey",
+    "Precio": 2493888,
+    "Ubicación": " , Col. La Estanzuela Vieja C.P. 64984, Monterrey",
+    "Superficie": 40,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-la-estanzuela-vieja-nuevo_leon-27330676",
+    "Lat": "25.6776379",
+    "Lng": "-100.3189185"
+  },
+  {
+    "Título": "Local en Nazas, Col. México C.P. 64740, Monterrey",
+    "Precio": 7900000,
+    "Ubicación": "Nazas, Col. México C.P. 64740, Monterrey",
+    "Superficie": 322,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-nazas-mexico-nuevo_leon-26109737",
+    "Lat": "25.6434389",
+    "Lng": "-100.2957722"
+  },
+  {
+    "Título": "Local en Washington, Col. Monterrey Centro C.P. 64000, Monterrey",
+    "Precio": 1927688,
+    "Ubicación": "Washington, Col. Monterrey Centro C.P. 64000, Monterrey",
+    "Superficie": 23,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-washington-monterrey-centro-nuevo_leon-28475212",
+    "Lat": "25.6747963",
+    "Lng": "-100.3177715"
+  },
+  {
+    "Título": "Local en 1a. Avenida, Col. Las Cumbres 2 Sector C.P. 64610, Monterrey",
+    "Precio": 2600000,
+    "Ubicación": "1a. Avenida, Col. Las Cumbres 2 Sector C.P. 64610, Monterrey",
+    "Superficie": 36,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-1a-avenida-las-cumbres-2-sector-nuevo_leon-28891720",
+    "Lat": "25.6987397",
+    "Lng": "-100.3556037"
+  },
+  {
+    "Título": "Local en Av. Paseo del acueducto, Col. Colinas del Sur C.P. 64968, Monterrey",
+    "Precio": 3550000,
+    "Ubicación": "Av. Paseo del acueducto, Col. Colinas del Sur C.P. 64968, Monterrey",
+    "Superficie": 91,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-av-paseo-del-acueducto-colinas-del-sur-nuevo_leon-15391324",
+    "Lat": "25.6068787",
+    "Lng": "-100.2799941"
+  },
+  {
+    "Título": "Local en 1a Avenida #1495, Col. Las Cumbres 1 Sector C.P. 64610, Monterrey",
+    "Precio": 8450000,
+    "Ubicación": "1a Avenida #1495, Col. Las Cumbres 1 Sector C.P. 64610, Monterrey",
+    "Superficie": 123,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-1a-avenida-1495-las-cumbres-1-sector-nuevo_leon-27494414",
+    "Lat": "25.701490940207783",
+    "Lng": "-100.37122091045075"
+  },
+  {
+    "Título": "Local en san jeronimo #123, Col. San Jerónimo C.P. 64640, Monterrey",
+    "Precio": 999999,
+    "Ubicación": "san jeronimo #123, Col. San Jerónimo C.P. 64640, Monterrey",
+    "Superficie": 168,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-san-jeronimo-123-san-jeronimo-nuevo_leon-28869951",
+    "Lat": "25.674757",
+    "Lng": "-100.3643755"
+  },
+  {
+    "Título": "Local en Hidalgo, Col. Centro C.P. 64720, Monterrey",
+    "Precio": 1260000,
+    "Ubicación": "Hidalgo, Col. Centro C.P. 64720, Monterrey",
+    "Superficie": 34,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-hidalgo-centro-nuevo_leon-26240124",
+    "Lat": "25.6701837",
+    "Lng": "-100.3318184"
+  },
+  {
+    "Título": "Local en  , Col. Centro C.P. 64720, Monterrey",
+    "Precio": 6804491,
+    "Ubicación": " , Col. Centro C.P. 64720, Monterrey",
+    "Superficie": 131,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-centro-nuevo_leon-28149335",
+    "Lat": "25.6790368000",
+    "Lng": "-100.3123067000"
+  },
+  {
+    "Título": "Local en Eugenio Garza Sada, Col. Tecnológico C.P. 64700, Monterrey",
+    "Precio": 5850000,
+    "Ubicación": "Eugenio Garza Sada, Col. Tecnológico C.P. 64700, Monterrey",
+    "Superficie": 65,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-eugenio-garza-sada-tecnologico-nuevo_leon-24963981",
+    "Lat": "25.6555549",
+    "Lng": "-100.2948926"
+  },
+  {
+    "Título": "Local en  , Col. Chepevera C.P. 64030, Monterrey",
+    "Precio": 14729000,
+    "Ubicación": " , Col. Chepevera C.P. 64030, Monterrey",
+    "Superficie": 422,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-chepevera-nuevo_leon-27759655",
+    "Lat": "25.6832535",
+    "Lng": "-100.3427724"
+  },
+  {
+    "Título": "Local en ave las americas, Col. Contry C.P. 64860, Monterrey",
+    "Precio": 49000000,
+    "Ubicación": "ave las americas, Col. Contry C.P. 64860, Monterrey",
+    "Superficie": 3436,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-ave-las-americas-contry-nuevo_leon-28481825",
+    "Lat": "25.6439666",
+    "Lng": "-100.2690681"
+  },
+  {
+    "Título": "Local en  , Col. Loma Larga C.P. 64715, Monterrey",
+    "Precio": 2874600,
+    "Ubicación": " , Col. Loma Larga C.P. 64715, Monterrey",
+    "Superficie": 31,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-loma-larga-nuevo_leon-27826192",
+    "Lat": "25.6643467",
+    "Lng": "-100.3361067"
+  },
+  {
+    "Título": "Local en Avenida del Estado, Col. Tecnológico C.P. 64700, Monterrey",
+    "Precio": 2600000,
+    "Ubicación": "Avenida del Estado, Col. Tecnológico C.P. 64700, Monterrey",
+    "Superficie": 34,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-del-estado-tecnologico-nuevo_leon-30103997",
+    "Lat": "25.6499665",
+    "Lng": "-100.2943353"
+  },
+  {
+    "Título": "Local en Zapopan, Col. Cumbres Elite 4 Sector C.P. 64349, Monterrey",
+    "Precio": 4946898,
+    "Ubicación": "Zapopan, Col. Cumbres Elite 4 Sector C.P. 64349, Monterrey",
+    "Superficie": 88,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-zapopan-cumbres-elite-4-sector-nuevo_leon-29970435",
+    "Lat": "25.7418881",
+    "Lng": "-100.4074799"
+  },
+  {
+    "Título": "Local en Ruperto martinez, Col. Nuevo Centro Monterrey C.P. 64018, Monterrey",
+    "Precio": 5950000,
+    "Ubicación": "Ruperto martinez, Col. Nuevo Centro Monterrey C.P. 64018, Monterrey",
+    "Superficie": 164,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-ruperto-martinez-nuevo-centro-monterrey-nuevo_leon-26570693",
+    "Lat": "25.6779532",
+    "Lng": "-100.3228082"
+  },
+  {
+    "Título": "Local en Avenida del Estado, Col. Tecnológico C.P. 64700, Monterrey",
+    "Precio": 7397150,
+    "Ubicación": "Avenida del Estado, Col. Tecnológico C.P. 64700, Monterrey",
+    "Superficie": 124,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-del-estado-tecnologico-nuevo_leon-28969454",
+    "Lat": "25.6499665",
+    "Lng": "-100.2943353"
+  },
+  {
+    "Título": "Local en  , Col. Centro C.P. 64720, Monterrey",
+    "Precio": 3250000,
+    "Ubicación": " , Col. Centro C.P. 64720, Monterrey",
+    "Superficie": 51,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-centro-nuevo_leon-28614285",
+    "Lat": "25.6699128000",
+    "Lng": "-100.3292633000"
+  },
+  {
+    "Título": "Local en Tecnológico, Col. Nuevo Repueblo C.P. 64700, Monterrey",
+    "Precio": 28000000,
+    "Ubicación": "Tecnológico, Col. Nuevo Repueblo C.P. 64700, Monterrey",
+    "Superficie": 407,
+    "Enlace": "https://www.propiedades.com/inmuebles/local-en-venta-tecnologico-nuevo-repueblo-nuevo-leon-29408607",
+    "Lat": "25.6599155",
+    "Lng": "-100.3006815"
+  },
+  {
+    "Título": "Local en Revolución, Col. Plaza Revolución C.P. 64810, Monterrey",
+    "Precio": 30000000,
+    "Ubicación": "Revolución, Col. Plaza Revolución C.P. 64810, Monterrey",
+    "Superficie": 800,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-revolucion-plaza-revolucion-nuevo_leon-28518020",
+    "Lat": "25.6344087",
+    "Lng": "-100.2721937"
+  },
+  {
+    "Título": "Local en Avenida fundadores, Col. Del Paseo Residencial C.P. 64920, Monterrey",
+    "Precio": 6750000,
+    "Ubicación": "Avenida fundadores, Col. Del Paseo Residencial C.P. 64920, Monterrey",
+    "Superficie": 92,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-fundadores-del-paseo-residencial-nuevo_leon-28957103",
+    "Lat": "25.6264184",
+    "Lng": "-100.3044621"
+  }
+]

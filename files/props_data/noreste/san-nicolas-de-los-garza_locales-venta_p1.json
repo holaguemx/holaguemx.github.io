@@ -1,0 +1,425 @@
+[
+  {
+    "Título": "Local en Avenida Casa Blanca #s/n, Col. Villas de San Cristóbal Sector 2 C.P. 66478, San Nicolás de los Garza",
+    "Precio": 2360000,
+    "Ubicación": "Avenida Casa Blanca #s/n, Col. Villas de San Cristóbal Sector 2 C.P. 66478, San Nicolás de los Garza",
+    "Superficie": 86,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-casa-blanca-sn-villas-de-san-cristobal-sector-2-nuevo_leon-30144257",
+    "Lat": "25.73443440754366",
+    "Lng": "-100.21436668964385"
+  },
+  {
+    "Título": "Local en , Col. Miguel Aleman C.P. 66470, San Nicolás de los Garza",
+    "Precio": 28000000,
+    "Ubicación": ", Col. Miguel Aleman C.P. 66470, San Nicolás de los Garza",
+    "Superficie": 2274,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-miguel-aleman-nuevo_leon-29916278",
+    "Lat": "25.7231742000",
+    "Lng": "-100.2258937000"
+  },
+  {
+    "Título": "Local en Rio Balsas  #8888, Col. Valle Casa Blanca C.P. 66478, San Nicolás de los Garza",
+    "Precio": 4500000,
+    "Ubicación": "Rio Balsas  #8888, Col. Valle Casa Blanca C.P. 66478, San Nicolás de los Garza",
+    "Superficie": 324,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-rio-balsas-8888-valle-casa-blanca-nuevo_leon-28143202",
+    "Lat": "25.732128595253194",
+    "Lng": "-100.23977236409301"
+  },
+  {
+    "Título": "Local en calle, Col. Mercado de Abastos Estrella C.P. 66482, San Nicolás de los Garza",
+    "Precio": 20300000,
+    "Ubicación": "calle, Col. Mercado de Abastos Estrella C.P. 66482, San Nicolás de los Garza",
+    "Superficie": 525,
+    "Enlace": "https://www.propiedades.com/inmuebles/local-en-venta-calle-mercado-de-abastos-estrella-nuevo-leon-29241638",
+    "Lat": "25.7168848",
+    "Lng": "-100.2914318"
+  },
+  {
+    "Título": "Local en Arturo B. De la Garza #520, Col. El Roble C.P. 66450, San Nicolás de los Garza",
+    "Precio": 8500000,
+    "Ubicación": "Arturo B. De la Garza #520, Col. El Roble C.P. 66450, San Nicolás de los Garza",
+    "Superficie": 255,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-arturo-b-de-la-garza-520-el-roble-nuevo_leon-30017725",
+    "Lat": "25.7600177",
+    "Lng": "-100.287204"
+  },
+  {
+    "Título": "Local en Privada Sendero Anáhuac, Col. Anáhuac Sendero C.P. 66417, San Nicolás de los Garza",
+    "Precio": 17000000,
+    "Ubicación": "Privada Sendero Anáhuac, Col. Anáhuac Sendero C.P. 66417, San Nicolás de los Garza",
+    "Superficie": 700,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-privada-sendero-anahuac-anahuac-sendero-nuevo_leon-29314684",
+    "Lat": "25.7346719",
+    "Lng": "-100.3148899"
+  },
+  {
+    "Título": "Local en RIO BALSAS #741, Col. Villas de Casa Blanca C.P. 66475, San Nicolás de los Garza",
+    "Precio": 4300000,
+    "Ubicación": "RIO BALSAS #741, Col. Villas de Casa Blanca C.P. 66475, San Nicolás de los Garza",
+    "Superficie": 324,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-rio-balsas-741-villas-de-casa-blanca-nuevo_leon-28145242",
+    "Lat": "25.7319849",
+    "Lng": "-100.2379444"
+  },
+  {
+    "Título": "Local en Felix galvan, Col. San Benito Del Lago C.P. 66470, San Nicolás de los Garza",
+    "Precio": 9000000,
+    "Ubicación": "Felix galvan, Col. San Benito Del Lago C.P. 66470, San Nicolás de los Garza",
+    "Superficie": 660,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-felix-galvan-san-benito-del-lago-nuevo_leon-27622784",
+    "Lat": "25.7232978",
+    "Lng": "-100.2258945"
+  },
+  {
+    "Título": "Local en Av. Miguel Aleman #100, Col. La Fe C.P. 66477, San Nicolás de los Garza",
+    "Precio": 5790000,
+    "Ubicación": "Av. Miguel Aleman #100, Col. La Fe C.P. 66477, San Nicolás de los Garza",
+    "Superficie": 157,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-av-miguel-aleman-100-la-fe-nuevo_leon-27599748",
+    "Lat": "25.7228457",
+    "Lng": "-100.2156395"
+  },
+  {
+    "Título": "Local en Miguel Alemán y Romulo Garza #211, Col. La Fe C.P. 66477, San Nicolás de los Garza",
+    "Precio": 3000000,
+    "Ubicación": "Miguel Alemán y Romulo Garza #211, Col. La Fe C.P. 66477, San Nicolás de los Garza",
+    "Superficie": 32,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-miguel-aleman-y-romulo-garza-211-la-fe-nuevo_leon-30154174",
+    "Lat": "25.724664",
+    "Lng": "-100.2176157"
+  },
+  {
+    "Título": "Local en La fe, Col. La Fe C.P. 66477, San Nicolás de los Garza",
+    "Precio": 7000000,
+    "Ubicación": "La fe, Col. La Fe C.P. 66477, San Nicolás de los Garza",
+    "Superficie": 150,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-la-fe-la-fe-nuevo_leon-24976068",
+    "Lat": "25.7245785",
+    "Lng": "-100.2137565"
+  },
+  {
+    "Título": "Local en Av Juarez, Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Precio": 4750000,
+    "Ubicación": "Av Juarez, Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Superficie": 213,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-av-juarez-san-nicolas-de-los-garza-centro-nuevo_leon-29520220",
+    "Lat": "25.7915553",
+    "Lng": "-100.3064073"
+  },
+  {
+    "Título": "Local en Diego Díaz de berlanga, Col. Pedregal de Santo Domingo C.P. 66444, San Nicolás de los Garza",
+    "Precio": 12000000,
+    "Ubicación": "Diego Díaz de berlanga, Col. Pedregal de Santo Domingo C.P. 66444, San Nicolás de los Garza",
+    "Superficie": 750,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-diego-diaz-de-berlanga-pedregal-de-santo-domingo-nuevo_leon-29804238",
+    "Lat": "25.7334224",
+    "Lng": "-100.2712928"
+  },
+  {
+    "Título": "Local en  , Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Precio": 7000000,
+    "Ubicación": " , Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Superficie": 150,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-san-nicolas-de-los-garza-centro-nuevo_leon-28614296",
+    "Lat": "25.7201850000",
+    "Lng": "-100.2190119000"
+  },
+  {
+    "Título": "Local en  , Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Precio": 7000000,
+    "Ubicación": " , Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Superficie": 415,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-san-nicolas-de-los-garza-centro-nuevo_leon-29813071",
+    "Lat": "25.7594272000",
+    "Lng": "-100.2691264000"
+  },
+  {
+    "Título": "Local en S/D, Col. Residencial Anáhuac Sector 1 C.P. 66457, San Nicolás de los Garza",
+    "Precio": 20300000,
+    "Ubicación": "S/D, Col. Residencial Anáhuac Sector 1 C.P. 66457, San Nicolás de los Garza",
+    "Superficie": 525,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-sd-residencial-anahuac-sector-1-nuevo_leon-29244970",
+    "Lat": "25.7338527",
+    "Lng": "-100.2927481"
+  },
+  {
+    "Título": "Local en San Nicolás de los Garza Centro, Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Precio": 17300000,
+    "Ubicación": "San Nicolás de los Garza Centro, Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Superficie": 1013,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-san-nicolas-de-los-garza-centro-san-nicolas-de-los-garza-centro-nuevo_leon-27928317",
+    "Lat": "25.7541283",
+    "Lng": "-100.2922657"
+  },
+  {
+    "Título": "Local en La Clave Azul, Col. Residencial El Roble C.P. 66414, San Nicolás de los Garza",
+    "Precio": 5300000,
+    "Ubicación": "La Clave Azul, Col. Residencial El Roble C.P. 66414, San Nicolás de los Garza",
+    "Superficie": 600,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-la-clave-azul-residencial-el-roble-nuevo_leon-22591002",
+    "Lat": "25.760798",
+    "Lng": "-100.2869793"
+  },
+  {
+    "Título": "Local en Av Diego Diaz de Berlanga, Col. Residencial Anáhuac Sector 1 C.P. 66457, San Nicolás de los Garza",
+    "Precio": 20500000,
+    "Ubicación": "Av Diego Diaz de Berlanga, Col. Residencial Anáhuac Sector 1 C.P. 66457, San Nicolás de los Garza",
+    "Superficie": 772,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-av-diego-diaz-de-berlanga-residencial-anahuac-sector-1-nuevo_leon-29872632",
+    "Lat": "25.7314433",
+    "Lng": "-100.2728588"
+  },
+  {
+    "Título": "Local en  , Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Precio": 7100000,
+    "Ubicación": " , Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Superficie": 495,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-san-nicolas-de-los-garza-centro-nuevo_leon-7586189",
+    "Lat": "25.7541283",
+    "Lng": "-100.2922657"
+  },
+  {
+    "Título": "Local en  , Col. Las Puentes Sector 1 C.P. 66460, San Nicolás de los Garza",
+    "Precio": 4390000,
+    "Ubicación": " , Col. Las Puentes Sector 1 C.P. 66460, San Nicolás de los Garza",
+    "Superficie": 273,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-las-puentes-sector-1-nuevo_leon-28712140",
+    "Lat": "25.7418277000",
+    "Lng": "-100.2848747000"
+  },
+  {
+    "Título": "Local en Plaza Las Tenerias #801, Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Precio": 1300000,
+    "Ubicación": "Plaza Las Tenerias #801, Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Superficie": 40,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-plaza-las-tenerias-801-san-nicolas-de-los-garza-centro-nuevo_leon-29291721",
+    "Lat": "25.7490213",
+    "Lng": "-100.2883535"
+  },
+  {
+    "Título": "Local en Local en Venta en el Centro de San Nicolás de los Garza, Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Precio": 15500000,
+    "Ubicación": "Local en Venta en el Centro de San Nicolás de los Garza, Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Superficie": 342,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-local-en-venta-en-el-centro-de-san-nicolas-de-los-garza-san-nicolas-de-los-garza-centro-nuevo_leon-29286017",
+    "Lat": "25.752066663276008",
+    "Lng": "-100.29642402831115"
+  },
+  {
+    "Título": "Local en Arturo B de La Garza, Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Precio": 6750000,
+    "Ubicación": "Arturo B de La Garza, Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Superficie": 315,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-arturo-b-de-la-garza-san-nicolas-de-los-garza-centro-nuevo_leon-29863129",
+    "Lat": "25.7562043",
+    "Lng": "-100.2862403"
+  },
+  {
+    "Título": "Local en calle, Col. Garza Cantu C.P. 66480, San Nicolás de los Garza",
+    "Precio": 30000000,
+    "Ubicación": "calle, Col. Garza Cantu C.P. 66480, San Nicolás de los Garza",
+    "Superficie": 200,
+    "Enlace": "https://www.propiedades.com/inmuebles/local-en-venta-calle-garza-cantu-nuevo-leon-29515924",
+    "Lat": "25.7150206",
+    "Lng": "-100.2971749"
+  },
+  {
+    "Título": "Local en Avenida Los Angeles 1000 #s/n, Col. Garza Cantu C.P. 66480, San Nicolás de los Garza",
+    "Precio": 40000000,
+    "Ubicación": "Avenida Los Angeles 1000 #s/n, Col. Garza Cantu C.P. 66480, San Nicolás de los Garza",
+    "Superficie": 200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-los-angeles-1000-sn-garza-cantu-nuevo_leon-29726499",
+    "Lat": "25.7150206",
+    "Lng": "-100.2971749"
+  },
+  {
+    "Título": "Local en SAN ANDRES #101, Col. Villas Santo Domingo C.P. 66437, San Nicolás de los Garza",
+    "Precio": 3500000,
+    "Ubicación": "SAN ANDRES #101, Col. Villas Santo Domingo C.P. 66437, San Nicolás de los Garza",
+    "Superficie": 128,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-san-andres-101-villas-santo-domingo-nuevo_leon-30093052",
+    "Lat": "25.7511473",
+    "Lng": "-100.2574917"
+  },
+  {
+    "Título": "Local en  , Col. Industrial Nogalar C.P. 66484, San Nicolás de los Garza",
+    "Precio": 25800000,
+    "Ubicación": " , Col. Industrial Nogalar C.P. 66484, San Nicolás de los Garza",
+    "Superficie": 1696,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-industrial-nogalar-nuevo_leon-29373948",
+    "Lat": "25.7204842000",
+    "Lng": "-100.2849740000"
+  },
+  {
+    "Título": "Local en Av. Rómulo Garza 100La Fe66477 San Nicolás de los GarzaN.L., Col. La Fe C.P. 66477, San Nicolás de los Garza",
+    "Precio": 4000000,
+    "Ubicación": "Av. Rómulo Garza 100La Fe66477 San Nicolás de los GarzaN.L., Col. La Fe C.P. 66477, San Nicolás de los Garza",
+    "Superficie": 150,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-av-romulo-garza-100la-fe66477-san-nicolas-de-los-garzanl-la-fe-nuevo_leon-30080468",
+    "Lat": "25.7240755",
+    "Lng": "-100.2142699"
+  },
+  {
+    "Título": "Local en San Benito del Lago, Col. Del Lago C.P. 66477, San Nicolás de los Garza",
+    "Precio": 15000000,
+    "Ubicación": "San Benito del Lago, Col. Del Lago C.P. 66477, San Nicolás de los Garza",
+    "Superficie": 742,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-san-benito-del-lago-del-lago-nuevo_leon-27668497",
+    "Lat": "25.7252446",
+    "Lng": "-100.2205911"
+  },
+  {
+    "Título": "Local en  , Col. El Refugio Sector 2 C.P. 66430, San Nicolás de los Garza",
+    "Precio": 3650000,
+    "Ubicación": " , Col. El Refugio Sector 2 C.P. 66430, San Nicolás de los Garza",
+    "Superficie": 120,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-el-refugio-sector-2-nuevo_leon-28563535",
+    "Lat": "25.7584958000",
+    "Lng": "-100.2926408000"
+  },
+  {
+    "Título": "Local en Residencial Los Angeles #0, Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Precio": 2500000,
+    "Ubicación": "Residencial Los Angeles #0, Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Superficie": 120,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-residencial-los-angeles-san-nicolas-de-los-garza-centro-nuevo_leon-28010201",
+    "Lat": "25.7290574",
+    "Lng": "-100.2387257"
+  },
+  {
+    "Título": "Local en Mujeres Ilustres, Col. Fomerrey 4 Mujeres Ilustres C.P. 66415, San Nicolás de los Garza",
+    "Precio": 9450000,
+    "Ubicación": "Mujeres Ilustres, Col. Fomerrey 4 Mujeres Ilustres C.P. 66415, San Nicolás de los Garza",
+    "Superficie": 465,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-mujeres-ilustres-fomerrey-4-mujeres-ilustres-nuevo_leon-27314044",
+    "Lat": "25.7624092",
+    "Lng": "-100.2631672"
+  },
+  {
+    "Título": "Local en , Col. Mercado de Abastos Estrella C.P. 66482, San Nicolás de los Garza",
+    "Precio": 2900000,
+    "Ubicación": ", Col. Mercado de Abastos Estrella C.P. 66482, San Nicolás de los Garza",
+    "Superficie": 210,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-mercado-de-abastos-estrella-nuevo_leon-29854948",
+    "Lat": "25.7118144000",
+    "Lng": "-100.2935768000"
+  },
+  {
+    "Título": "Local en Avenida Cordillera de los Andes #., Col. Las Puentes Sector 2 C.P. 66460, San Nicolás de los Garza",
+    "Precio": 4200000,
+    "Ubicación": "Avenida Cordillera de los Andes #., Col. Las Puentes Sector 2 C.P. 66460, San Nicolás de los Garza",
+    "Superficie": 108,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-cordillera-de-los-andes-las-puentes-sector-2-nuevo_leon-25922845",
+    "Lat": "25.7393873",
+    "Lng": "-100.2795668"
+  },
+  {
+    "Título": "Local en  , Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Precio": 6000000,
+    "Ubicación": " , Col. San Nicolás de los Garza Centro C.P. 66400, San Nicolás de los Garza",
+    "Superficie": 150,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-san-nicolas-de-los-garza-centro-nuevo_leon-28844002",
+    "Lat": "25.7638990000",
+    "Lng": "-100.1911080000"
+  },
+  {
+    "Título": "Local en , Col. Villas Santo Domingo C.P. 66437, San Nicolás de los Garza",
+    "Precio": 4500000,
+    "Ubicación": ", Col. Villas Santo Domingo C.P. 66437, San Nicolás de los Garza",
+    "Superficie": 239,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-villas-santo-domingo-nuevo_leon-29868032",
+    "Lat": "25.7479027000",
+    "Lng": "-100.2582449000"
+  },
+  {
+    "Título": "Local en avenida las puentes #413, Col. Las Puentes Sector 5 C.P. 66460, San Nicolás de los Garza",
+    "Precio": 4285000,
+    "Ubicación": "avenida las puentes #413, Col. Las Puentes Sector 5 C.P. 66460, San Nicolás de los Garza",
+    "Superficie": 111,
+    "Enlace": "https://www.propiedades.com/inmuebles/local-en-venta-avenida-las-puentes-413-las-puentes-sector-5-nuevo-leon-29379906",
+    "Lat": "25.7121427",
+    "Lng": "-100.2934971"
+  },
+  {
+    "Título": "Local en Martires de Chicago 931 #931, Col. INFONAVIT Valle de Lagrange C.P. 66490, San Nicolás de los Garza",
+    "Precio": 2115000,
+    "Ubicación": "Martires de Chicago 931 #931, Col. INFONAVIT Valle de Lagrange C.P. 66490, San Nicolás de los Garza",
+    "Superficie": 135,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-martires-de-chicago-931-931-infonavit-valle-de-lagrange-nuevo_leon-28239858",
+    "Lat": "25.713938",
+    "Lng": "-100.2658316"
+  },
+  {
+    "Título": "Local en Eje Metropolitano 40, Col. Villas Santo Domingo C.P. 66437, San Nicolás de los Garza",
+    "Precio": 7891000,
+    "Ubicación": "Eje Metropolitano 40, Col. Villas Santo Domingo C.P. 66437, San Nicolás de los Garza",
+    "Superficie": 450,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-eje-metropolitano-40-villas-santo-domingo-nuevo_leon-28746141",
+    "Lat": "25.7529845",
+    "Lng": "-100.2670324"
+  },
+  {
+    "Título": "Local en Romulo Garza, Col. La Fe C.P. 66477, San Nicolás de los Garza",
+    "Precio": 6000000,
+    "Ubicación": "Romulo Garza, Col. La Fe C.P. 66477, San Nicolás de los Garza",
+    "Superficie": 150,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-romulo-garza-la-fe-nuevo_leon-27817866",
+    "Lat": "25.7243562",
+    "Lng": "-100.2148351"
+  },
+  {
+    "Título": "Local en Plaza la Fe, Col. Miguel Aleman C.P. 66470, San Nicolás de los Garza",
+    "Precio": 4000000,
+    "Ubicación": "Plaza la Fe, Col. Miguel Aleman C.P. 66470, San Nicolás de los Garza",
+    "Superficie": 152,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-plaza-la-fe-miguel-aleman-nuevo_leon-25801894",
+    "Lat": "25.7179365",
+    "Lng": "-100.2249678"
+  },
+  {
+    "Título": "Local en Avenida Romulo Garza 100 #100, Col. La Fe C.P. 66477, San Nicolás de los Garza",
+    "Precio": 9000000,
+    "Ubicación": "Avenida Romulo Garza 100 #100, Col. La Fe C.P. 66477, San Nicolás de los Garza",
+    "Superficie": 112,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-romulo-garza-100-100-la-fe-nuevo_leon-27905140",
+    "Lat": "25.7224186",
+    "Lng": "-100.2161869"
+  },
+  {
+    "Título": "Local en  , Col. Villas Santo Domingo C.P. 66437, San Nicolás de los Garza",
+    "Precio": 2800000,
+    "Ubicación": " , Col. Villas Santo Domingo C.P. 66437, San Nicolás de los Garza",
+    "Superficie": 149,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-villas-santo-domingo-nuevo_leon-28482446",
+    "Lat": "25.7510554000",
+    "Lng": "-100.2617409000"
+  },
+  {
+    "Título": "Local en  , Col. La Fe C.P. 66477, San Nicolás de los Garza",
+    "Precio": 4000000,
+    "Ubicación": " , Col. La Fe C.P. 66477, San Nicolás de los Garza",
+    "Superficie": 150,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-la-fe-nuevo_leon-24987344",
+    "Lat": "25.7245785",
+    "Lng": "-100.2137565"
+  },
+  {
+    "Título": "Local en  , Col. Futuro Nogalar Sector 2 C.P. 66480, San Nicolás de los Garza",
+    "Precio": 5400000,
+    "Ubicación": " , Col. Futuro Nogalar Sector 2 C.P. 66480, San Nicolás de los Garza",
+    "Superficie": 162,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-futuro-nogalar-sector-2-nuevo_leon-29950130",
+    "Lat": "25.7147328000",
+    "Lng": "-100.2913533000"
+  },
+  {
+    "Título": "Local en Cordillera de los Andes #602, Col. Rincón de las Puentes C.P. 66460, San Nicolás de los Garza",
+    "Precio": 6000000,
+    "Ubicación": "Cordillera de los Andes #602, Col. Rincón de las Puentes C.P. 66460, San Nicolás de los Garza",
+    "Superficie": 458,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-cordillera-de-los-andes-602-rincon-de-las-puentes-nuevo_leon-25194711",
+    "Lat": "25.7394936",
+    "Lng": "-100.2798407"
+  }
+]

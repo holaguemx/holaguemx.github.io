@@ -1,0 +1,56 @@
+[
+  {
+    "Título": "Local en Av de la Industria, Col. Américo Villarreal C.P. 89604, Altamira",
+    "Precio": 7000,
+    "Ubicación": "Av de la Industria, Col. Américo Villarreal C.P. 89604, Altamira",
+    "Superficie": 20,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-de-la-industria-americo-villarreal-tamaulipas-28921498",
+    "Lat": "22.3286000000",
+    "Lng": "-97.8741000000"
+  },
+  {
+    "Título": "Local en Av de la Industria, Col. Américo Villarreal C.P. 89604, Altamira",
+    "Precio": 25762,
+    "Ubicación": "Av de la Industria, Col. Américo Villarreal C.P. 89604, Altamira",
+    "Superficie": 117,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-de-la-industria-americo-villarreal-tamaulipas-28921500",
+    "Lat": "22.3286000000",
+    "Lng": "-97.8741000000"
+  },
+  {
+    "Título": "Local en , Col. Altamira Centro C.P. 89600, Altamira",
+    "Precio": 5000,
+    "Ubicación": ", Col. Altamira Centro C.P. 89600, Altamira",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-altamira-centro-tamaulipas-29864101",
+    "Lat": "22.3946522000",
+    "Lng": "-97.9381856000"
+  },
+  {
+    "Título": "Local en  , Col. Tampico Altamira C.P. 89605, Altamira",
+    "Precio": 20000,
+    "Ubicación": " , Col. Tampico Altamira C.P. 89605, Altamira",
+    "Superficie": 100,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-tampico-altamira-tamaulipas-20196566",
+    "Lat": "22.3282786",
+    "Lng": "-97.88168429999999"
+  },
+  {
+    "Título": "Local en Cuahutemoc, Col. Monte Alto C.P. 89606, Altamira",
+    "Precio": 3500,
+    "Ubicación": "Cuahutemoc, Col. Monte Alto C.P. 89606, Altamira",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-cuahutemoc-monte-alto-tamaulipas-29286606",
+    "Lat": "22.3648000000",
+    "Lng": "-97.9088000000"
+  },
+  {
+    "Título": "Local en Miguel Hidalgo, Col. Altamira Centro C.P. 89600, Altamira",
+    "Precio": 6000,
+    "Ubicación": "Miguel Hidalgo, Col. Altamira Centro C.P. 89600, Altamira",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-miguel-hidalgo-altamira-centro-tamaulipas-23711608",
+    "Lat": "22.3911000000",
+    "Lng": "-97.9368000000"
+  }
+]

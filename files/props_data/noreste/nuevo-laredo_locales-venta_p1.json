@@ -1,0 +1,47 @@
+[
+  {
+    "Título": "Local en Boulevard Pedro Pérez Ibarra 120 #120, Col. Residencial Longoria C.P. 88277, Nuevo Laredo",
+    "Precio": 660000,
+    "Ubicación": "Boulevard Pedro Pérez Ibarra 120 #120, Col. Residencial Longoria C.P. 88277, Nuevo Laredo",
+    "Superficie": 25,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-boulevard-pedro-perez-ibarra-120-120-residencial-longoria-tamaulipas-30018116",
+    "Lat": "27.44943",
+    "Lng": "-99.5184182"
+  },
+  {
+    "Título": "Local en Lago de Camecuaro 5544 #5544, Col. América 4 C.P. 88299, Nuevo Laredo",
+    "Precio": 6000000,
+    "Ubicación": "Lago de Camecuaro 5544 #5544, Col. América 4 C.P. 88299, Nuevo Laredo",
+    "Superficie": 300,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-lago-de-camecuaro-5544-5544-america-4-tamaulipas-28838264",
+    "Lat": "27.4500744",
+    "Lng": "-99.52742359999999"
+  },
+  {
+    "Título": "Local en Calle Guadalupe García 5711 #5711, Col. Balcones del Valle C.P. 88290, Nuevo Laredo",
+    "Precio": 3850000,
+    "Ubicación": "Calle Guadalupe García 5711 #5711, Col. Balcones del Valle C.P. 88290, Nuevo Laredo",
+    "Superficie": 295,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-calle-guadalupe-garcia-5711-5711-balcones-del-valle-tamaulipas-30018043",
+    "Lat": "27.4484167",
+    "Lng": "-99.533921"
+  },
+  {
+    "Título": "Local en Guerrero, Col. Nuevo Laredo Centro C.P. 88000, Nuevo Laredo",
+    "Precio": 5500000,
+    "Ubicación": "Guerrero, Col. Nuevo Laredo Centro C.P. 88000, Nuevo Laredo",
+    "Superficie": 250,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-guerrero-nuevo-laredo-centro-tamaulipas-29789528",
+    "Lat": "27.4953801",
+    "Lng": "-99.5089043"
+  },
+  {
+    "Título": "Local en Doctor Mier, Col. Buenavista C.P. 88120, Nuevo Laredo",
+    "Precio": 1740000,
+    "Ubicación": "Doctor Mier, Col. Buenavista C.P. 88120, Nuevo Laredo",
+    "Superficie": 140,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-doctor-mier-buenavista-tamaulipas-29784564",
+    "Lat": "27.4946436",
+    "Lng": "-99.5525019"
+  }
+]

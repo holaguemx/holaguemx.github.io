@@ -1,0 +1,425 @@
+[
+  {
+    "Título": "Local en ENCINO, Col. Águila C.P. 89230, Tampico",
+    "Precio": 65000,
+    "Ubicación": "ENCINO, Col. Águila C.P. 89230, Tampico",
+    "Superficie": 750,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-encino-aguila-tamaulipas-28174140",
+    "Lat": "22.2455000000",
+    "Lng": "-97.8730000000"
+  },
+  {
+    "Título": "Local en  Av. Miguel Hidalgo S/N-Local 11,89349 Tampico, Tamps., Col. Coyolitos C.P. 89349, Tampico",
+    "Precio": 17920,
+    "Ubicación": " Av. Miguel Hidalgo S/N-Local 11,89349 Tampico, Tamps., Col. Coyolitos C.P. 89349, Tampico",
+    "Superficie": 45,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-miguel-hidalgo-snlocal-1189349-tampico-tamps-coyolitos-tamaulipas-30039249",
+    "Lat": "22.2991267",
+    "Lng": "-97.8915813"
+  },
+  {
+    "Título": "Local en  , Col. Petrolera C.P. 89110, Tampico",
+    "Precio": 5000,
+    "Ubicación": " , Col. Petrolera C.P. 89110, Tampico",
+    "Superficie": 45,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-petrolera-tamaulipas-30068873",
+    "Lat": "22.2578968000",
+    "Lng": "-97.8680786000"
+  },
+  {
+    "Título": "Local en FRANCISCO VILLA, Col. Jose Lopez Portillo C.P. 89338, Tampico",
+    "Precio": 8000,
+    "Ubicación": "FRANCISCO VILLA, Col. Jose Lopez Portillo C.P. 89338, Tampico",
+    "Superficie": 35,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-francisco-villa-jose-lopez-portillo-tamaulipas-28623396",
+    "Lat": "22.2988000000",
+    "Lng": "-97.8583000000"
+  },
+  {
+    "Título": "Local en COLONIA NIÑOS HEROES, Col. Niños Héroes C.P. 89359, Tampico",
+    "Precio": 59580,
+    "Ubicación": "COLONIA NIÑOS HEROES, Col. Niños Héroes C.P. 89359, Tampico",
+    "Superficie": 238,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-colonia-ninos-heroes-ninos-heroes-tamaulipas-30039702",
+    "Lat": "22.3201055",
+    "Lng": "-97.8823647"
+  },
+  {
+    "Título": "Local en Altamira, Col. Tampico C.P. 89137, Tampico",
+    "Precio": 250000,
+    "Ubicación": "Altamira, Col. Tampico C.P. 89137, Tampico",
+    "Superficie": 1755,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-altamira-tampico-tamaulipas-27588766",
+    "Lat": "22.2162752723",
+    "Lng": "-97.8554872642"
+  },
+  {
+    "Título": "Local en  , Col. Flores C.P. 89220, Tampico",
+    "Precio": 18000,
+    "Ubicación": " , Col. Flores C.P. 89220, Tampico",
+    "Superficie": 70,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-flores-tamaulipas-24704201",
+    "Lat": "22.2472905000",
+    "Lng": "-97.8736581000"
+  },
+  {
+    "Título": "Local en 20 De Noviembre, Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 60000,
+    "Ubicación": "20 De Noviembre, Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 340,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-20-de-noviembre-tampico-centro-tamaulipas-28177777",
+    "Lat": "22.2187000000",
+    "Lng": "-97.8580000000"
+  },
+  {
+    "Título": "Local en 2 de enero, Col. Tamaulipas C.P. 89060, Tampico",
+    "Precio": 4500,
+    "Ubicación": "2 de enero, Col. Tamaulipas C.P. 89060, Tampico",
+    "Superficie": 20,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-2-de-enero-tamaulipas-tamaulipas-28177774",
+    "Lat": "22.2145000000",
+    "Lng": "-97.8485000000"
+  },
+  {
+    "Título": "Local en Flores, Tampico, Tamaulipas, 89220, Col. Flores C.P. 89220, Tampico",
+    "Precio": 16000,
+    "Ubicación": "Flores, Tampico, Tamaulipas, 89220, Col. Flores C.P. 89220, Tampico",
+    "Superficie": 50,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-flores-tampico-tamaulipas-89220-flores-tamaulipas-27410584",
+    "Lat": "22.2479136",
+    "Lng": "-97.8755614"
+  },
+  {
+    "Título": "Local en  , Col. Guadalupe Mainero C.P. 89070, Tampico",
+    "Precio": 7000,
+    "Ubicación": " , Col. Guadalupe Mainero C.P. 89070, Tampico",
+    "Superficie": 75,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-guadalupe-mainero-tamaulipas-28520033",
+    "Lat": "22.2251791000",
+    "Lng": "-97.8488012000"
+  },
+  {
+    "Título": "Local en  , Col. El Charro C.P. 89364, Tampico",
+    "Precio": 140400,
+    "Ubicación": " , Col. El Charro C.P. 89364, Tampico",
+    "Superficie": 780,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-el-charro-tamaulipas-6855417",
+    "Lat": "22.2740925",
+    "Lng": "-97.8850861"
+  },
+  {
+    "Título": "Local en SALVADOR DIAZ MIRON, Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 70000,
+    "Ubicación": "SALVADOR DIAZ MIRON, Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 1200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-salvador-diaz-miron-tampico-centro-tamaulipas-28174032",
+    "Lat": "22.2130000000",
+    "Lng": "-97.8531000000"
+  },
+  {
+    "Título": "Local en  , Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 5500,
+    "Ubicación": " , Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 25,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-tampico-centro-tamaulipas-29421902",
+    "Lat": "22.2253239000",
+    "Lng": "-97.8578170000"
+  },
+  {
+    "Título": "Local en  , Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 35000,
+    "Ubicación": " , Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 260,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-tampico-centro-tamaulipas-27059091",
+    "Lat": "22.2173639000",
+    "Lng": "-97.8557504000"
+  },
+  {
+    "Título": "Local en , Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 20000,
+    "Ubicación": ", Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 169,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-tampico-centro-tamaulipas-29836465",
+    "Lat": "22.2189273970",
+    "Lng": "-97.8614982590"
+  },
+  {
+    "Título": "Local en Eucalipto, Col. Altavista C.P. 89240, Tampico",
+    "Precio": 14000,
+    "Ubicación": "Eucalipto, Col. Altavista C.P. 89240, Tampico",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-eucalipto-altavista-tamaulipas-30148206",
+    "Lat": "22.2381832",
+    "Lng": "-97.8717197"
+  },
+  {
+    "Título": "Local en 2 de Enero, Col. Tamaulipas C.P. 89060, Tampico",
+    "Precio": 4000,
+    "Ubicación": "2 de Enero, Col. Tamaulipas C.P. 89060, Tampico",
+    "Superficie": 20,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-2-de-enero-tamaulipas-tamaulipas-28177467",
+    "Lat": "22.2146000000",
+    "Lng": "-97.8486000000"
+  },
+  {
+    "Título": "Local en  , Col. Los Pinos C.P. 89138, Tampico",
+    "Precio": 15000,
+    "Ubicación": " , Col. Los Pinos C.P. 89138, Tampico",
+    "Superficie": 80,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-los-pinos-tamaulipas-28479022",
+    "Lat": "22.2657605928",
+    "Lng": "-97.8590172529"
+  },
+  {
+    "Título": "Local en 2 de Enero, Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 60000,
+    "Ubicación": "2 de Enero, Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-2-de-enero-tampico-centro-tamaulipas-25412549",
+    "Lat": "22.2140000000",
+    "Lng": "-97.8486000000"
+  },
+  {
+    "Título": "Local en  , Col. Las Américas C.P. 89329, Tampico",
+    "Precio": 80000,
+    "Ubicación": " , Col. Las Américas C.P. 89329, Tampico",
+    "Superficie": 729,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-americas-tamaulipas-29244402",
+    "Lat": "22.3052138000",
+    "Lng": "-97.8828950000"
+  },
+  {
+    "Título": "Local en  , Col. Melchor Ocampo C.P. 89270, Tampico",
+    "Precio": 10000,
+    "Ubicación": " , Col. Melchor Ocampo C.P. 89270, Tampico",
+    "Superficie": 75,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-melchor-ocampo-tamaulipas-29313649",
+    "Lat": "22.2214451000",
+    "Lng": "-97.8643375000"
+  },
+  {
+    "Título": "Local en 2 de enero, Col. Tamaulipas C.P. 89060, Tampico",
+    "Precio": 12500,
+    "Ubicación": "2 de enero, Col. Tamaulipas C.P. 89060, Tampico",
+    "Superficie": 120,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-2-de-enero-tamaulipas-tamaulipas-28177337",
+    "Lat": "22.2146000000",
+    "Lng": "-97.8485000000"
+  },
+  {
+    "Título": "Local en  , Col. Las Américas C.P. 89329, Tampico",
+    "Precio": 30000,
+    "Ubicación": " , Col. Las Américas C.P. 89329, Tampico",
+    "Superficie": 223,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-americas-tamaulipas-28225484",
+    "Lat": "22.3178167000",
+    "Lng": "-97.8782624000"
+  },
+  {
+    "Título": "Local en  , Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 5000,
+    "Ubicación": " , Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 50,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-tampico-centro-tamaulipas-30129306",
+    "Lat": "22.2134528000",
+    "Lng": "-97.8568976000"
+  },
+  {
+    "Título": "Local en  , Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 15000,
+    "Ubicación": " , Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-tampico-centro-tamaulipas-28851287",
+    "Lat": "22.2152183000",
+    "Lng": "-97.8512020000"
+  },
+  {
+    "Título": "Local en  , Col. El Charro C.P. 89364, Tampico",
+    "Precio": 120000,
+    "Ubicación": " , Col. El Charro C.P. 89364, Tampico",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-el-charro-tamaulipas-28702883",
+    "Lat": "22.2707259532",
+    "Lng": "-97.8748338735"
+  },
+  {
+    "Título": "Local en Tamaulipas, Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 20000,
+    "Ubicación": "Tamaulipas, Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 100,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-tamaulipas-tampico-centro-tamaulipas-12055096",
+    "Lat": "22.2182000000",
+    "Lng": "-97.8556000000"
+  },
+  {
+    "Título": "Local en  , Col. Volantín C.P. 89199, Tampico",
+    "Precio": 14000,
+    "Ubicación": " , Col. Volantín C.P. 89199, Tampico",
+    "Superficie": 44,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-volantin-tamaulipas-29922128",
+    "Lat": "22.2272529123",
+    "Lng": "-97.8593023226"
+  },
+  {
+    "Título": "Local en , Col. Altavista C.P. 89240, Tampico",
+    "Precio": 70000,
+    "Ubicación": ", Col. Altavista C.P. 89240, Tampico",
+    "Superficie": 700,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-altavista-tamaulipas-30031609",
+    "Lat": "22.2365220000",
+    "Lng": "-97.8686585000"
+  },
+  {
+    "Título": "Local en  , Col. El Naranjal C.P. 89349, Tampico",
+    "Precio": 6000,
+    "Ubicación": " , Col. El Naranjal C.P. 89349, Tampico",
+    "Superficie": 25,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-el-naranjal-tamaulipas-25231423",
+    "Lat": "22.2981553000",
+    "Lng": "-97.8915607000"
+  },
+  {
+    "Título": "Local en  , Col. Enrique Cárdenas Gonzalez C.P. 89309, Tampico",
+    "Precio": 25000,
+    "Ubicación": " , Col. Enrique Cárdenas Gonzalez C.P. 89309, Tampico",
+    "Superficie": 131,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-enrique-cardenas-gonzalez-tamaulipas-28117145",
+    "Lat": "22.3029585000",
+    "Lng": "-97.8544755000"
+  },
+  {
+    "Título": "Local en , Col. Flores C.P. 89220, Tampico",
+    "Precio": 31000,
+    "Ubicación": ", Col. Flores C.P. 89220, Tampico",
+    "Superficie": 135,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-flores-tamaulipas-29960940",
+    "Lat": "22.2492776000",
+    "Lng": "-97.8750937000"
+  },
+  {
+    "Título": "Local en  , Col. Campbell C.P. 89260, Tampico",
+    "Precio": 95000,
+    "Ubicación": " , Col. Campbell C.P. 89260, Tampico",
+    "Superficie": 525,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-campbell-tamaulipas-29941027",
+    "Lat": "22.2231472000",
+    "Lng": "-97.8673984000"
+  },
+  {
+    "Título": "Local en  , Col. Guadalupe Mainero C.P. 89070, Tampico",
+    "Precio": 63391,
+    "Ubicación": " , Col. Guadalupe Mainero C.P. 89070, Tampico",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-guadalupe-mainero-tamaulipas-28038624",
+    "Lat": "22.2180154",
+    "Lng": "-97.85107509999999"
+  },
+  {
+    "Título": "Local en Rosalio Bustamante #206, Col. Allende C.P. 89130, Tampico",
+    "Precio": 17000,
+    "Ubicación": "Rosalio Bustamante #206, Col. Allende C.P. 89130, Tampico",
+    "Superficie": 223,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-rosalio-bustamante-206-allende-tamaulipas-29116226",
+    "Lat": "22.2504923000",
+    "Lng": "-97.8582278000"
+  },
+  {
+    "Título": "Local en  , Col. Universidad Poniente C.P. 89336, Tampico",
+    "Precio": 10000,
+    "Ubicación": " , Col. Universidad Poniente C.P. 89336, Tampico",
+    "Superficie": 50,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-universidad-poniente-tamaulipas-28740822",
+    "Lat": "22.2851794000",
+    "Lng": "-97.8701193000"
+  },
+  {
+    "Título": "Local en  , Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 40000,
+    "Ubicación": " , Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 149,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-tampico-centro-tamaulipas-28436906",
+    "Lat": "22.2145810000",
+    "Lng": "-97.8563894000"
+  },
+  {
+    "Título": "Local en , Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 64000,
+    "Ubicación": ", Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 180,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-tampico-centro-tamaulipas-29827483",
+    "Lat": "22.2160800000",
+    "Lng": "-97.8550700000"
+  },
+  {
+    "Título": "Local en  , Col. Chairel C.P. 89239, Tampico",
+    "Precio": 4000,
+    "Ubicación": " , Col. Chairel C.P. 89239, Tampico",
+    "Superficie": 36,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-chairel-tamaulipas-29528396",
+    "Lat": "22.2417071000",
+    "Lng": "-97.8706162000"
+  },
+  {
+    "Título": "Local en  , Col. El Naranjal C.P. 89349, Tampico",
+    "Precio": 16500,
+    "Ubicación": " , Col. El Naranjal C.P. 89349, Tampico",
+    "Superficie": 11,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-el-naranjal-tamaulipas-29822933",
+    "Lat": "22.2615089000",
+    "Lng": "-97.8732452000"
+  },
+  {
+    "Título": "Local en Av Cuauhtemoc #3303, Col. Hidalgo C.P. 89130, Tampico",
+    "Precio": 15000,
+    "Ubicación": "Av Cuauhtemoc #3303, Col. Hidalgo C.P. 89130, Tampico",
+    "Superficie": null,
+    "Enlace": "https://www.propiedades.com/inmuebles/local-en-renta-av-cuauhtemoc-3303-hidalgo-tamaulipas-29936795",
+    "Lat": "22.2461303",
+    "Lng": "-97.8588962"
+  },
+  {
+    "Título": "Local en  , Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 22500,
+    "Ubicación": " , Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 300,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-tampico-centro-tamaulipas-28702823",
+    "Lat": "22.2144121000",
+    "Lng": "-97.8558674000"
+  },
+  {
+    "Título": "Local en  , Col. Águila C.P. 89230, Tampico",
+    "Precio": 55000,
+    "Ubicación": " , Col. Águila C.P. 89230, Tampico",
+    "Superficie": 750,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-aguila-tamaulipas-27440437",
+    "Lat": "22.2453407000",
+    "Lng": "-97.8728191000"
+  },
+  {
+    "Título": "Local en  , Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 15000,
+    "Ubicación": " , Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 105,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-tampico-centro-tamaulipas-6855662",
+    "Lat": "22.2141924000",
+    "Lng": "-97.8538017000"
+  },
+  {
+    "Título": "Local en  , Col. Petrolera C.P. 89110, Tampico",
+    "Precio": 12000,
+    "Ubicación": " , Col. Petrolera C.P. 89110, Tampico",
+    "Superficie": 38,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-petrolera-tamaulipas-28963546",
+    "Lat": "22.2575898000",
+    "Lng": "-97.8691484000"
+  },
+  {
+    "Título": "Local en GENERAL ALVARO OBRERON, Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 80000,
+    "Ubicación": "GENERAL ALVARO OBRERON, Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 180,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-general-alvaro-obreron-tampico-centro-tamaulipas-29492912",
+    "Lat": "22.2177000000",
+    "Lng": "-97.8563000000"
+  }
+]

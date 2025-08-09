@@ -1,0 +1,74 @@
+[
+  {
+    "Título": "Terreno comercial en Boulevard Morelos, Col. Ciudad Reynosa Centro C.P. 88500, Reynosa",
+    "Precio": 200000,
+    "Ubicación": "Boulevard Morelos, Col. Ciudad Reynosa Centro C.P. 88500, Reynosa",
+    "Superficie": 5316,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-boulevard-morelos-ciudad-reynosa-centro-tamaulipas-29894441",
+    "Lat": "26.0509085",
+    "Lng": "-98.2904828"
+  },
+  {
+    "Título": "Terreno comercial en Blvd Villa de esmeralda, Col. Balcones de Alcalá C.P. 88799, Reynosa",
+    "Precio": 25000,
+    "Ubicación": "Blvd Villa de esmeralda, Col. Balcones de Alcalá C.P. 88799, Reynosa",
+    "Superficie": 1000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-blvd-villa-de-esmeralda-balcones-de-alcala-tamaulipas-29363735",
+    "Lat": "26.0043289042",
+    "Lng": "-98.2520842552"
+  },
+  {
+    "Título": "Terreno comercial en Cuarta esquina con Tercera, Col. La Escondida (ejido) C.P. 88770, Reynosa",
+    "Precio": 35000,
+    "Ubicación": "Cuarta esquina con Tercera, Col. La Escondida (ejido) C.P. 88770, Reynosa",
+    "Superficie": 659,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-cuarta-esquina-con-tercera-la-escondida-ejido-tamaulipas-27858624",
+    "Lat": "26.036039691687",
+    "Lng": "-98.26929509061102"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Lomas Del Real de Jarachinas C.P. 88730, Reynosa",
+    "Precio": 150000,
+    "Ubicación": " , Col. Lomas Del Real de Jarachinas C.P. 88730, Reynosa",
+    "Superficie": 2000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-lomas-del-real-de-jarachinas-tamaulipas-28661905",
+    "Lat": "",
+    "Lng": ""
+  },
+  {
+    "Título": "Terreno comercial en PANAMA, Col. Anzalduas C.P. 88630, Reynosa",
+    "Precio": 29000,
+    "Ubicación": "PANAMA, Col. Anzalduas C.P. 88630, Reynosa",
+    "Superficie": 400,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-panama-anzalduas-tamaulipas-28714752",
+    "Lat": "26.0769000000",
+    "Lng": "-98.2766000000"
+  },
+  {
+    "Título": "Terreno comercial en MERIDA CON MORELOS, Col. Rodriguez C.P. 88630, Reynosa",
+    "Precio": 150000,
+    "Ubicación": "MERIDA CON MORELOS, Col. Rodriguez C.P. 88630, Reynosa",
+    "Superficie": 2,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-merida-con-morelos-rodriguez-tamaulipas-28714751",
+    "Lat": "26.0794000000",
+    "Lng": "-98.2856000000"
+  },
+  {
+    "Título": "Terreno comercial en GUERRERO, Col. Ciudad Reynosa Centro C.P. 88500, Reynosa",
+    "Precio": 70000,
+    "Ubicación": "GUERRERO, Col. Ciudad Reynosa Centro C.P. 88500, Reynosa",
+    "Superficie": 1300,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-guerrero-ciudad-reynosa-centro-tamaulipas-27312995",
+    "Lat": "26.094934",
+    "Lng": "-98.2936778"
+  },
+  {
+    "Título": "Terreno comercial en Delia #331, Col. Almaguer C.P. 88780, Reynosa",
+    "Precio": 20000,
+    "Ubicación": "Delia #331, Col. Almaguer C.P. 88780, Reynosa",
+    "Superficie": 1000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-delia-331-almaguer-tamaulipas-28263798",
+    "Lat": "26.0283544",
+    "Lng": "-98.22950089999999"
+  }
+]

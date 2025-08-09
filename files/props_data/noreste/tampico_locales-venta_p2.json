@@ -1,0 +1,425 @@
+[
+  {
+    "Título": "Local en  , Col. Tampico C.P. 89137, Tampico",
+    "Precio": 1400000,
+    "Ubicación": " , Col. Tampico C.P. 89137, Tampico",
+    "Superficie": 20,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-tampico-tamaulipas-25345287",
+    "Lat": "22.251401",
+    "Lng": "-97.8646776"
+  },
+  {
+    "Título": "Local en  , Col. Tancol C.P. 89320, Tampico",
+    "Precio": 3500000,
+    "Ubicación": " , Col. Tancol C.P. 89320, Tampico",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-tancol-tamaulipas-29829532",
+    "Lat": "22.3172402000",
+    "Lng": "-97.8867826000"
+  },
+  {
+    "Título": "Local en  , Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 2000000,
+    "Ubicación": " , Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 312,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-tampico-centro-tamaulipas-7248027",
+    "Lat": "22.2171112",
+    "Lng": "-97.85447549999999"
+  },
+  {
+    "Título": "Local en , Col. Volantín C.P. 89199, Tampico",
+    "Precio": 1200000,
+    "Ubicación": ", Col. Volantín C.P. 89199, Tampico",
+    "Superficie": 35,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-volantin-tamaulipas-29880468",
+    "Lat": "22.2220333000",
+    "Lng": "-97.8506505000"
+  },
+  {
+    "Título": "Local en Francisco I. Madero, Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 500000,
+    "Ubicación": "Francisco I. Madero, Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 30,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-francisco-i-madero-tampico-centro-tamaulipas-18442803",
+    "Lat": "22.2140762652",
+    "Lng": "-97.8570046253"
+  },
+  {
+    "Título": "Local en Av. Hidalgo, Col. Matamoros C.P. 89270, Tampico",
+    "Precio": 1900000,
+    "Ubicación": "Av. Hidalgo, Col. Matamoros C.P. 89270, Tampico",
+    "Superficie": 277,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-av-hidalgo-matamoros-tamaulipas-26370606",
+    "Lat": "22.2257000000",
+    "Lng": "-97.8645000000"
+  },
+  {
+    "Título": "Local en  , Col. Martock C.P. 89170, Tampico",
+    "Precio": 1400000,
+    "Ubicación": " , Col. Martock C.P. 89170, Tampico",
+    "Superficie": 20,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-martock-tamaulipas-28287669",
+    "Lat": "22.2348802000",
+    "Lng": "-97.8676535000"
+  },
+  {
+    "Título": "Local en  , Col. Anáhuac C.P. 89180, Tampico",
+    "Precio": 730000,
+    "Ubicación": " , Col. Anáhuac C.P. 89180, Tampico",
+    "Superficie": 16,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-anahuac-tamaulipas-26853581",
+    "Lat": "22.2339028",
+    "Lng": "-97.85923629999999"
+  },
+  {
+    "Título": "Local en ALTAMIRA, Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 1200000,
+    "Ubicación": "ALTAMIRA, Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 126,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-altamira-tampico-centro-tamaulipas-30052415",
+    "Lat": "22.2134528",
+    "Lng": "-97.8568976"
+  },
+  {
+    "Título": "Local en  , Col. Tamaulipas C.P. 89060, Tampico",
+    "Precio": 1800000,
+    "Ubicación": " , Col. Tamaulipas C.P. 89060, Tampico",
+    "Superficie": 72,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-tamaulipas-tamaulipas-29835879",
+    "Lat": "22.2331041000",
+    "Lng": "-97.8610990000"
+  },
+  {
+    "Título": "Local en  , Col. Lomas Del Naranjal C.P. 89106, Tampico",
+    "Precio": 1450000,
+    "Ubicación": " , Col. Lomas Del Naranjal C.P. 89106, Tampico",
+    "Superficie": 62,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-lomas-del-naranjal-tamaulipas-28065253",
+    "Lat": "22.2574427220",
+    "Lng": "-97.8751829203"
+  },
+  {
+    "Título": "Local en General San Martin, Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 10000000,
+    "Ubicación": "General San Martin, Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 428,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-general-san-martin-tampico-centro-tamaulipas-27952474",
+    "Lat": "22.2127000000",
+    "Lng": "-97.8527000000"
+  },
+  {
+    "Título": "Local en  , Col. Anáhuac C.P. 89180, Tampico",
+    "Precio": 850000,
+    "Ubicación": " , Col. Anáhuac C.P. 89180, Tampico",
+    "Superficie": 22,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-anahuac-tamaulipas-29193254",
+    "Lat": "",
+    "Lng": ""
+  },
+  {
+    "Título": "Local en  , Col. Lomas Del Chairel C.P. 89360, Tampico",
+    "Precio": 1150000,
+    "Ubicación": " , Col. Lomas Del Chairel C.P. 89360, Tampico",
+    "Superficie": 27,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-lomas-del-chairel-tamaulipas-26801120",
+    "Lat": "22.2774463665",
+    "Lng": "-97.8791391850"
+  },
+  {
+    "Título": "Local en  , Col. Tamaulipas C.P. 89060, Tampico",
+    "Precio": 1200000,
+    "Ubicación": " , Col. Tamaulipas C.P. 89060, Tampico",
+    "Superficie": 50,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-tamaulipas-tamaulipas-26414120",
+    "Lat": "22.2219274000",
+    "Lng": "-97.8436286000"
+  },
+  {
+    "Título": "Local en  , Col. Emilio Portes Gil C.P. 89316, Tampico",
+    "Precio": 3650000,
+    "Ubicación": " , Col. Emilio Portes Gil C.P. 89316, Tampico",
+    "Superficie": 320,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-emilio-portes-gil-tamaulipas-29822238",
+    "Lat": "22.3079764276",
+    "Lng": "-97.8689052785"
+  },
+  {
+    "Título": "Local en Avenida los leones, Col. Universidad C.P. 89138, Tampico",
+    "Precio": 1450000,
+    "Ubicación": "Avenida los leones, Col. Universidad C.P. 89138, Tampico",
+    "Superficie": 63,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-los-leones-universidad-tamaulipas-21499268",
+    "Lat": "22.2573000000",
+    "Lng": "-97.8570000000"
+  },
+  {
+    "Título": "Local en  , Col. Enrique Cárdenas Gonzalez C.P. 89309, Tampico",
+    "Precio": 2000000,
+    "Ubicación": " , Col. Enrique Cárdenas Gonzalez C.P. 89309, Tampico",
+    "Superficie": 100,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-enrique-cardenas-gonzalez-tamaulipas-27378817",
+    "Lat": "22.3028393854",
+    "Lng": "-97.8566266316"
+  },
+  {
+    "Título": "Local en  , Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 4800000,
+    "Ubicación": " , Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 268,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-tampico-centro-tamaulipas-26499440",
+    "Lat": "22.2177789000",
+    "Lng": "-97.8545154000"
+  },
+  {
+    "Título": "Local en , Col. Cascajal C.P. 89280, Tampico",
+    "Precio": 3600000,
+    "Ubicación": ", Col. Cascajal C.P. 89280, Tampico",
+    "Superficie": 669,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-cascajal-tamaulipas-29842412",
+    "Lat": "22.2180234874",
+    "Lng": "-97.8638185652"
+  },
+  {
+    "Título": "Local en  , Col. Laguna de La Puerta C.P. 89310, Tampico",
+    "Precio": 2800000,
+    "Ubicación": " , Col. Laguna de La Puerta C.P. 89310, Tampico",
+    "Superficie": 175,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-laguna-de-la-puerta-tamaulipas-27649350",
+    "Lat": "22.3110473",
+    "Lng": "-97.87079949999999"
+  },
+  {
+    "Título": "Local en  , Col. Tamaulipas C.P. 89060, Tampico",
+    "Precio": 1200000,
+    "Ubicación": " , Col. Tamaulipas C.P. 89060, Tampico",
+    "Superficie": 30,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-tamaulipas-tamaulipas-27553798",
+    "Lat": "22.2265173",
+    "Lng": "-97.8435949"
+  },
+  {
+    "Título": "Local en  , Col. Cascajal C.P. 89280, Tampico",
+    "Precio": 1500000,
+    "Ubicación": " , Col. Cascajal C.P. 89280, Tampico",
+    "Superficie": 430,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-cascajal-tamaulipas-23803087",
+    "Lat": "22.2187726",
+    "Lng": "-97.86603799999999"
+  },
+  {
+    "Título": "Local en  , Col. Enrique Cárdenas Gonzalez C.P. 89309, Tampico",
+    "Precio": 1100000,
+    "Ubicación": " , Col. Enrique Cárdenas Gonzalez C.P. 89309, Tampico",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-enrique-cardenas-gonzalez-tamaulipas-7248178",
+    "Lat": "22.3029585000",
+    "Lng": "-97.8544755000"
+  },
+  {
+    "Título": "Local en , Col. Anáhuac C.P. 89180, Tampico",
+    "Precio": 1200000,
+    "Ubicación": ", Col. Anáhuac C.P. 89180, Tampico",
+    "Superficie": 92,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-anahuac-tamaulipas-29873345",
+    "Lat": "22.2272197000",
+    "Lng": "-97.8593006000"
+  },
+  {
+    "Título": "Local en , Col. Flamboyanes C.P. 89330, Tampico",
+    "Precio": 4000000,
+    "Ubicación": ", Col. Flamboyanes C.P. 89330, Tampico",
+    "Superficie": 192,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-flamboyanes-tamaulipas-29815273",
+    "Lat": "22.2747529000",
+    "Lng": "-97.8714798000"
+  },
+  {
+    "Título": "Local en  , Col. Lomas Del Naranjal C.P. 89106, Tampico",
+    "Precio": 1650000,
+    "Ubicación": " , Col. Lomas Del Naranjal C.P. 89106, Tampico",
+    "Superficie": 56,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-lomas-del-naranjal-tamaulipas-27228368",
+    "Lat": "22.2621271000",
+    "Lng": "-97.8727909000"
+  },
+  {
+    "Título": "Local en  , Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 3500000,
+    "Ubicación": " , Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 352,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-tampico-centro-tamaulipas-8362403",
+    "Lat": "22.2171112",
+    "Lng": "-97.85447549999999"
+  },
+  {
+    "Título": "Local en  , Col. Del Pueblo C.P. 89190, Tampico",
+    "Precio": 17000000,
+    "Ubicación": " , Col. Del Pueblo C.P. 89190, Tampico",
+    "Superficie": 4139,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-del-pueblo-tamaulipas-18497276",
+    "Lat": "22.2235418000",
+    "Lng": "-97.8592363000"
+  },
+  {
+    "Título": "Local en  , Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 7420000,
+    "Ubicación": " , Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 277,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-tampico-centro-tamaulipas-28431635",
+    "Lat": "22.2145810000",
+    "Lng": "-97.8563894000"
+  },
+  {
+    "Título": "Local en Isauro Alfaro, Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 1200000,
+    "Ubicación": "Isauro Alfaro, Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-isauro-alfaro-tampico-centro-tamaulipas-28174047",
+    "Lat": "22.2165000000",
+    "Lng": "-97.8527000000"
+  },
+  {
+    "Título": "Local en  , Col. Petrolera C.P. 89110, Tampico",
+    "Precio": 1400000,
+    "Ubicación": " , Col. Petrolera C.P. 89110, Tampico",
+    "Superficie": 67,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-petrolera-tamaulipas-29487926",
+    "Lat": "22.2938437000",
+    "Lng": "-97.8787465000"
+  },
+  {
+    "Título": "Local en  , Col. Unidad Del Valle C.P. 89314, Tampico",
+    "Precio": 3800000,
+    "Ubicación": " , Col. Unidad Del Valle C.P. 89314, Tampico",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-unidad-del-valle-tamaulipas-28037008",
+    "Lat": "22.3074227000",
+    "Lng": "-97.8616168000"
+  },
+  {
+    "Título": "Local en  , Col. Jardines de Champayan 1 C.P. 89358, Tampico",
+    "Precio": 1390000,
+    "Ubicación": " , Col. Jardines de Champayan 1 C.P. 89358, Tampico",
+    "Superficie": 99,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-jardines-de-champayan-1-tamaulipas-29423495",
+    "Lat": "22.3163146000",
+    "Lng": "-97.8905582000"
+  },
+  {
+    "Título": "Local en  , Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 3600000,
+    "Ubicación": " , Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 264,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-tampico-centro-tamaulipas-17798209",
+    "Lat": "22.2171112",
+    "Lng": "-97.85447549999999"
+  },
+  {
+    "Título": "Local en  , Col. Volantín C.P. 89199, Tampico",
+    "Precio": 680000,
+    "Ubicación": " , Col. Volantín C.P. 89199, Tampico",
+    "Superficie": 22,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-volantin-tamaulipas-27106170",
+    "Lat": "22.2277849",
+    "Lng": "-97.8633172"
+  },
+  {
+    "Título": "Local en  , Col. Del Pueblo C.P. 89190, Tampico",
+    "Precio": 2300000,
+    "Ubicación": " , Col. Del Pueblo C.P. 89190, Tampico",
+    "Superficie": 207,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-del-pueblo-tamaulipas-28754378",
+    "Lat": "22.2252503000",
+    "Lng": "-97.8629410000"
+  },
+  {
+    "Título": "Local en  , Col. Los Pinos C.P. 89138, Tampico",
+    "Precio": 5500000,
+    "Ubicación": " , Col. Los Pinos C.P. 89138, Tampico",
+    "Superficie": 558,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-los-pinos-tamaulipas-27115565",
+    "Lat": "22.2638464000",
+    "Lng": "-97.8583364000"
+  },
+  {
+    "Título": "Local en  , Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 3200000,
+    "Ubicación": " , Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 265,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-tampico-centro-tamaulipas-25195451",
+    "Lat": "22.2171112000",
+    "Lng": "-97.8544755000"
+  },
+  {
+    "Título": "Local en  , Col. Tamaulipas C.P. 89060, Tampico",
+    "Precio": 1250000,
+    "Ubicación": " , Col. Tamaulipas C.P. 89060, Tampico",
+    "Superficie": 43,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-tamaulipas-tamaulipas-26900889",
+    "Lat": "22.2265173",
+    "Lng": "-97.8435949"
+  },
+  {
+    "Título": "Local en Jose de escandon #101, Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 3900000,
+    "Ubicación": "Jose de escandon #101, Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-jose-de-escandon-101-tampico-centro-tamaulipas-24425593",
+    "Lat": "22.2202835000",
+    "Lng": "-97.8555913000"
+  },
+  {
+    "Título": "Local en  , Col. Enrique Cárdenas Gonzalez C.P. 89309, Tampico",
+    "Precio": 450000,
+    "Ubicación": " , Col. Enrique Cárdenas Gonzalez C.P. 89309, Tampico",
+    "Superficie": 25,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-enrique-cardenas-gonzalez-tamaulipas-27378818",
+    "Lat": "22.3028393854",
+    "Lng": "-97.8566266316"
+  },
+  {
+    "Título": "Local en  , Col. Tamaulipas C.P. 89060, Tampico",
+    "Precio": 1200000,
+    "Ubicación": " , Col. Tamaulipas C.P. 89060, Tampico",
+    "Superficie": 30,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-tamaulipas-tamaulipas-27489920",
+    "Lat": "22.2265173",
+    "Lng": "-97.8435949"
+  },
+  {
+    "Título": "Local en Av Hidalgo, Col. Jardín C.P. 89260, Tampico",
+    "Precio": 12500000,
+    "Ubicación": "Av Hidalgo, Col. Jardín C.P. 89260, Tampico",
+    "Superficie": 660,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-av-hidalgo-jardin-tamaulipas-28177415",
+    "Lat": "22.2298000000",
+    "Lng": "-97.8660000000"
+  },
+  {
+    "Título": "Local en  , Col. Hospital Regional C.P. 89108, Tampico",
+    "Precio": 1500000,
+    "Ubicación": " , Col. Hospital Regional C.P. 89108, Tampico",
+    "Superficie": 23,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-hospital-regional-tamaulipas-28049580",
+    "Lat": "22.2689734",
+    "Lng": "-97.8609367"
+  },
+  {
+    "Título": "Local en Pedro J Mendez 117, colonia cascajal, zona centro de Tampico,Tamaulipas., Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 550000,
+    "Ubicación": "Pedro J Mendez 117, colonia cascajal, zona centro de Tampico,Tamaulipas., Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 33,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-tampico-centro-tamaulipas-28086202",
+    "Lat": "22.2492467",
+    "Lng": "-97.87141"
+  },
+  {
+    "Título": "Local en  , Col. El Naranjal C.P. 89349, Tampico",
+    "Precio": 1300000,
+    "Ubicación": " , Col. El Naranjal C.P. 89349, Tampico",
+    "Superficie": 45,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-el-naranjal-tamaulipas-28038636",
+    "Lat": "22.298922",
+    "Lng": "-97.8918903"
+  }
+]
