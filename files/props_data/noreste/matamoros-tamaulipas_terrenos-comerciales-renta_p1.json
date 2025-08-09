@@ -1,0 +1,29 @@
+[
+  {
+    "Título": "Terreno comercial en Avenida Emiliano zapata  #8Int. 8, Col. Central Mercado de Abastos C.P. 87399, Matamoros",
+    "Precio": 35000,
+    "Ubicación": "Avenida Emiliano zapata  #8Int. 8, Col. Central Mercado de Abastos C.P. 87399, Matamoros",
+    "Superficie": 1755,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-avenida-emiliano-zapata-8-central-mercado-de-abastos-tamaulipas-28503133",
+    "Lat": "25.869549041564344",
+    "Lng": "-97.50238304549585"
+  },
+  {
+    "Título": "Terreno comercial en Calle Primera, Col. Jardín C.P. 87330, Matamoros",
+    "Precio": 400000,
+    "Ubicación": "Calle Primera, Col. Jardín C.P. 87330, Matamoros",
+    "Superficie": 7561,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-calle-primera-jardin-tamaulipas-22810180",
+    "Lat": "25.8897489000",
+    "Lng": "-97.4991416000"
+  },
+  {
+    "Título": "Terreno comercial en Avenida Emiliano zapata  #8Int. 8, Col. CBTIS C.P. 87399, Matamoros",
+    "Precio": 35000,
+    "Ubicación": "Avenida Emiliano zapata  #8Int. 8, Col. CBTIS C.P. 87399, Matamoros",
+    "Superficie": 1755,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-avenida-emiliano-zapata-8-cbtis-tamaulipas-28514293",
+    "Lat": "25.837064",
+    "Lng": "-97.5071271"
+  }
+]

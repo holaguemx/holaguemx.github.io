@@ -1,0 +1,65 @@
+[
+  {
+    "Título": "Local en Neptuno #12Int. Manzana 2, Col. Estrella C.P. 87015, Victoria",
+    "Precio": 260000,
+    "Ubicación": "Neptuno #12Int. Manzana 2, Col. Estrella C.P. 87015, Victoria",
+    "Superficie": 80,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-neptuno-12-estrella-tamaulipas-26346233",
+    "Lat": "23.7708576",
+    "Lng": "-99.1774462"
+  },
+  {
+    "Título": "Local en Matías S. Canales, Col. Ciudad Victoria Centro C.P. 87000, Victoria",
+    "Precio": 3750000,
+    "Ubicación": "Matías S. Canales, Col. Ciudad Victoria Centro C.P. 87000, Victoria",
+    "Superficie": 370,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-matias-s-canales-ciudad-victoria-centro-tamaulipas-27391929",
+    "Lat": "23.7342653000",
+    "Lng": "-99.1477843000"
+  },
+  {
+    "Título": "Local en blvd pdte Luis Echeverría Álvarez, Col. Guadalupe Mainero C.P. 87100, Victoria",
+    "Precio": 2800000,
+    "Ubicación": "blvd pdte Luis Echeverría Álvarez, Col. Guadalupe Mainero C.P. 87100, Victoria",
+    "Superficie": 176,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-blvd-pdte-luis-echeverria-alvarez-guadalupe-mainero-tamaulipas-27188583",
+    "Lat": "23.7253218000",
+    "Lng": "-99.1495138000"
+  },
+  {
+    "Título": "Local en  , Col. Sierra Gorda C.P. 87050, Victoria",
+    "Precio": 4500000,
+    "Ubicación": " , Col. Sierra Gorda C.P. 87050, Victoria",
+    "Superficie": 327,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-sierra-gorda-tamaulipas-27960278",
+    "Lat": "23.74405",
+    "Lng": "-99.1449234"
+  },
+  {
+    "Título": "Local en Matías S. Canales, Col. Ciudad Victoria Centro C.P. 87000, Victoria",
+    "Precio": 4800000,
+    "Ubicación": "Matías S. Canales, Col. Ciudad Victoria Centro C.P. 87000, Victoria",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-matias-s-canales-ciudad-victoria-centro-tamaulipas-27365116",
+    "Lat": "23.7342653000",
+    "Lng": "-99.1477843000"
+  },
+  {
+    "Título": "Local en  , Col. Miguel Alemán C.P. 87030, Victoria",
+    "Precio": 2000000,
+    "Ubicación": " , Col. Miguel Alemán C.P. 87030, Victoria",
+    "Superficie": 167,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-miguel-aleman-tamaulipas-28908637",
+    "Lat": "",
+    "Lng": ""
+  },
+  {
+    "Título": "Local en  , Col. Ciudad Victoria Centro C.P. 87000, Victoria",
+    "Precio": 4000000,
+    "Ubicación": " , Col. Ciudad Victoria Centro C.P. 87000, Victoria",
+    "Superficie": 850,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-ciudad-victoria-centro-tamaulipas-27419072",
+    "Lat": "23.7365051000",
+    "Lng": "-99.1448347000"
+  }
+]

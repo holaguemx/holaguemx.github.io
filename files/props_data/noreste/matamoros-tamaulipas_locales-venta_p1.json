@@ -1,0 +1,29 @@
+[
+  {
+    "Título": "Local en  , Col. Esperanza C.P. 87310, Matamoros",
+    "Precio": 5800000,
+    "Ubicación": " , Col. Esperanza C.P. 87310, Matamoros",
+    "Superficie": 522,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-esperanza-tamaulipas-21674014",
+    "Lat": "25.8874497000",
+    "Lng": "-97.5416489000"
+  },
+  {
+    "Título": "Local en Avenida Álvaro Obregón 59 #59, Col. Jardín C.P. 87330, Matamoros",
+    "Precio": 14000000,
+    "Ubicación": "Avenida Álvaro Obregón 59 #59, Col. Jardín C.P. 87330, Matamoros",
+    "Superficie": 720,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-alvaro-obregon-59-59-jardin-tamaulipas-29422416",
+    "Lat": "25.8938292",
+    "Lng": "-97.50055049999999"
+  },
+  {
+    "Título": "Local en Avenida Benito Juarez #N 102, Col. Salinas de Gortari C.P. 87456, Matamoros",
+    "Precio": 1800000,
+    "Ubicación": "Avenida Benito Juarez #N 102, Col. Salinas de Gortari C.P. 87456, Matamoros",
+    "Superficie": 102,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-benito-juarez-n-102-salinas-de-gortari-tamaulipas-26242456",
+    "Lat": "25.84023056462068",
+    "Lng": "-97.48992865229798"
+  }
+]

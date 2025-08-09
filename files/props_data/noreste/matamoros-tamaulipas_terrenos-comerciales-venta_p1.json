@@ -1,0 +1,29 @@
+[
+  {
+    "Título": "Terreno comercial en Ejido El Ranchito y el Refugio #1, Col. Ampliación Ejido Longoreño C.P. 87493, Matamoros",
+    "Precio": 800000,
+    "Ubicación": "Ejido El Ranchito y el Refugio #1, Col. Ampliación Ejido Longoreño C.P. 87493, Matamoros",
+    "Superficie": 2500,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-ejido-el-ranchito-y-el-refugio-1-ampliacion-ejido-longoreno-tamaulipas-30093479",
+    "Lat": "25.8337867",
+    "Lng": "-97.40550259999999"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Ejido los Arados C.P. 87313, Matamoros",
+    "Precio": 3000000,
+    "Ubicación": " , Col. Ejido los Arados C.P. 87313, Matamoros",
+    "Superficie": 30000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-ejido-los-arados-tamaulipas-19853938",
+    "Lat": "25.8668048",
+    "Lng": "-97.543003"
+  },
+  {
+    "Título": "Terreno comercial en Carretera Matamoros - Reynosa, Col. El Capote C.P. 87554, Matamoros",
+    "Precio": 99000000,
+    "Ubicación": "Carretera Matamoros - Reynosa, Col. El Capote C.P. 87554, Matamoros",
+    "Superficie": 330000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-carretera-matamoros-reynosa-el-capote-tamaulipas-28449966",
+    "Lat": "25.977030086945",
+    "Lng": "-97.707321584443"
+  }
+]

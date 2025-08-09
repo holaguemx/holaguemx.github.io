@@ -1,0 +1,65 @@
+[
+  {
+    "Título": "Local en  , Col. Arboledas de San Roque C.P. 67280, Juárez",
+    "Precio": 3100000,
+    "Ubicación": " , Col. Arboledas de San Roque C.P. 67280, Juárez",
+    "Superficie": 500,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-arboledas-de-san-roque-nuevo_leon-23429120",
+    "Lat": "25.6094945000",
+    "Lng": "-100.1227166000"
+  },
+  {
+    "Título": "Local en , Col. Fuente de Piedra C.P. 67262, Juárez",
+    "Precio": 1500000,
+    "Ubicación": ", Col. Fuente de Piedra C.P. 67262, Juárez",
+    "Superficie": 168,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-fuente-de-piedra-nuevo_leon-30130717",
+    "Lat": "25.6324028000",
+    "Lng": "-100.0709807000"
+  },
+  {
+    "Título": "Local en , Col. La Ciudadela C.P. 67265, Juárez",
+    "Precio": 3350000,
+    "Ubicación": ", Col. La Ciudadela C.P. 67265, Juárez",
+    "Superficie": 1674,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-la-ciudadela-nuevo_leon-30058072",
+    "Lat": "25.6562761000",
+    "Lng": "-100.0803395000"
+  },
+  {
+    "Título": "Local en , Col. URBI Villa del Real C.P. 67256, Juárez",
+    "Precio": 3872512,
+    "Ubicación": ", Col. URBI Villa del Real C.P. 67256, Juárez",
+    "Superficie": 1210,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-urbi-villa-del-real-nuevo_leon-30058068",
+    "Lat": "25.6828042000",
+    "Lng": "-100.0876752000"
+  },
+  {
+    "Título": "Local en Anzures Ventura, Col. Los Puertos Tercer Sector C.P. 67258, Juárez",
+    "Precio": 980000,
+    "Ubicación": "Anzures Ventura, Col. Los Puertos Tercer Sector C.P. 67258, Juárez",
+    "Superficie": 96,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-anzures-ventura-los-puertos-tercer-sector-nuevo_leon-28438309",
+    "Lat": "25.6905657",
+    "Lng": "-100.1178609"
+  },
+  {
+    "Título": "Local en Anzures Ventura, Col. La Toscana C.P. 67258, Juárez",
+    "Precio": 1450000,
+    "Ubicación": "Anzures Ventura, Col. La Toscana C.P. 67258, Juárez",
+    "Superficie": 96,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-anzures-ventura-la-toscana-nuevo_leon-28398831",
+    "Lat": "25.6940396",
+    "Lng": "-100.1147336"
+  },
+  {
+    "Título": "Local en x, Col. Monte Kristal C.P. 67275, Juárez",
+    "Precio": 1300000,
+    "Ubicación": "x, Col. Monte Kristal C.P. 67275, Juárez",
+    "Superficie": 160,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-x-monte-kristal-nuevo_leon-28277631",
+    "Lat": "25.6094945",
+    "Lng": "-100.1227166"
+  }
+]

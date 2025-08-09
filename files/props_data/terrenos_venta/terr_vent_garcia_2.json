@@ -1,0 +1,38 @@
+[
+  {
+    "Título": "Terreno comercial en  , Col. Valle de Lincoln C.P. 66026, García",
+    "Precio": 77000000,
+    "Ubicación": " , Col. Valle de Lincoln C.P. 66026, García",
+    "Superficie": 350,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-valle-de-lincoln-nuevo_leon-21369654",
+    "Lat": "25.7942133",
+    "Lng": "-100.4874338"
+  },
+  {
+    "Título": "Terreno comercial en , Col. Valle de Cumbres C.P. 66035, García",
+    "Precio": 38500000,
+    "Ubicación": ", Col. Valle de Cumbres C.P. 66035, García",
+    "Superficie": 7000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-valle-de-cumbres-nuevo_leon-29506723",
+    "Lat": "25.7656524000",
+    "Lng": "-100.4579210000"
+  },
+  {
+    "Título": "Terreno comercial en Avenida Cordillera, Col. Valle de Lincoln C.P. 66026, García",
+    "Precio": 1338750,
+    "Ubicación": "Avenida Cordillera, Col. Valle de Lincoln C.P. 66026, García",
+    "Superficie": 787,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-avenida-cordillera-valle-de-lincoln-nuevo_leon-28262418",
+    "Lat": "25.7942133",
+    "Lng": "-100.4874338"
+  },
+  {
+    "Título": "Terreno comercial en Av. Lincoln y Libramiento Noroeste #0, Col. García Centro C.P. 66000, García",
+    "Precio": 190000000,
+    "Ubicación": "Av. Lincoln y Libramiento Noroeste #0, Col. García Centro C.P. 66000, García",
+    "Superficie": 60000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-av-lincoln-y-libramiento-noroeste-garcia-centro-nuevo_leon-28878256",
+    "Lat": "25.8124122",
+    "Lng": "-100.593666"
+  }
+]

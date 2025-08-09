@@ -1,0 +1,38 @@
+[
+  {
+    "Título": "Local en AVENIDA DURANGO #685, Col. Lerdo Centro C.P. 35150, Lerdo",
+    "Precio": 2500000,
+    "Ubicación": "AVENIDA DURANGO #685, Col. Lerdo Centro C.P. 35150, Lerdo",
+    "Superficie": 366,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-avenida-durango-685-lerdo-centro-durango-29393164",
+    "Lat": "25.5437328",
+    "Lng": "-103.5302223"
+  },
+  {
+    "Título": "Local en Av. Juárez, Col. Ciudad Lerdo Centro C.P. 35150, Lerdo",
+    "Precio": 1800000,
+    "Ubicación": "Av. Juárez, Col. Ciudad Lerdo Centro C.P. 35150, Lerdo",
+    "Superficie": 195,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-av-juarez-ciudad-lerdo-centro-durango-22107706",
+    "Lat": "25.5380132",
+    "Lng": "-103.5212106"
+  },
+  {
+    "Título": "Local en  , Col. Centauro del Norte C.P. 35181, Lerdo",
+    "Precio": 317000,
+    "Ubicación": " , Col. Centauro del Norte C.P. 35181, Lerdo",
+    "Superficie": 40,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-centauro-del-norte-durango-29140004",
+    "Lat": "25.4979366670",
+    "Lng": "-103.5296884600"
+  },
+  {
+    "Título": "Local en  , Col. Lerdo Centro C.P. 35150, Lerdo",
+    "Precio": 2122000,
+    "Ubicación": " , Col. Lerdo Centro C.P. 35150, Lerdo",
+    "Superficie": 366,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-venta-lerdo-centro-durango-29118635",
+    "Lat": "25.5381646000",
+    "Lng": "-103.5339269000"
+  }
+]

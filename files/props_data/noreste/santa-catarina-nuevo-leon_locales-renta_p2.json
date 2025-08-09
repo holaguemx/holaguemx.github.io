@@ -1,0 +1,416 @@
+[
+  {
+    "Título": "Local en Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Precio": 84378,
+    "Ubicación": "Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Superficie": 281,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-catarina-paseo-del-prado-nuevo_leon-29520347",
+    "Lat": "25.678099",
+    "Lng": "-100.4582732"
+  },
+  {
+    "Título": "Local en Mercado Abastos Santa Catarina, Col. Privada 5 de Mayo C.P. 66362, Santa Catarina",
+    "Precio": 18000,
+    "Ubicación": "Mercado Abastos Santa Catarina, Col. Privada 5 de Mayo C.P. 66362, Santa Catarina",
+    "Superficie": 213,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-mercado-abastos-santa-catarina-privada-5-de-mayo-nuevo_leon-29831564",
+    "Lat": "25.6787335",
+    "Lng": "-100.4641222"
+  },
+  {
+    "Título": "Local en El Lechugal, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Precio": 17000,
+    "Ubicación": "El Lechugal, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Superficie": 33,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-el-lechugal-el-lechugal-nuevo_leon-27205999",
+    "Lat": "25.6728847",
+    "Lng": "-100.4466806"
+  },
+  {
+    "Título": "Local en , Col. Santa Catalina C.P. 66376, Santa Catarina",
+    "Precio": 155000,
+    "Ubicación": ", Col. Santa Catalina C.P. 66376, Santa Catarina",
+    "Superficie": 1550,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-catalina-nuevo_leon-29949655",
+    "Lat": "25.6746058000",
+    "Lng": "-100.4423188000"
+  },
+  {
+    "Título": "Local en Luis Donaldo Colosio, Col. Adolfo Lopez Mateos C.P. 66360, Santa Catarina",
+    "Precio": 80043,
+    "Ubicación": "Luis Donaldo Colosio, Col. Adolfo Lopez Mateos C.P. 66360, Santa Catarina",
+    "Superficie": 369,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-luis-donaldo-colosio-adolfo-lopez-mateos-nuevo_leon-28545016",
+    "Lat": "25.6881517",
+    "Lng": "-100.4493659"
+  },
+  {
+    "Título": "Local en  , Col. La Puerta C.P. 66367, Santa Catarina",
+    "Precio": 86200,
+    "Ubicación": " , Col. La Puerta C.P. 66367, Santa Catarina",
+    "Superficie": 400,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-la-puerta-nuevo_leon-30121609",
+    "Lat": "25.6840958320",
+    "Lng": "-100.4861638630"
+  },
+  {
+    "Título": "Local en Benito Juárez, Col. La Fama C.P. 66100, Santa Catarina",
+    "Precio": 20000,
+    "Ubicación": "Benito Juárez, Col. La Fama C.P. 66100, Santa Catarina",
+    "Superficie": 103,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-benito-juarez-la-fama-nuevo_leon-29918470",
+    "Lat": "25.6704424",
+    "Lng": "-100.4249719"
+  },
+  {
+    "Título": "Local en  , Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Precio": 11000,
+    "Ubicación": " , Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Superficie": 40,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-el-lechugal-nuevo_leon-26843308",
+    "Lat": "25.6728847",
+    "Lng": "-100.4466806"
+  },
+  {
+    "Título": "Local en Residencial Cuauhtémoc, Col. INFONAVIT Cuauhtémoc C.P. 66360, Santa Catarina",
+    "Precio": 16000,
+    "Ubicación": "Residencial Cuauhtémoc, Col. INFONAVIT Cuauhtémoc C.P. 66360, Santa Catarina",
+    "Superficie": 77,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-residencial-cuauhtemoc-infonavit-cuauhtemoc-nuevo_leon-27451444",
+    "Lat": "25.68205",
+    "Lng": "-100.4463294"
+  },
+  {
+    "Título": "Local en calle #S/D, Col. Jardines de Santa Catarina 2 C.P. 66362, Santa Catarina",
+    "Precio": 187500,
+    "Ubicación": "calle #S/D, Col. Jardines de Santa Catarina 2 C.P. 66362, Santa Catarina",
+    "Superficie": 1,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-calle-sd-jardines-de-santa-catarina-2-nuevo_leon-27869746",
+    "Lat": "25.681993",
+    "Lng": "-100.4674063"
+  },
+  {
+    "Título": "Local en  , Col. Parque 300 C.P. 66368, Santa Catarina",
+    "Precio": 80000,
+    "Ubicación": " , Col. Parque 300 C.P. 66368, Santa Catarina",
+    "Superficie": 700,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-parque-300-nuevo_leon-29846402",
+    "Lat": "25.7127627000",
+    "Lng": "-100.4785710000"
+  },
+  {
+    "Título": "Local en Las huertas, Col. Rincón de las Huertas C.P. 66362, Santa Catarina",
+    "Precio": 14375,
+    "Ubicación": "Las huertas, Col. Rincón de las Huertas C.P. 66362, Santa Catarina",
+    "Superficie": 57,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-huertas-rincon-de-las-huertas-nuevo_leon-14564430",
+    "Lat": "25.6800674",
+    "Lng": "-100.4586236"
+  },
+  {
+    "Título": "Local en  , Col. Residencial Santa Cecilia I C.P. 66359, Santa Catarina",
+    "Precio": 22500,
+    "Ubicación": " , Col. Residencial Santa Cecilia I C.P. 66359, Santa Catarina",
+    "Superficie": 67,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-residencial-santa-cecilia-i-nuevo_leon-7955495",
+    "Lat": "25.6778692",
+    "Lng": "-100.4918361"
+  },
+  {
+    "Título": "Local en AV. MANUEL ORDOÑEZ, Col. Santa Catarina Centro C.P. 66350, Santa Catarina",
+    "Precio": 21230,
+    "Ubicación": "AV. MANUEL ORDOÑEZ, Col. Santa Catarina Centro C.P. 66350, Santa Catarina",
+    "Superficie": 55,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-manuel-ordonez-santa-catarina-centro-nuevo_leon-29089499",
+    "Lat": "25.6756407",
+    "Lng": "-100.4721026"
+  },
+  {
+    "Título": "Local en Mexico, Col. Pio XII C.P. 66362, Santa Catarina",
+    "Precio": 17500,
+    "Ubicación": "Mexico, Col. Pio XII C.P. 66362, Santa Catarina",
+    "Superficie": 165,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-mexico-pio-xii-nuevo_leon-29037059",
+    "Lat": "25.6860724",
+    "Lng": "-100.4640688"
+  },
+  {
+    "Título": "Local en  , Col. La Fama C.P. 66100, Santa Catarina",
+    "Precio": 22000,
+    "Ubicación": " , Col. La Fama C.P. 66100, Santa Catarina",
+    "Superficie": 487,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-la-fama-nuevo_leon-7958511",
+    "Lat": "25.6715761",
+    "Lng": "-100.4242039"
+  },
+  {
+    "Título": "Local en  , Col. Provivienda del Poniente Sector Dos C.P. 66129, Santa Catarina",
+    "Precio": 845000,
+    "Ubicación": " , Col. Provivienda del Poniente Sector Dos C.P. 66129, Santa Catarina",
+    "Superficie": 1800,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-provivienda-del-poniente-sector-dos-nuevo_leon-29319795",
+    "Lat": "25.6781568814",
+    "Lng": "-100.4375976630"
+  },
+  {
+    "Título": "Local en AV. MANUEL ORDOÑEZ, Col. Santa Catarina Centro C.P. 66350, Santa Catarina",
+    "Precio": 21000,
+    "Ubicación": "AV. MANUEL ORDOÑEZ, Col. Santa Catarina Centro C.P. 66350, Santa Catarina",
+    "Superficie": 54,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-manuel-ordonez-santa-catarina-centro-nuevo_leon-29089501",
+    "Lat": "25.6756407",
+    "Lng": "-100.4721026"
+  },
+  {
+    "Título": "Local en AV. MANUEL ORDOÑEZ, Col. Santa Catarina Centro C.P. 66350, Santa Catarina",
+    "Precio": 33175,
+    "Ubicación": "AV. MANUEL ORDOÑEZ, Col. Santa Catarina Centro C.P. 66350, Santa Catarina",
+    "Superficie": 86,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-manuel-ordonez-santa-catarina-centro-nuevo_leon-29089508",
+    "Lat": "25.6756407",
+    "Lng": "-100.4721026"
+  },
+  {
+    "Título": "Local en  , Col. Santa Catalina C.P. 66376, Santa Catarina",
+    "Precio": 70210,
+    "Ubicación": " , Col. Santa Catalina C.P. 66376, Santa Catarina",
+    "Superficie": 820,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-catalina-nuevo_leon-30152355",
+    "Lat": "25.6746058000",
+    "Lng": "-100.4423188000"
+  },
+  {
+    "Título": "Local en  , Col. Residencial de La Sierra C.P. 66358, Santa Catarina",
+    "Precio": 13990,
+    "Ubicación": " , Col. Residencial de La Sierra C.P. 66358, Santa Catarina",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-residencial-de-la-sierra-nuevo_leon-28468095",
+    "Lat": "25.6816050000",
+    "Lng": "-100.4823833000"
+  },
+  {
+    "Título": "Local en , Col. Las Montañas C.P. 66197, Santa Catarina",
+    "Precio": 23730,
+    "Ubicación": ", Col. Las Montañas C.P. 66197, Santa Catarina",
+    "Superficie": 67,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-montanas-nuevo_leon-29862985",
+    "Lat": "25.6654988067",
+    "Lng": "-100.4409618316"
+  },
+  {
+    "Título": "Local en Clouthier, Col. San Humberto C.P. 66120, Santa Catarina",
+    "Precio": 98000,
+    "Ubicación": "Clouthier, Col. San Humberto C.P. 66120, Santa Catarina",
+    "Superficie": 489,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-clouthier-san-humberto-nuevo_leon-29096208",
+    "Lat": "25.6843038",
+    "Lng": "-100.4382417"
+  },
+  {
+    "Título": "Local en  , Col. Cumbres de Santa Catarina 3 Sec C.P. 66358, Santa Catarina",
+    "Precio": 31846,
+    "Ubicación": " , Col. Cumbres de Santa Catarina 3 Sec C.P. 66358, Santa Catarina",
+    "Superficie": 178,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-cumbres-de-santa-catarina-3-sec-nuevo_leon-24325581",
+    "Lat": "25.6800199",
+    "Lng": "-100.487262"
+  },
+  {
+    "Título": "Local en , Col. Bosques Del Poniente C.P. 66362, Santa Catarina",
+    "Precio": 74800,
+    "Ubicación": ", Col. Bosques Del Poniente C.P. 66362, Santa Catarina",
+    "Superficie": 170,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-bosques-del-poniente-nuevo_leon-29151711",
+    "Lat": "25.6748069000",
+    "Lng": "-100.4446685000"
+  },
+  {
+    "Título": "Local en  , Col. Unión del Noreste C.P. 66364, Santa Catarina",
+    "Precio": 80043,
+    "Ubicación": " , Col. Unión del Noreste C.P. 66364, Santa Catarina",
+    "Superficie": 369,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-union-del-noreste-nuevo_leon-27191957",
+    "Lat": "25.6879726",
+    "Lng": "-100.4554621"
+  },
+  {
+    "Título": "Local en  , Col. Santa Catarina Centro C.P. 66350, Santa Catarina",
+    "Precio": 10000,
+    "Ubicación": " , Col. Santa Catarina Centro C.P. 66350, Santa Catarina",
+    "Superficie": 50,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-catarina-centro-nuevo_leon-28197263",
+    "Lat": "25.6758309000",
+    "Lng": "-100.4595593000"
+  },
+  {
+    "Título": "Local en  , Col. Santa Catarina Centro C.P. 66350, Santa Catarina",
+    "Precio": 11500,
+    "Ubicación": " , Col. Santa Catarina Centro C.P. 66350, Santa Catarina",
+    "Superficie": 34,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-catarina-centro-nuevo_leon-7955778",
+    "Lat": "25.6758309",
+    "Lng": "-100.4595593"
+  },
+  {
+    "Título": "Local en  , Col. La Puerta C.P. 66367, Santa Catarina",
+    "Precio": 37415,
+    "Ubicación": " , Col. La Puerta C.P. 66367, Santa Catarina",
+    "Superficie": 178,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-la-puerta-nuevo_leon-28296933",
+    "Lat": "25.6793399000",
+    "Lng": "-100.4823167000"
+  },
+  {
+    "Título": "Local en calle #S/D, Col. La Fama C.P. 66100, Santa Catarina",
+    "Precio": 22000,
+    "Ubicación": "calle #S/D, Col. La Fama C.P. 66100, Santa Catarina",
+    "Superficie": 1,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-calle-sd-la-fama-nuevo_leon-27869712",
+    "Lat": "25.6715761",
+    "Lng": "-100.4242039"
+  },
+  {
+    "Título": "Local en  , Col. Antigua Santa Catarina C.P. 66358, Santa Catarina",
+    "Precio": 9450,
+    "Ubicación": " , Col. Antigua Santa Catarina C.P. 66358, Santa Catarina",
+    "Superficie": 45,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-antigua-santa-catarina-nuevo_leon-28231951",
+    "Lat": "25.6746058000",
+    "Lng": "-100.4423188000"
+  },
+  {
+    "Título": "Local en  , Col. La Fama C.P. 66100, Santa Catarina",
+    "Precio": 22000,
+    "Ubicación": " , Col. La Fama C.P. 66100, Santa Catarina",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-la-fama-nuevo_leon-19813905",
+    "Lat": "25.6715761",
+    "Lng": "-100.4242039"
+  },
+  {
+    "Título": "Local en  , Col. Inf la Huasteca C.P. 66354, Santa Catarina",
+    "Precio": 25000,
+    "Ubicación": " , Col. Inf la Huasteca C.P. 66354, Santa Catarina",
+    "Superficie": 400,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-inf-la-huasteca-nuevo_leon-11789633",
+    "Lat": "25.6624175",
+    "Lng": "-100.4600288"
+  },
+  {
+    "Título": "Local en Av Manuel Ordoñez, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Precio": 7500,
+    "Ubicación": "Av Manuel Ordoñez, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Superficie": 17,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-manuel-ordonez-el-lechugal-nuevo_leon-30031899",
+    "Lat": "25.6742871",
+    "Lng": "-100.446568"
+  },
+  {
+    "Título": "Local en  , Col. Industrial Monte de los Olivos C.P. 66143, Santa Catarina",
+    "Precio": 51691,
+    "Ubicación": " , Col. Industrial Monte de los Olivos C.P. 66143, Santa Catarina",
+    "Superficie": 205,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-industrial-monte-de-los-olivos-nuevo_leon-26039498",
+    "Lat": "25.6816775",
+    "Lng": "-100.4489637"
+  },
+  {
+    "Título": "Local en  , Col. Industrial Santa Catarina C.P. 66367, Santa Catarina",
+    "Precio": 18000,
+    "Ubicación": " , Col. Industrial Santa Catarina C.P. 66367, Santa Catarina",
+    "Superficie": 180,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-industrial-santa-catarina-nuevo_leon-29520846",
+    "Lat": "25.6893738000",
+    "Lng": "-100.4695906000"
+  },
+  {
+    "Título": "Local en idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Precio": 63320,
+    "Ubicación": "idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Superficie": 158,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-idelfonso-vazquez-idelfonso-vazquez-nuevo_leon-29520027",
+    "Lat": "25.6613413",
+    "Lng": "-100.433071"
+  },
+  {
+    "Título": "Local en  , Col. Lomas de Santa Catarina C.P. 66359, Santa Catarina",
+    "Precio": 12000,
+    "Ubicación": " , Col. Lomas de Santa Catarina C.P. 66359, Santa Catarina",
+    "Superficie": 90,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-lomas-de-santa-catarina-nuevo_leon-11790122",
+    "Lat": "25.6859983",
+    "Lng": "-100.4979764"
+  },
+  {
+    "Título": "Local en  , Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Precio": 18800,
+    "Ubicación": " , Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Superficie": 45,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-el-lechugal-nuevo_leon-29421810",
+    "Lat": "25.6728847000",
+    "Lng": "-100.4466806000"
+  },
+  {
+    "Título": "Local en Vía Cordillera, Col. Vía Cordillera C.P. 66196, Santa Catarina",
+    "Precio": 40000,
+    "Ubicación": "Vía Cordillera, Col. Vía Cordillera C.P. 66196, Santa Catarina",
+    "Superficie": 111,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-via-cordillera-via-cordillera-nuevo_leon-29535255",
+    "Lat": "25.6579631",
+    "Lng": "-100.4412735"
+  },
+  {
+    "Título": "Local en  , Col. Villas Del Mirador C.P. 66365, Santa Catarina",
+    "Precio": 8000,
+    "Ubicación": " , Col. Villas Del Mirador C.P. 66365, Santa Catarina",
+    "Superficie": 32,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-villas-del-mirador-nuevo_leon-28576328",
+    "Lat": "25.6948181754",
+    "Lng": "-100.4403143300"
+  },
+  {
+    "Título": "Local en Manuel Ordoñez, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Precio": 7500,
+    "Ubicación": "Manuel Ordoñez, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Superficie": 17,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-manuel-ordonez-el-lechugal-nuevo_leon-29895744",
+    "Lat": "25.6743031",
+    "Lng": "-100.4476096"
+  },
+  {
+    "Título": "Local en Manuel Ordoñez, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Precio": 10800,
+    "Ubicación": "Manuel Ordoñez, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Superficie": 25,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-manuel-ordonez-el-lechugal-nuevo_leon-29903934",
+    "Lat": "25.6743031",
+    "Lng": "-100.4476096"
+  },
+  {
+    "Título": "Local en la puerta santa catarina, Col. Parque Industrial la Puerta C.P. 66367, Santa Catarina",
+    "Precio": 43544,
+    "Ubicación": "la puerta santa catarina, Col. Parque Industrial la Puerta C.P. 66367, Santa Catarina",
+    "Superficie": 162,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-la-puerta-santa-catarina-parque-industrial-la-puerta-nuevo_leon-29014219",
+    "Lat": "25.6903484",
+    "Lng": "-100.4922318"
+  },
+  {
+    "Título": "Local en  , Col. Santa Catalina C.P. 66376, Santa Catarina",
+    "Precio": 13500,
+    "Ubicación": " , Col. Santa Catalina C.P. 66376, Santa Catarina",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-catalina-nuevo_leon-29062365",
+    "Lat": "25.6765098000",
+    "Lng": "-100.4927050000"
+  },
+  {
+    "Título": "Local en  , Col. Bosques de La Huasteca C.P. 66354, Santa Catarina",
+    "Precio": 6500,
+    "Ubicación": " , Col. Bosques de La Huasteca C.P. 66354, Santa Catarina",
+    "Superficie": 21,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-bosques-de-la-huasteca-nuevo_leon-29750112",
+    "Lat": ".0000000000",
+    "Lng": ".0000000000"
+  }
+]

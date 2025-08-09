@@ -1,0 +1,425 @@
+[
+  {
+    "Título": "Local en  , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 28000,
+    "Ubicación": " , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 400,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-gomez-palacio-centro-durango-29280217",
+    "Lat": "25.5252209130",
+    "Lng": "-103.5145473550"
+  },
+  {
+    "Título": "Local en AV. FRANCISCO I. MADERO #1213, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 13500,
+    "Ubicación": "AV. FRANCISCO I. MADERO #1213, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-francisco-i-madero-1213-gomez-palacio-centro-durango-27554855",
+    "Lat": "25.5585052",
+    "Lng": "-103.490487"
+  },
+  {
+    "Título": "Local en  , Col. Parque Industrial Carlos A Herrera Araluce C.P. 35079, Gómez Palacio",
+    "Precio": 16000,
+    "Ubicación": " , Col. Parque Industrial Carlos A Herrera Araluce C.P. 35079, Gómez Palacio",
+    "Superficie": 430,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-parque-industrial-carlos-a-herrera-araluce-durango-26752749",
+    "Lat": "25.591067",
+    "Lng": "-103.4497318"
+  },
+  {
+    "Título": "Local en AV HIDALGO #428-B SUR, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 10000,
+    "Ubicación": "AV HIDALGO #428-B SUR, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-hidalgo-428b-sur-gomez-palacio-centro-durango-29759244",
+    "Lat": "25.5631062",
+    "Lng": "-103.4976581"
+  },
+  {
+    "Título": "Local en , Col. Las Rosas C.P. 35090, Gómez Palacio",
+    "Precio": 25000,
+    "Ubicación": ", Col. Las Rosas C.P. 35090, Gómez Palacio",
+    "Superficie": 323,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-rosas-durango-30031527",
+    "Lat": "25.5538149000",
+    "Lng": "-103.4932455000"
+  },
+  {
+    "Título": "Local en  , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 315000,
+    "Ubicación": " , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 4200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-gomez-palacio-centro-durango-30134687",
+    "Lat": "25.6147694000",
+    "Lng": "-103.4449800000"
+  },
+  {
+    "Título": "Local en Bravo #s/n, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 25000,
+    "Ubicación": "Bravo #s/n, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 390,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-bravo-sn-gomez-palacio-centro-durango-29464268",
+    "Lat": "25.564772899999998",
+    "Lng": "-103.5006246"
+  },
+  {
+    "Título": "Local en Carr a Cd. Juarez #4.5 KILOMETRO , Col. Casa Blanca C.P. 35016, Gómez Palacio",
+    "Precio": 6000,
+    "Ubicación": "Carr a Cd. Juarez #4.5 KILOMETRO , Col. Casa Blanca C.P. 35016, Gómez Palacio",
+    "Superficie": 32,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-carr-a-cd-juarez-45-kilometro-casa-blanca-durango-29205996",
+    "Lat": "25.5804845",
+    "Lng": "-103.5241711"
+  },
+  {
+    "Título": "Local en , Col. El Campestre C.P. 35080, Gómez Palacio",
+    "Precio": 5000,
+    "Ubicación": ", Col. El Campestre C.P. 35080, Gómez Palacio",
+    "Superficie": 12,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-el-campestre-durango-30062399",
+    "Lat": "25.5516474000",
+    "Lng": "-103.4988714000"
+  },
+  {
+    "Título": "Local en , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 20000,
+    "Ubicación": ", Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 400,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-gomez-palacio-centro-durango-30059001",
+    "Lat": "",
+    "Lng": ""
+  },
+  {
+    "Título": "Local en Victoria, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 22500,
+    "Ubicación": "Victoria, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 150,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-victoria-gomez-palacio-centro-durango-30105353",
+    "Lat": "25.562081",
+    "Lng": "-103.474655"
+  },
+  {
+    "Título": "Local en S/N, Col. Zona Industrial y Secciones C.P. 35078, Gómez Palacio",
+    "Precio": 35000,
+    "Ubicación": "S/N, Col. Zona Industrial y Secciones C.P. 35078, Gómez Palacio",
+    "Superficie": 400,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-sn-zona-industrial-y-secciones-durango-30121612",
+    "Lat": "25.6079453",
+    "Lng": "-103.455512"
+  },
+  {
+    "Título": "Local en , Col. El Refugio C.P. 35146, Gómez Palacio",
+    "Precio": 4000,
+    "Ubicación": ", Col. El Refugio C.P. 35146, Gómez Palacio",
+    "Superficie": 32,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-el-refugio-durango-30030346",
+    "Lat": "25.5924167000",
+    "Lng": "-103.5134633000"
+  },
+  {
+    "Título": "Local en  , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 115000,
+    "Ubicación": " , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-gomez-palacio-centro-durango-30134686",
+    "Lat": "25.5361348000",
+    "Lng": "-103.3720815000"
+  },
+  {
+    "Título": "Local en  , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 5937,
+    "Ubicación": " , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 35,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-gomez-palacio-centro-durango-29135353",
+    "Lat": "25.5584162000",
+    "Lng": "-103.4824415000"
+  },
+  {
+    "Título": "Local en  , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 100000,
+    "Ubicación": " , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 1500,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-gomez-palacio-centro-durango-30134683",
+    "Lat": "25.5907947000",
+    "Lng": "-103.5109053000"
+  },
+  {
+    "Título": "Local en Victoria, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 40000,
+    "Ubicación": "Victoria, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 400,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-victoria-gomez-palacio-centro-durango-30132811",
+    "Lat": "25.562081",
+    "Lng": "-103.474655"
+  },
+  {
+    "Título": "Local en AV. MORELOS ESQUINA CON SANTIAGO LAVIN #109, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 7000,
+    "Ubicación": "AV. MORELOS ESQUINA CON SANTIAGO LAVIN #109, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 33,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-morelos-esquina-con-santiago-lavin-109-gomez-palacio-centro-durango-30144166",
+    "Lat": "25.5696722",
+    "Lng": "-103.5005682"
+  },
+  {
+    "Título": "Local en  , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 200000,
+    "Ubicación": " , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 3000,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-gomez-palacio-centro-durango-30134684",
+    "Lat": "25.5978887000",
+    "Lng": "-103.5015893000"
+  },
+  {
+    "Título": "Local en  , Col. Estación Noé C.P. 35147, Gómez Palacio",
+    "Precio": 30000,
+    "Ubicación": " , Col. Estación Noé C.P. 35147, Gómez Palacio",
+    "Superficie": 226,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-estacion-noe-durango-25070900",
+    "Lat": "25.7174999",
+    "Lng": "-103.5566666"
+  },
+  {
+    "Título": "Local en Hidalgo #101, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 14000,
+    "Ubicación": "Hidalgo #101, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 70,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-hidalgo-101-gomez-palacio-centro-durango-30005875",
+    "Lat": "25.5824581",
+    "Lng": "-103.507691"
+  },
+  {
+    "Título": "Local en , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 12000,
+    "Ubicación": ", Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 400,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-gomez-palacio-centro-durango-30086298",
+    "Lat": "25.5700193000",
+    "Lng": "-103.5023053000"
+  },
+  {
+    "Título": "Local en FELIPE ANGELES #467, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 12500,
+    "Ubicación": "FELIPE ANGELES #467, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-felipe-angeles-467-gomez-palacio-centro-durango-30058956",
+    "Lat": "25.5585472",
+    "Lng": "-103.4909576"
+  },
+  {
+    "Título": "Local en  , Col. El Campestre C.P. 35080, Gómez Palacio",
+    "Precio": 10500,
+    "Ubicación": " , Col. El Campestre C.P. 35080, Gómez Palacio",
+    "Superficie": 112,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-el-campestre-durango-29135280",
+    "Lat": "",
+    "Lng": ""
+  },
+  {
+    "Título": "Local en Zaragoza #800, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 9000,
+    "Ubicación": "Zaragoza #800, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 118,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-zaragoza-800-gomez-palacio-centro-durango-30110412",
+    "Lat": "25.5736541",
+    "Lng": "-103.483375"
+  },
+  {
+    "Título": "Local en  , Col. Villas el Refugio C.P. 35029, Gómez Palacio",
+    "Precio": 4000,
+    "Ubicación": " , Col. Villas el Refugio C.P. 35029, Gómez Palacio",
+    "Superficie": 32,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-villas-el-refugio-durango-29135116",
+    "Lat": "",
+    "Lng": ""
+  },
+  {
+    "Título": "Local en  , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 22500,
+    "Ubicación": " , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 150,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-gomez-palacio-centro-durango-30129529",
+    "Lat": "",
+    "Lng": ""
+  },
+  {
+    "Título": "Local en , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 9850,
+    "Ubicación": ", Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 60,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-gomez-palacio-centro-durango-30005347",
+    "Lat": "25.5678948350",
+    "Lng": "-103.4965833610"
+  },
+  {
+    "Título": "Local en valle campestre #220, Col. Valle Campestre C.P. 35080, Gómez Palacio",
+    "Precio": 9000,
+    "Ubicación": "valle campestre #220, Col. Valle Campestre C.P. 35080, Gómez Palacio",
+    "Superficie": 280,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-valle-campestre-220-valle-campestre-durango-16885402",
+    "Lat": "25.5512642",
+    "Lng": "-103.5030342"
+  },
+  {
+    "Título": "Local en Av. Francisco Villa #750, Col. 5 de Mayo C.P. 35040, Gómez Palacio",
+    "Precio": 27000,
+    "Ubicación": "Av. Francisco Villa #750, Col. 5 de Mayo C.P. 35040, Gómez Palacio",
+    "Superficie": 900,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-francisco-villa-750-5-de-mayo-durango-28413916",
+    "Lat": "25.5766446",
+    "Lng": "-103.4868527"
+  },
+  {
+    "Título": "Local en Blvd González de La Vega #100, Col. Flores Magón C.P. 35090, Gómez Palacio",
+    "Precio": 25000,
+    "Ubicación": "Blvd González de La Vega #100, Col. Flores Magón C.P. 35090, Gómez Palacio",
+    "Superficie": 164,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-gonzalez-de-la-vega-100-flores-magon-durango-26703630",
+    "Lat": "25.5509826",
+    "Lng": "-103.4779372"
+  },
+  {
+    "Título": "Local en AVENIDA VICTORIA #831 SUR, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 4490,
+    "Ubicación": "AVENIDA VICTORIA #831 SUR, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": null,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-avenida-victoria-831-sur-gomez-palacio-centro-durango-29759302",
+    "Lat": "25.5607899",
+    "Lng": "-103.4938441"
+  },
+  {
+    "Título": "Local en , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 10000,
+    "Ubicación": ", Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 50,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-gomez-palacio-centro-durango-30005874",
+    "Lat": "25.5824581000",
+    "Lng": "-103.5076910000"
+  },
+  {
+    "Título": "Local en  , Col. Zona Industrial y Secciones C.P. 35078, Gómez Palacio",
+    "Precio": 11000,
+    "Ubicación": " , Col. Zona Industrial y Secciones C.P. 35078, Gómez Palacio",
+    "Superficie": 93,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-zona-industrial-y-secciones-durango-30134682",
+    "Lat": "24.0102182000",
+    "Lng": "-104.6697995000"
+  },
+  {
+    "Título": "Local en juarez #., Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 10000,
+    "Ubicación": "juarez #., Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 77,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-juarez-gomez-palacio-centro-durango-29159082",
+    "Lat": "25.5660375",
+    "Lng": "-103.4987591"
+  },
+  {
+    "Título": "Local en Blvd Miguel Alemán #160, Col. Las Rosas C.P. 35090, Gómez Palacio",
+    "Precio": 25000,
+    "Ubicación": "Blvd Miguel Alemán #160, Col. Las Rosas C.P. 35090, Gómez Palacio",
+    "Superficie": 323,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-miguel-aleman-160-las-rosas-durango-26705524",
+    "Lat": "25.5538149",
+    "Lng": "-103.4932454"
+  },
+  {
+    "Título": "Local en Blvd. Santa Rita #100, Col. Parque Industrial Santa Rita C.P. 35140, Gómez Palacio",
+    "Precio": 5000,
+    "Ubicación": "Blvd. Santa Rita #100, Col. Parque Industrial Santa Rita C.P. 35140, Gómez Palacio",
+    "Superficie": 62,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-blvd-santa-rita-100-parque-industrial-santa-rita-durango-29801589",
+    "Lat": "25.6147694",
+    "Lng": "-103.44498"
+  },
+  {
+    "Título": "Local en A #1, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 28000,
+    "Ubicación": "A #1, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 450,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-a-1-gomez-palacio-centro-durango-30127319",
+    "Lat": "25.5562012",
+    "Lng": "-103.5006751"
+  },
+  {
+    "Título": "Local en  , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 28000,
+    "Ubicación": " , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 400,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-gomez-palacio-centro-durango-29286539",
+    "Lat": "25.5546875520",
+    "Lng": "-103.4953700790"
+  },
+  {
+    "Título": "Local en , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 6000,
+    "Ubicación": ", Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 30,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-gomez-palacio-centro-durango-30005873",
+    "Lat": "25.5824581000",
+    "Lng": "-103.5076910000"
+  },
+  {
+    "Título": "Local en Lázaro cárdenas #3, Col. Parque Industrial Lagunero C.P. 35077, Gómez Palacio",
+    "Precio": 36000,
+    "Ubicación": "Lázaro cárdenas #3, Col. Parque Industrial Lagunero C.P. 35077, Gómez Palacio",
+    "Superficie": 400,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-lazaro-cardenas-3-parque-industrial-lagunero-durango-29122230",
+    "Lat": "25.5629244",
+    "Lng": "-103.4744655"
+  },
+  {
+    "Título": "Local en parque industrial #0, Col. Parque Industrial Lagunero C.P. 35077, Gómez Palacio",
+    "Precio": 22000,
+    "Ubicación": "parque industrial #0, Col. Parque Industrial Lagunero C.P. 35077, Gómez Palacio",
+    "Superficie": 400,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-parque-industrial-parque-industrial-lagunero-durango-26331308",
+    "Lat": "25.5905598",
+    "Lng": "-103.5150991"
+  },
+  {
+    "Título": "Local en , Col. Parque Industrial Santa Rita C.P. 35140, Gómez Palacio",
+    "Precio": 20000,
+    "Ubicación": ", Col. Parque Industrial Santa Rita C.P. 35140, Gómez Palacio",
+    "Superficie": 213,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-parque-industrial-santa-rita-durango-30031533",
+    "Lat": "",
+    "Lng": ""
+  },
+  {
+    "Título": "Local en A #1, Col. Ampliación Bellavista C.P. 35058, Gómez Palacio",
+    "Precio": 4000,
+    "Ubicación": "A #1, Col. Ampliación Bellavista C.P. 35058, Gómez Palacio",
+    "Superficie": 60,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-a-1-ampliacion-bellavista-durango-30137795",
+    "Lat": "25.5641902",
+    "Lng": "-103.5102556"
+  },
+  {
+    "Título": "Local en , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 8120,
+    "Ubicación": ", Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 16,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-gomez-palacio-centro-durango-30005348",
+    "Lat": "25.5670112000",
+    "Lng": "-103.4959690000"
+  },
+  {
+    "Título": "Local en  , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 12000,
+    "Ubicación": " , Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 200,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-gomez-palacio-centro-durango-29933652",
+    "Lat": "",
+    "Lng": ""
+  },
+  {
+    "Título": "Local en S/N, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Precio": 28000,
+    "Ubicación": "S/N, Col. Gómez Palacio Centro C.P. 35000, Gómez Palacio",
+    "Superficie": 400,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-sn-gomez-palacio-centro-durango-29283156",
+    "Lat": "25.5616724",
+    "Lng": "-103.5003169"
+  }
+]

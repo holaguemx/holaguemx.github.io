@@ -1,0 +1,20 @@
+[
+  {
+    "Título": "Terreno comercial en Av. Cuitláhuac #28, Col. Huizache I C.P. 34160, Durango",
+    "Precio": 5473680,
+    "Ubicación": "Av. Cuitláhuac #28, Col. Huizache I C.P. 34160, Durango",
+    "Superficie": 318,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-av-cuitlahuac-28-huizache-i-durango-29326446",
+    "Lat": "24.0105187",
+    "Lng": "-104.6503095"
+  },
+  {
+    "Título": "Terreno comercial en Blvd Las Flores, Col. Villas Campestre C.P. 34194, Durango",
+    "Precio": 15200000,
+    "Ubicación": "Blvd Las Flores, Col. Villas Campestre C.P. 34194, Durango",
+    "Superficie": 4000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-blvd-las-flores-villas-campestre-durango-29004242",
+    "Lat": "23.9964361",
+    "Lng": "-104.7021575"
+  }
+]

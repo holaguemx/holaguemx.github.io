@@ -1,0 +1,344 @@
+[
+  {
+    "Título": "Terreno comercial en Roma, Col. Roma C.P. 89350, Tampico",
+    "Precio": 75000,
+    "Ubicación": "Roma, Col. Roma C.P. 89350, Tampico",
+    "Superficie": 758,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-roma-roma-tamaulipas-30141158",
+    "Lat": "22.3157316",
+    "Lng": "-97.88100399999999"
+  },
+  {
+    "Título": "Terreno comercial en Mexico, Col. Laguna de La Puerta C.P. 89310, Tampico",
+    "Precio": 23000,
+    "Ubicación": "Mexico, Col. Laguna de La Puerta C.P. 89310, Tampico",
+    "Superficie": 269,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-mexico-laguna-de-la-puerta-tamaulipas-29439752",
+    "Lat": "22.3127574",
+    "Lng": "-97.8717567"
+  },
+  {
+    "Título": "Terreno comercial en DIAGONAL SUR-NORTE, Col. Los Pinos C.P. 89138, Tampico",
+    "Precio": 50000,
+    "Ubicación": "DIAGONAL SUR-NORTE, Col. Los Pinos C.P. 89138, Tampico",
+    "Superficie": 1048,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-diagonal-surnorte-los-pinos-tamaulipas-28174019",
+    "Lat": "22.2593556",
+    "Lng": "-97.8602741"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Universidad Poniente C.P. 89336, Tampico",
+    "Precio": 21000,
+    "Ubicación": " , Col. Universidad Poniente C.P. 89336, Tampico",
+    "Superficie": 1600,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-universidad-poniente-tamaulipas-24060492",
+    "Lat": "22.2795229",
+    "Lng": "-97.8646776"
+  },
+  {
+    "Título": "Terreno comercial en AYUNTAMIENTO, Col. Petrolera C.P. 89110, Tampico",
+    "Precio": 40000,
+    "Ubicación": "AYUNTAMIENTO, Col. Petrolera C.P. 89110, Tampico",
+    "Superficie": 892,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-ayuntamiento-petrolera-tamaulipas-28174739",
+    "Lat": "22.2532000000",
+    "Lng": "-97.8657000000"
+  },
+  {
+    "Título": "Terreno comercial en Loma Rosa, Col. Loma de Rosales C.P. 89100, Tampico",
+    "Precio": 110000,
+    "Ubicación": "Loma Rosa, Col. Loma de Rosales C.P. 89100, Tampico",
+    "Superficie": 1896,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-loma-rosa-loma-de-rosales-tamaulipas-28177594",
+    "Lat": "22.2671000000",
+    "Lng": "-97.8719000000"
+  },
+  {
+    "Título": "Terreno comercial en col guadalupe mainero, Col. Guadalupe Mainero C.P. 89070, Tampico",
+    "Precio": 60000,
+    "Ubicación": "col guadalupe mainero, Col. Guadalupe Mainero C.P. 89070, Tampico",
+    "Superficie": 1000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-col-guadalupe-mainero-guadalupe-mainero-tamaulipas-29784502",
+    "Lat": "22.2187724000",
+    "Lng": "-97.8523510000"
+  },
+  {
+    "Título": "Terreno comercial en Tercera Avenida, Col. Isleta Perez C.P. 89090, Tampico",
+    "Precio": 137000,
+    "Ubicación": "Tercera Avenida, Col. Isleta Perez C.P. 89090, Tampico",
+    "Superficie": 2256,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-tercera-avenida-isleta-perez-tamaulipas-28177280",
+    "Lat": "22.2125000000",
+    "Lng": "-97.8401000000"
+  },
+  {
+    "Título": "Terreno comercial en Faja de Oro #105, Col. Petrolera C.P. 89110, Tampico",
+    "Precio": 80000,
+    "Ubicación": "Faja de Oro #105, Col. Petrolera C.P. 89110, Tampico",
+    "Superficie": 1562,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-faja-de-oro-105-petrolera-tamaulipas-27835707",
+    "Lat": "22.2538907000",
+    "Lng": "-97.8681849000"
+  },
+  {
+    "Título": "Terreno comercial en PEDRO JOSE MENDEZ, Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 30000,
+    "Ubicación": "PEDRO JOSE MENDEZ, Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 1185,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-pedro-jose-mendez-tampico-centro-tamaulipas-29444974",
+    "Lat": "22.2155000000",
+    "Lng": "-97.8618000000"
+  },
+  {
+    "Título": "Terreno comercial en Miguel Hidalgo y Costillla #522, Col. Nuevo Aeropuerto C.P. 89337, Tampico",
+    "Precio": 30161,
+    "Ubicación": "Miguel Hidalgo y Costillla #522, Col. Nuevo Aeropuerto C.P. 89337, Tampico",
+    "Superficie": 1977,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-miguel-hidalgo-y-costillla-522-nuevo-aeropuerto-tamaulipas-29216164",
+    "Lat": "22.2876864130",
+    "Lng": "-97.8712725530"
+  },
+  {
+    "Título": "Terreno comercial en Loma Rosa esq. Loma Bonita #7, Col. Loma de Rosales C.P. 89100, Tampico",
+    "Precio": 85000,
+    "Ubicación": "Loma Rosa esq. Loma Bonita #7, Col. Loma de Rosales C.P. 89100, Tampico",
+    "Superficie": 1896,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-loma-rosa-esq-loma-bonita-7-loma-de-rosales-tamaulipas-25988073",
+    "Lat": "22.2670771000",
+    "Lng": "-97.8727562000"
+  },
+  {
+    "Título": "Terreno comercial en C.1, Col. Isleta Perez C.P. 89090, Tampico",
+    "Precio": 30000,
+    "Ubicación": "C.1, Col. Isleta Perez C.P. 89090, Tampico",
+    "Superficie": 993,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-c1-isleta-perez-tamaulipas-28177627",
+    "Lat": "22.2115000000",
+    "Lng": "-97.8445000000"
+  },
+  {
+    "Título": "Terreno comercial en Boulevard Fidel Velázquez, Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 39000,
+    "Ubicación": "Boulevard Fidel Velázquez, Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 95,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-boulevard-fidel-velazquez-tampico-centro-tamaulipas-27461587",
+    "Lat": "22.2283336",
+    "Lng": "-97.8604756"
+  },
+  {
+    "Título": "Terreno comercial en Boulevard Adolfo López Mateo, Col. Universidad Poniente C.P. 89336, Tampico",
+    "Precio": 20000,
+    "Ubicación": "Boulevard Adolfo López Mateo, Col. Universidad Poniente C.P. 89336, Tampico",
+    "Superficie": 708,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-boulevard-adolfo-lopez-mateo-universidad-poniente-tamaulipas-29873298",
+    "Lat": "22.2796000000",
+    "Lng": "-97.8633000000"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Universidad Poniente C.P. 89336, Tampico",
+    "Precio": 25000,
+    "Ubicación": " , Col. Universidad Poniente C.P. 89336, Tampico",
+    "Superficie": 1000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-universidad-poniente-tamaulipas-24060488",
+    "Lat": "22.2795229",
+    "Lng": "-97.8646776"
+  },
+  {
+    "Título": "Terreno comercial en Paseo Lomas de Rosales, Col. Loma de Rosales C.P. 89100, Tampico",
+    "Precio": 59979,
+    "Ubicación": "Paseo Lomas de Rosales, Col. Loma de Rosales C.P. 89100, Tampico",
+    "Superficie": 849,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-paseo-lomas-de-rosales-loma-de-rosales-tamaulipas-22121325",
+    "Lat": "22.2657000000",
+    "Lng": "-97.8687000000"
+  },
+  {
+    "Título": "Terreno comercial en Ave. Hidalgo, Col. Choferes C.P. 89337, Tampico",
+    "Precio": 170000,
+    "Ubicación": "Ave. Hidalgo, Col. Choferes C.P. 89337, Tampico",
+    "Superficie": 1739,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-ave-hidalgo-choferes-tamaulipas-28177464",
+    "Lat": "22.282879",
+    "Lng": "-97.8731071"
+  },
+  {
+    "Título": "Terreno comercial en Alvaro Obregon, Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 8500,
+    "Ubicación": "Alvaro Obregon, Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 200,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-alvaro-obregon-tampico-centro-tamaulipas-28174394",
+    "Lat": "22.2182000000",
+    "Lng": "-97.8574000000"
+  },
+  {
+    "Título": "Terreno comercial en Alvaro Obregon, Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 40000,
+    "Ubicación": "Alvaro Obregon, Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 707,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-alvaro-obregon-tampico-centro-tamaulipas-3289839",
+    "Lat": "22.2179159",
+    "Lng": "-97.8571798"
+  },
+  {
+    "Título": "Terreno comercial en Ave. Hidalgo, Col. Águila C.P. 89230, Tampico",
+    "Precio": 90000,
+    "Ubicación": "Ave. Hidalgo, Col. Águila C.P. 89230, Tampico",
+    "Superficie": 1378,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-ave-hidalgo-aguila-tamaulipas-28174356",
+    "Lat": "22.2458000000",
+    "Lng": "-97.8729000000"
+  },
+  {
+    "Título": "Terreno comercial en Boulevard Adolfo Lopez Mateos, Col. Universidad Poniente C.P. 89336, Tampico",
+    "Precio": 52000,
+    "Ubicación": "Boulevard Adolfo Lopez Mateos, Col. Universidad Poniente C.P. 89336, Tampico",
+    "Superficie": 1300,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-boulevard-adolfo-lopez-mateos-universidad-poniente-tamaulipas-28177379",
+    "Lat": "22.2799000000",
+    "Lng": "-97.8626000000"
+  },
+  {
+    "Título": "Terreno comercial en Boulevard Adolfo Lopez Mateos, Col. Universidad Poniente C.P. 89336, Tampico",
+    "Precio": 20000,
+    "Ubicación": "Boulevard Adolfo Lopez Mateos, Col. Universidad Poniente C.P. 89336, Tampico",
+    "Superficie": 708,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-boulevard-adolfo-lopez-mateos-universidad-poniente-tamaulipas-28177588",
+    "Lat": "22.2799000000",
+    "Lng": "-97.8627000000"
+  },
+  {
+    "Título": "Terreno comercial en Av. Cuahutemoc, Col. Americana C.P. 89190, Tampico",
+    "Precio": 39000,
+    "Ubicación": "Av. Cuahutemoc, Col. Americana C.P. 89190, Tampico",
+    "Superficie": 800,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-av-cuahutemoc-americana-tamaulipas-28219381",
+    "Lat": "22.2329000000",
+    "Lng": "-97.8633000000"
+  },
+  {
+    "Título": "Terreno comercial en Topiltzin, Col. Rodriguez C.P. 89170, Tampico",
+    "Precio": 45000,
+    "Ubicación": "Topiltzin, Col. Rodriguez C.P. 89170, Tampico",
+    "Superficie": 753,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-topiltzin-rodriguez-tamaulipas-28174548",
+    "Lat": "22.2336703",
+    "Lng": "-97.8625067"
+  },
+  {
+    "Título": "Terreno comercial en JOSE DE ESCANDON, Col. Del Pueblo C.P. 89190, Tampico",
+    "Precio": 18000,
+    "Ubicación": "JOSE DE ESCANDON, Col. Del Pueblo C.P. 89190, Tampico",
+    "Superficie": 316,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-jose-de-escandon-del-pueblo-tamaulipas-28174357",
+    "Lat": "22.2219000000",
+    "Lng": "-97.8592000000"
+  },
+  {
+    "Título": "Terreno comercial en Costa Rica, Col. Las Américas C.P. 89329, Tampico",
+    "Precio": 35000,
+    "Ubicación": "Costa Rica, Col. Las Américas C.P. 89329, Tampico",
+    "Superficie": 700,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-costa-rica-las-americas-tamaulipas-28174556",
+    "Lat": "22.3113000000",
+    "Lng": "-97.8851000000"
+  },
+  {
+    "Título": "Terreno comercial en Avenida Faja de Oro, Col. Loma de Rosales C.P. 89100, Tampico",
+    "Precio": 150000,
+    "Ubicación": "Avenida Faja de Oro, Col. Loma de Rosales C.P. 89100, Tampico",
+    "Superficie": 2799,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-avenida-faja-de-oro-loma-de-rosales-tamaulipas-28450069",
+    "Lat": "22.2672000000",
+    "Lng": "-97.8683000000"
+  },
+  {
+    "Título": "Terreno comercial en 2da Avenida, Col. Villa Hermosa C.P. 89319, Tampico",
+    "Precio": 9000,
+    "Ubicación": "2da Avenida, Col. Villa Hermosa C.P. 89319, Tampico",
+    "Superficie": 225,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-2da-avenida-villa-hermosa-tamaulipas-28377038",
+    "Lat": "22.3218000000",
+    "Lng": "-97.8735000000"
+  },
+  {
+    "Título": "Terreno comercial en Carretera Tampico-Mante, Col. Francisco Javier Mina C.P. 89318, Tampico",
+    "Precio": 250000,
+    "Ubicación": "Carretera Tampico-Mante, Col. Francisco Javier Mina C.P. 89318, Tampico",
+    "Superficie": 10000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-carretera-tampicomante-francisco-javier-mina-tamaulipas-12652893",
+    "Lat": "22.3019000000",
+    "Lng": "-97.8800000000"
+  },
+  {
+    "Título": "Terreno comercial en Doctor Carlos Canseco, Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 35000,
+    "Ubicación": "Doctor Carlos Canseco, Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 911,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-doctor-carlos-canseco-tampico-centro-tamaulipas-29304479",
+    "Lat": "22.2192000000",
+    "Lng": "-97.8608000000"
+  },
+  {
+    "Título": "Terreno comercial en Salvador Diaz Miron, Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 25000,
+    "Ubicación": "Salvador Diaz Miron, Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 281,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-salvador-diaz-miron-tampico-centro-tamaulipas-28174763",
+    "Lat": "22.214581",
+    "Lng": "-97.8563894"
+  },
+  {
+    "Título": "Terreno comercial en Rev. Verde, Col. Luis Donaldo Colosio C.P. 89358, Tampico",
+    "Precio": 14000,
+    "Ubicación": "Rev. Verde, Col. Luis Donaldo Colosio C.P. 89358, Tampico",
+    "Superficie": 441,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-rev-verde-luis-donaldo-colosio-tamaulipas-28177691",
+    "Lat": "22.3235000000",
+    "Lng": "-97.8972000000"
+  },
+  {
+    "Título": "Terreno comercial en Obregon, Col. Tampico Centro C.P. 89000, Tampico",
+    "Precio": 10000,
+    "Ubicación": "Obregon, Col. Tampico Centro C.P. 89000, Tampico",
+    "Superficie": 200,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-obregon-tampico-centro-tamaulipas-23710137",
+    "Lat": "22.2182000000",
+    "Lng": "-97.8577000000"
+  },
+  {
+    "Título": "Terreno comercial en Josefa Ortiz de Dominguez, Col. Nuevo Progreso C.P. 89318, Tampico",
+    "Precio": 60000,
+    "Ubicación": "Josefa Ortiz de Dominguez, Col. Nuevo Progreso C.P. 89318, Tampico",
+    "Superficie": 800,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-josefa-ortiz-de-dominguez-nuevo-progreso-tamaulipas-29845181",
+    "Lat": "22.3110000000",
+    "Lng": "-97.8765000000"
+  },
+  {
+    "Título": "Terreno comercial en A #115, Col. Enrique Cárdenas Gonzalez C.P. 89309, Tampico",
+    "Precio": 32000,
+    "Ubicación": "A #115, Col. Enrique Cárdenas Gonzalez C.P. 89309, Tampico",
+    "Superficie": 800,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-a-115-enrique-cardenas-gonzalez-tamaulipas-29116260",
+    "Lat": "22.3029585000",
+    "Lng": "-97.8544755000"
+  },
+  {
+    "Título": "Terreno comercial en Av. Faja de Oro, Col. Las Villas C.P. 89110, Tampico",
+    "Precio": 77857,
+    "Ubicación": "Av. Faja de Oro, Col. Las Villas C.P. 89110, Tampico",
+    "Superficie": 1469,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-av-faja-de-oro-las-villas-tamaulipas-29116301",
+    "Lat": "22.2587650000",
+    "Lng": "-97.8684126000"
+  },
+  {
+    "Título": "Terreno comercial en AVENIDA MIGUEL HIDALGO #1301, Col. Trueba C.P. 89170, Tampico",
+    "Precio": 46000,
+    "Ubicación": "AVENIDA MIGUEL HIDALGO #1301, Col. Trueba C.P. 89170, Tampico",
+    "Superficie": 578,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-avenida-miguel-hidalgo-1301-trueba-tamaulipas-25988067",
+    "Lat": "22.2327353000",
+    "Lng": "-97.8668776000"
+  }
+]

@@ -1,0 +1,425 @@
+[
+  {
+    "Título": "Local en Industriales del poniente, Col. Industrias del Poniente C.P. 66370, Santa Catarina",
+    "Precio": 15900,
+    "Ubicación": "Industriales del poniente, Col. Industrias del Poniente C.P. 66370, Santa Catarina",
+    "Superficie": 45,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-industriales-del-poniente-industrias-del-poniente-nuevo_leon-28668019",
+    "Lat": "25.685128",
+    "Lng": "-100.4655321"
+  },
+  {
+    "Título": "Local en Clouthier, Col. San Humberto C.P. 66120, Santa Catarina",
+    "Precio": 11500,
+    "Ubicación": "Clouthier, Col. San Humberto C.P. 66120, Santa Catarina",
+    "Superficie": 61,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-clouthier-san-humberto-nuevo_leon-29096207",
+    "Lat": "25.6843038",
+    "Lng": "-100.4382417"
+  },
+  {
+    "Título": "Local en Av. Industrial Del Poniente, Col. Bosques Del Poniente C.P. 66362, Santa Catarina",
+    "Precio": 387458,
+    "Ubicación": "Av. Industrial Del Poniente, Col. Bosques Del Poniente C.P. 66362, Santa Catarina",
+    "Superficie": 1232,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-av-industrial-del-poniente-bosques-del-poniente-nuevo_leon-28421360",
+    "Lat": "25.685128",
+    "Lng": "-100.4655321"
+  },
+  {
+    "Título": "Local en Clouthier, Col. San Humberto C.P. 66120, Santa Catarina",
+    "Precio": 13500,
+    "Ubicación": "Clouthier, Col. San Humberto C.P. 66120, Santa Catarina",
+    "Superficie": 61,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-clouthier-san-humberto-nuevo_leon-29387080",
+    "Lat": "25.6843038",
+    "Lng": "-100.4382417"
+  },
+  {
+    "Título": "Local en El Lechugal, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Precio": 17000,
+    "Ubicación": "El Lechugal, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Superficie": 33,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-el-lechugal-el-lechugal-nuevo_leon-29748262",
+    "Lat": "25.6653474",
+    "Lng": "-100.4508696"
+  },
+  {
+    "Título": "Local en Manuel Ordoñez, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Precio": 19000,
+    "Ubicación": "Manuel Ordoñez, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Superficie": 53,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-manuel-ordonez-el-lechugal-nuevo_leon-29802992",
+    "Lat": "25.6743031",
+    "Lng": "-100.4476096"
+  },
+  {
+    "Título": "Local en Carr. Monterrey - Saltillo, Col. Parque Industrial la Puerta C.P. 66367, Santa Catarina",
+    "Precio": 55900,
+    "Ubicación": "Carr. Monterrey - Saltillo, Col. Parque Industrial la Puerta C.P. 66367, Santa Catarina",
+    "Superficie": 98,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-carr-monterrey-saltillo-parque-industrial-la-puerta-nuevo_leon-29090074",
+    "Lat": "25.6859667",
+    "Lng": "-100.4909634"
+  },
+  {
+    "Título": "Local en , Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Precio": 52506,
+    "Ubicación": ", Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Superficie": 175,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-paseo-del-prado-nuevo_leon-29520223",
+    "Lat": "25.6725452631",
+    "Lng": "-100.4361833167"
+  },
+  {
+    "Título": "Local en Efimex, Col. Efimex C.P. 66169, Santa Catarina",
+    "Precio": 12850,
+    "Ubicación": "Efimex, Col. Efimex C.P. 66169, Santa Catarina",
+    "Superficie": 46,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-efimex-efimex-nuevo_leon-29504942",
+    "Lat": "25.669464",
+    "Lng": "-100.4307005"
+  },
+  {
+    "Título": "Local en , Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Precio": 46252,
+    "Ubicación": ", Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Superficie": 124,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-el-lechugal-nuevo_leon-29996121",
+    "Lat": "25.6746849000",
+    "Lng": "-100.4464757000"
+  },
+  {
+    "Título": "Local en idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Precio": 39800,
+    "Ubicación": "idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Superficie": 99,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-idelfonso-vazquez-idelfonso-vazquez-nuevo_leon-29520321",
+    "Lat": "25.6613413",
+    "Lng": "-100.433071"
+  },
+  {
+    "Título": "Local en Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Precio": 54823,
+    "Ubicación": "Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Superficie": 182,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-catarina-paseo-del-prado-nuevo_leon-29520322",
+    "Lat": "25.678099",
+    "Lng": "-100.4582732"
+  },
+  {
+    "Título": "Local en idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Precio": 58880,
+    "Ubicación": "idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Superficie": 147,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-idelfonso-vazquez-idelfonso-vazquez-nuevo_leon-29520207",
+    "Lat": "25.6613413",
+    "Lng": "-100.433071"
+  },
+  {
+    "Título": "Local en Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Precio": 451200,
+    "Ubicación": "Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Superficie": 1504,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-catarina-paseo-del-prado-nuevo_leon-29520073",
+    "Lat": "25.678099",
+    "Lng": "-100.4582732"
+  },
+  {
+    "Título": "Local en ., Col. Vía Cordillera C.P. 66196, Santa Catarina",
+    "Precio": 53596,
+    "Ubicación": "., Col. Vía Cordillera C.P. 66196, Santa Catarina",
+    "Superficie": 121,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-via-cordillera-nuevo_leon-27690629",
+    "Lat": "25.6583489",
+    "Lng": "-100.4391879"
+  },
+  {
+    "Título": "Local en Carr. Monterrey - Saltillo, Col. Parque Industrial la Puerta C.P. 66367, Santa Catarina",
+    "Precio": 24000,
+    "Ubicación": "Carr. Monterrey - Saltillo, Col. Parque Industrial la Puerta C.P. 66367, Santa Catarina",
+    "Superficie": 56,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-carr-monterrey-saltillo-parque-industrial-la-puerta-nuevo_leon-28651819",
+    "Lat": "25.6859667",
+    "Lng": "-100.4909634"
+  },
+  {
+    "Título": "Local en Manuel Ordoñez, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Precio": 42000,
+    "Ubicación": "Manuel Ordoñez, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Superficie": 125,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-manuel-ordonez-el-lechugal-nuevo_leon-30112241",
+    "Lat": "25.6742871",
+    "Lng": "-100.446568"
+  },
+  {
+    "Título": "Local en Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Precio": 72289,
+    "Ubicación": "Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Superficie": 240,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-catarina-paseo-del-prado-nuevo_leon-29520094",
+    "Lat": "25.678099",
+    "Lng": "-100.4582732"
+  },
+  {
+    "Título": "Local en idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Precio": 178256,
+    "Ubicación": "idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Superficie": 445,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-idelfonso-vazquez-idelfonso-vazquez-nuevo_leon-29520114",
+    "Lat": "25.6613413",
+    "Lng": "-100.433071"
+  },
+  {
+    "Título": "Local en idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Precio": 48724,
+    "Ubicación": "idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Superficie": 121,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-idelfonso-vazquez-idelfonso-vazquez-nuevo_leon-29520320",
+    "Lat": "25.6613413",
+    "Lng": "-100.433071"
+  },
+  {
+    "Título": "Local en  , Col. Las Palmas C.P. 66187, Santa Catarina",
+    "Precio": 200000,
+    "Ubicación": " , Col. Las Palmas C.P. 66187, Santa Catarina",
+    "Superficie": 1280,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-las-palmas-nuevo_leon-27406834",
+    "Lat": "25.6983986",
+    "Lng": "-100.4486289"
+  },
+  {
+    "Título": "Local en ., Col. Real del Valle C.P. 66350, Santa Catarina",
+    "Precio": 27979,
+    "Ubicación": "., Col. Real del Valle C.P. 66350, Santa Catarina",
+    "Superficie": 108,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-real-del-valle-nuevo_leon-29890832",
+    "Lat": "25.6713178",
+    "Lng": "-100.4792545"
+  },
+  {
+    "Título": "Local en Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Precio": 113901,
+    "Ubicación": "Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Superficie": 379,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-catarina-paseo-del-prado-nuevo_leon-29520292",
+    "Lat": "25.678099",
+    "Lng": "-100.4582732"
+  },
+  {
+    "Título": "Local en Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Precio": 84378,
+    "Ubicación": "Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Superficie": 281,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-catarina-paseo-del-prado-nuevo_leon-29520309",
+    "Lat": "25.678099",
+    "Lng": "-100.4582732"
+  },
+  {
+    "Título": "Local en Manuel Ordoñez, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Precio": 12085,
+    "Ubicación": "Manuel Ordoñez, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Superficie": 32,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-manuel-ordonez-el-lechugal-nuevo_leon-29803323",
+    "Lat": "25.6743031",
+    "Lng": "-100.4476096"
+  },
+  {
+    "Título": "Local en Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Precio": 89291,
+    "Ubicación": "Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Superficie": 297,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-catarina-paseo-del-prado-nuevo_leon-29520108",
+    "Lat": "25.678099",
+    "Lng": "-100.4582732"
+  },
+  {
+    "Título": "Local en Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Precio": 134973,
+    "Ubicación": "Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Superficie": 449,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-catarina-paseo-del-prado-nuevo_leon-29520216",
+    "Lat": "25.678099",
+    "Lng": "-100.4582732"
+  },
+  {
+    "Título": "Local en Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Precio": 52265,
+    "Ubicación": "Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Superficie": 174,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-catarina-paseo-del-prado-nuevo_leon-29520345",
+    "Lat": "25.678099",
+    "Lng": "-100.4582732"
+  },
+  {
+    "Título": "Local en Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Precio": 84426,
+    "Ubicación": "Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Superficie": 281,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-catarina-paseo-del-prado-nuevo_leon-29520260",
+    "Lat": "25.678099",
+    "Lng": "-100.4582732"
+  },
+  {
+    "Título": "Local en Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Precio": 77439,
+    "Ubicación": "Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Superficie": 258,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-catarina-paseo-del-prado-nuevo_leon-29520349",
+    "Lat": "25.678099",
+    "Lng": "-100.4582732"
+  },
+  {
+    "Título": "Local en Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Precio": 96997,
+    "Ubicación": "Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Superficie": 323,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-catarina-paseo-del-prado-nuevo_leon-29520166",
+    "Lat": "25.678099",
+    "Lng": "-100.4582732"
+  },
+  {
+    "Título": "Local en Ave. Bosques de la Huasteca, Col. Santa Catarina Centro C.P. 66350, Santa Catarina",
+    "Precio": 55200,
+    "Ubicación": "Ave. Bosques de la Huasteca, Col. Santa Catarina Centro C.P. 66350, Santa Catarina",
+    "Superficie": 160,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-ave-bosques-de-la-huasteca-santa-catarina-centro-nuevo_leon-29890827",
+    "Lat": "25.7018411",
+    "Lng": "-100.4996663"
+  },
+  {
+    "Título": "Local en Manuel Ordoñez, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Precio": 24000,
+    "Ubicación": "Manuel Ordoñez, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Superficie": 68,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-manuel-ordonez-el-lechugal-nuevo_leon-28843836",
+    "Lat": "25.6743031",
+    "Lng": "-100.4476096"
+  },
+  {
+    "Título": "Local en Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Precio": 63781,
+    "Ubicación": "Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Superficie": 212,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-catarina-paseo-del-prado-nuevo_leon-29520150",
+    "Lat": "25.678099",
+    "Lng": "-100.4582732"
+  },
+  {
+    "Título": "Local en Mexico, Col. Pio XII C.P. 66362, Santa Catarina",
+    "Precio": 20900,
+    "Ubicación": "Mexico, Col. Pio XII C.P. 66362, Santa Catarina",
+    "Superficie": 165,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-mexico-pio-xii-nuevo_leon-29037063",
+    "Lat": "25.6860724",
+    "Lng": "-100.4640688"
+  },
+  {
+    "Título": "Local en idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Precio": 123740,
+    "Ubicación": "idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Superficie": 309,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-idelfonso-vazquez-idelfonso-vazquez-nuevo_leon-29520159",
+    "Lat": "25.6613413",
+    "Lng": "-100.433071"
+  },
+  {
+    "Título": "Local en Ignacio Zaragoza, Col. La Fama C.P. 66100, Santa Catarina",
+    "Precio": 19000,
+    "Ubicación": "Ignacio Zaragoza, Col. La Fama C.P. 66100, Santa Catarina",
+    "Superficie": 210,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-ignacio-zaragoza-la-fama-nuevo_leon-30000911",
+    "Lat": "25.6679417",
+    "Lng": "-100.4244807"
+  },
+  {
+    "Título": "Local en Manuel Ordoñez, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Precio": 32452,
+    "Ubicación": "Manuel Ordoñez, Col. El Lechugal C.P. 66376, Santa Catarina",
+    "Superficie": 85,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-manuel-ordonez-el-lechugal-nuevo_leon-28239913",
+    "Lat": "25.6744549",
+    "Lng": "-100.4476568"
+  },
+  {
+    "Título": "Local en Carr. Monterrey - Saltillo, Col. Parque Industrial la Puerta C.P. 66367, Santa Catarina",
+    "Precio": 28800,
+    "Ubicación": "Carr. Monterrey - Saltillo, Col. Parque Industrial la Puerta C.P. 66367, Santa Catarina",
+    "Superficie": 48,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-carr-monterrey-saltillo-parque-industrial-la-puerta-nuevo_leon-28673812",
+    "Lat": "25.6859667",
+    "Lng": "-100.4909634"
+  },
+  {
+    "Título": "Local en Constitución, Col. Santa Catarina Centro C.P. 66350, Santa Catarina",
+    "Precio": 91800,
+    "Ubicación": "Constitución, Col. Santa Catarina Centro C.P. 66350, Santa Catarina",
+    "Superficie": 360,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-constitucion-santa-catarina-centro-nuevo_leon-29455925",
+    "Lat": "25.6758309",
+    "Lng": "-100.4595593"
+  },
+  {
+    "Título": "Local en idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Precio": 81916,
+    "Ubicación": "idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Superficie": 204,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-idelfonso-vazquez-idelfonso-vazquez-nuevo_leon-29520331",
+    "Lat": "25.6613413",
+    "Lng": "-100.433071"
+  },
+  {
+    "Título": "Local en idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Precio": 46280,
+    "Ubicación": "idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Superficie": 115,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-idelfonso-vazquez-idelfonso-vazquez-nuevo_leon-29520157",
+    "Lat": "25.6613413",
+    "Lng": "-100.433071"
+  },
+  {
+    "Título": "Local en idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Precio": 79576,
+    "Ubicación": "idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Superficie": 198,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-idelfonso-vazquez-idelfonso-vazquez-nuevo_leon-29520253",
+    "Lat": "25.6613413",
+    "Lng": "-100.433071"
+  },
+  {
+    "Título": "Local en idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Precio": 74408,
+    "Ubicación": "idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Superficie": 186,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-idelfonso-vazquez-idelfonso-vazquez-nuevo_leon-29520153",
+    "Lat": "25.6613413",
+    "Lng": "-100.433071"
+  },
+  {
+    "Título": "Local en idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Precio": 28808,
+    "Ubicación": "idelfonso Vázquez, Col. Idelfonso Vázquez C.P. 66199, Santa Catarina",
+    "Superficie": 72,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-idelfonso-vazquez-idelfonso-vazquez-nuevo_leon-29520315",
+    "Lat": "25.6613413",
+    "Lng": "-100.433071"
+  },
+  {
+    "Título": "Local en Industriales del poniente, Col. Bosques Del Poniente C.P. 66362, Santa Catarina",
+    "Precio": 99000,
+    "Ubicación": "Industriales del poniente, Col. Bosques Del Poniente C.P. 66362, Santa Catarina",
+    "Superficie": 220,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-industriales-del-poniente-bosques-del-poniente-nuevo_leon-28421390",
+    "Lat": "25.685128",
+    "Lng": "-100.4655321"
+  },
+  {
+    "Título": "Local en Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Precio": 71124,
+    "Ubicación": "Santa Catarina, Col. Paseo Del Prado C.P. 66362, Santa Catarina",
+    "Superficie": 237,
+    "Enlace": "https://propiedades.com/inmuebles/local-en-renta-santa-catarina-paseo-del-prado-nuevo_leon-29520258",
+    "Lat": "25.678099",
+    "Lng": "-100.4582732"
+  }
+]

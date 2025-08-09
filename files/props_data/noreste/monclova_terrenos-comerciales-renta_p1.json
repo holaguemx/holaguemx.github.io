@@ -1,0 +1,38 @@
+[
+  {
+    "Título": "Terreno comercial en Nicolás Bravo, Col. Monclova Centro C.P. 25700, Monclova",
+    "Precio": 10000,
+    "Ubicación": "Nicolás Bravo, Col. Monclova Centro C.P. 25700, Monclova",
+    "Superficie": 835,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-nicolas-bravo-monclova-centro-coahuila-29087875",
+    "Lat": "26.93965870430198",
+    "Lng": "-101.41095385279542"
+  },
+  {
+    "Título": "Terreno comercial en Carretera 57 #2307, Col. Asturias C.P. 25790, Monclova",
+    "Precio": 60000,
+    "Ubicación": "Carretera 57 #2307, Col. Asturias C.P. 25790, Monclova",
+    "Superficie": 3000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-carretera-57-2307-asturias-coahuila-29193368",
+    "Lat": "26.8471329000",
+    "Lng": "-101.4252240000"
+  },
+  {
+    "Título": "Terreno comercial en blvd. Harold Pape, Col. Jardines del Valle C.P. 25730, Monclova",
+    "Precio": 80000,
+    "Ubicación": "blvd. Harold Pape, Col. Jardines del Valle C.P. 25730, Monclova",
+    "Superficie": 400,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-blvd-harold-pape-jardines-del-valle-coahuila-24812541",
+    "Lat": "26.9317077",
+    "Lng": "-101.4155951"
+  },
+  {
+    "Título": "Terreno comercial en BOULEVARD HAROLD PAPE, Col. Jardines del Valle C.P. 25730, Monclova",
+    "Precio": 119284,
+    "Ubicación": "BOULEVARD HAROLD PAPE, Col. Jardines del Valle C.P. 25730, Monclova",
+    "Superficie": 701,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-renta-boulevard-harold-pape-jardines-del-valle-coahuila-24578491",
+    "Lat": "26.9317077",
+    "Lng": "-101.4155951"
+  }
+]

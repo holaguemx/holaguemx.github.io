@@ -1,0 +1,416 @@
+[
+  {
+    "Título": "Terreno comercial en Benito Juárez 498 #498, Col. Ejido Juárez C.P. 67256, Juárez",
+    "Precio": 2500000,
+    "Ubicación": "Benito Juárez 498 #498, Col. Ejido Juárez C.P. 67256, Juárez",
+    "Superficie": 400,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-benito-juarez-498-498-ejido-juarez-nuevo_leon-30049473",
+    "Lat": "25.662926",
+    "Lng": "-100.0801832"
+  },
+  {
+    "Título": "Terreno comercial en carretera san mateo, Col. Ciudad Benito Juárez Centro C.P. 67250, Juárez",
+    "Precio": 4200000,
+    "Ubicación": "carretera san mateo, Col. Ciudad Benito Juárez Centro C.P. 67250, Juárez",
+    "Superficie": 1153,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-carretera-san-mateo-ciudad-benito-juarez-centro-nuevo_leon-28843303",
+    "Lat": "25.63833175016812",
+    "Lng": "-100.09510521824646"
+  },
+  {
+    "Título": "Terreno comercial en Camino a la Paz #s/n, Col. Fomerrey 131 C.P. 67260, Juárez",
+    "Precio": 40956860,
+    "Ubicación": "Camino a la Paz #s/n, Col. Fomerrey 131 C.P. 67260, Juárez",
+    "Superficie": 5850,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-camino-a-la-paz-sn-fomerrey-131-nuevo_leon-30057906",
+    "Lat": "25.649628412252977",
+    "Lng": "-100.10196822670899"
+  },
+  {
+    "Título": "Terreno comercial en Carretera A Reynosa #s/n, Col. Fuentes de Juárez C.P. 67267, Juárez",
+    "Precio": 10000000,
+    "Ubicación": "Carretera A Reynosa #s/n, Col. Fuentes de Juárez C.P. 67267, Juárez",
+    "Superficie": 375,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-carretera-a-reynosa-sn-fuentes-de-juarez-nuevo_leon-30024977",
+    "Lat": "25.6456456",
+    "Lng": "-100.1027704"
+  },
+  {
+    "Título": "Terreno comercial en Avenida Licenciado Arturo B. de La Garza 1302 #1302, Col. Ciudad Benito Juárez Centro C.P. 67250, Juárez",
+    "Precio": 3650000,
+    "Ubicación": "Avenida Licenciado Arturo B. de La Garza 1302 #1302, Col. Ciudad Benito Juárez Centro C.P. 67250, Juárez",
+    "Superficie": 400,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-avenida-licenciado-arturo-b-de-la-garza-1302-1302-ciudad-benito-juarez-centro-nuevo_leon-28977166",
+    "Lat": "25.651106499999997",
+    "Lng": "-100.10455789999999"
+  },
+  {
+    "Título": "Terreno comercial en Benito Juárez #200, Col. Valle de Juárez C.P. 67289, Juárez",
+    "Precio": 23000000,
+    "Ubicación": "Benito Juárez #200, Col. Valle de Juárez C.P. 67289, Juárez",
+    "Superficie": 8500,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-benito-juarez-200-valle-de-juarez-nuevo_leon-28725690",
+    "Lat": "25.6371400000",
+    "Lng": "-100.1557160000"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. El Sabinal C.P. 67257, Juárez",
+    "Precio": 3914496,
+    "Ubicación": " , Col. El Sabinal C.P. 67257, Juárez",
+    "Superficie": 2446,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-el-sabinal-nuevo_leon-27292493",
+    "Lat": "25.6645274",
+    "Lng": "-100.1101184"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Benito Juárez Centro C.P. 67250, Juárez",
+    "Precio": 10400000,
+    "Ubicación": " , Col. Benito Juárez Centro C.P. 67250, Juárez",
+    "Superficie": 8000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-benito-juarez-centro-nuevo_leon-17829003",
+    "Lat": "25.6424711",
+    "Lng": "-100.0905249"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. La Ciudadela C.P. 67265, Juárez",
+    "Precio": 3069000,
+    "Ubicación": " , Col. La Ciudadela C.P. 67265, Juárez",
+    "Superficie": 558,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-la-ciudadela-nuevo_leon-28406972",
+    "Lat": "25.5688463254",
+    "Lng": "-100.1291370914"
+  },
+  {
+    "Título": "Terreno comercial en Av. Reynosa #13.5 km, Col. Coahuila C.P. 67257, Juárez",
+    "Precio": 40000000,
+    "Ubicación": "Av. Reynosa #13.5 km, Col. Coahuila C.P. 67257, Juárez",
+    "Superficie": 17921,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-av-reynosa-135-km-coahuila-nuevo_leon-26806615",
+    "Lat": "25.658134225774763",
+    "Lng": "-100.14565634609374"
+  },
+  {
+    "Título": "Terreno comercial en Arboledas de San Roque, Col. Arboledas de San Roque C.P. 67280, Juárez",
+    "Precio": 3339000,
+    "Ubicación": "Arboledas de San Roque, Col. Arboledas de San Roque C.P. 67280, Juárez",
+    "Superficie": 630,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-arboledas-de-san-roque-arboledas-de-san-roque-nuevo_leon-27786736",
+    "Lat": "25.6043163",
+    "Lng": "-100.1522227"
+  },
+  {
+    "Título": "Terreno comercial en Carretera Libre a Reynosa #160, Col. El Sabinal C.P. 67257, Juárez",
+    "Precio": 4200000,
+    "Ubicación": "Carretera Libre a Reynosa #160, Col. El Sabinal C.P. 67257, Juárez",
+    "Superficie": 350,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-carretera-libre-a-reynosa-160-el-sabinal-nuevo_leon-28142269",
+    "Lat": "25.652694524424334",
+    "Lng": "-100.1107928217041"
+  },
+  {
+    "Título": "Terreno comercial en Cardel, Col. Cardel C.P. 67276, Juárez",
+    "Precio": 6500000,
+    "Ubicación": "Cardel, Col. Cardel C.P. 67276, Juárez",
+    "Superficie": 1700,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-cardel-cardel-nuevo_leon-29921783",
+    "Lat": "25.6362290000",
+    "Lng": "-100.1479260000"
+  },
+  {
+    "Título": "Terreno comercial en Rio San Juan, Col. Valle Del Virrey C.P. 67257, Juárez",
+    "Precio": 27714000,
+    "Ubicación": "Rio San Juan, Col. Valle Del Virrey C.P. 67257, Juárez",
+    "Superficie": 12007,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-rio-san-juan-valle-del-virrey-nuevo_leon-28569412",
+    "Lat": "25.657162798963768",
+    "Lng": "-100.14476214868775"
+  },
+  {
+    "Título": "Terreno comercial en ., Col. Residencial Terranova C.P. 67267, Juárez",
+    "Precio": 3342921,
+    "Ubicación": "., Col. Residencial Terranova C.P. 67267, Juárez",
+    "Superficie": 2713,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-residencial-terranova-nuevo_leon-27293677",
+    "Lat": "25.6645274000",
+    "Lng": "-100.1101184000"
+  },
+  {
+    "Título": "Terreno comercial en Arboledas de San Roque, Col. Arboledas de San Roque C.P. 67280, Juárez",
+    "Precio": 1575000,
+    "Ubicación": "Arboledas de San Roque, Col. Arboledas de San Roque C.P. 67280, Juárez",
+    "Superficie": 350,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-arboledas-de-san-roque-arboledas-de-san-roque-nuevo_leon-27786724",
+    "Lat": "25.6043163",
+    "Lng": "-100.1522227"
+  },
+  {
+    "Título": "Terreno comercial en Hacienda de Juárez, Col. Hacienda de Juárez C.P. 67267, Juárez",
+    "Precio": 11519000,
+    "Ubicación": "Hacienda de Juárez, Col. Hacienda de Juárez C.P. 67267, Juárez",
+    "Superficie": 11519,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-hacienda-de-juarez-hacienda-de-juarez-nuevo_leon-24821947",
+    "Lat": "25.6471180000",
+    "Lng": "-100.1026990000"
+  },
+  {
+    "Título": "Terreno comercial en BONAMPAK #S, Col. Residencial Terranova C.P. 67267, Juárez",
+    "Precio": 3914496,
+    "Ubicación": "BONAMPAK #S, Col. Residencial Terranova C.P. 67267, Juárez",
+    "Superficie": 2446,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-bonampak-s-residencial-terranova-nuevo_leon-28177138",
+    "Lat": "25.6689990000",
+    "Lng": "-100.1051390000"
+  },
+  {
+    "Título": "Terreno comercial en zaragoza, Col. Benito Juárez Centro C.P. 67250, Juárez",
+    "Precio": 6500000,
+    "Ubicación": "zaragoza, Col. Benito Juárez Centro C.P. 67250, Juárez",
+    "Superficie": 818,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-zaragoza-benito-juarez-centro-nuevo_leon-25536313",
+    "Lat": "25.6618077",
+    "Lng": "-100.0781278"
+  },
+  {
+    "Título": "Terreno comercial en Vistas de anacua, Col. Vistas del Río C.P. 67267, Juárez",
+    "Precio": 3940000,
+    "Ubicación": "Vistas de anacua, Col. Vistas del Río C.P. 67267, Juárez",
+    "Superficie": 750,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-vistas-de-anacua-vistas-del-rio-nuevo_leon-28978522",
+    "Lat": "31.6511181",
+    "Lng": "-106.3724406"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Valle Santa Isabel C.P. 67256, Juárez",
+    "Precio": 1500000,
+    "Ubicación": " , Col. Valle Santa Isabel C.P. 67256, Juárez",
+    "Superficie": 511,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-valle-santa-isabel-nuevo_leon-28096628",
+    "Lat": "25.6772542000",
+    "Lng": "-100.0830159000"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Benito Juárez Centro C.P. 67250, Juárez",
+    "Precio": 3600000,
+    "Ubicación": " , Col. Benito Juárez Centro C.P. 67250, Juárez",
+    "Superficie": 400,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-benito-juarez-centro-nuevo_leon-28969509",
+    "Lat": "25.6648077000",
+    "Lng": "-100.0751278000"
+  },
+  {
+    "Título": "Terreno comercial en ., Col. Residencial Terranova C.P. 67267, Juárez",
+    "Precio": 3497855,
+    "Ubicación": "., Col. Residencial Terranova C.P. 67267, Juárez",
+    "Superficie": 2376,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-residencial-terranova-nuevo_leon-27292894",
+    "Lat": "25.6645274000",
+    "Lng": "-100.1101184000"
+  },
+  {
+    "Título": "Terreno comercial en Santa Ana de Arriba, Col. Santa Ana de Arriba C.P. 67290, Juárez",
+    "Precio": 9775000,
+    "Ubicación": "Santa Ana de Arriba, Col. Santa Ana de Arriba C.P. 67290, Juárez",
+    "Superficie": 2500,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-santa-ana-de-arriba-santa-ana-de-arriba-nuevo_leon-27608438",
+    "Lat": "25.5649212",
+    "Lng": "-100.1601848"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Residencial Terranova C.P. 67267, Juárez",
+    "Precio": 1704038,
+    "Ubicación": " , Col. Residencial Terranova C.P. 67267, Juárez",
+    "Superficie": 1109,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-residencial-terranova-nuevo_leon-26803768",
+    "Lat": "25.6645274",
+    "Lng": "-100.1101184"
+  },
+  {
+    "Título": "Terreno comercial en El Sabinal, Col. Privadas Ocania C.P. 67267, Juárez",
+    "Precio": 3914496,
+    "Ubicación": "El Sabinal, Col. Privadas Ocania C.P. 67267, Juárez",
+    "Superficie": 2446,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-el-sabinal-privadas-ocania-nuevo_leon-28166980",
+    "Lat": "25.662099",
+    "Lng": "-100.1087262"
+  },
+  {
+    "Título": "Terreno comercial en San Mateo #1000, Col. San Mateo C.P. 67296, Juárez",
+    "Precio": 20000000,
+    "Ubicación": "San Mateo #1000, Col. San Mateo C.P. 67296, Juárez",
+    "Superficie": 120000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-san-mateo-1000-san-mateo-nuevo_leon-19196816",
+    "Lat": "25.672769",
+    "Lng": "-100.138545"
+  },
+  {
+    "Título": "Terreno comercial en Carretera A San Mateo #s/n, Col. Carricitos C.P. 67298, Juárez",
+    "Precio": 15413710,
+    "Ubicación": "Carretera A San Mateo #s/n, Col. Carricitos C.P. 67298, Juárez",
+    "Superficie": 15413,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-carretera-a-san-mateo-sn-carricitos-nuevo_leon-30153501",
+    "Lat": "25.587983513258855",
+    "Lng": "-100.12489202275088"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Vistas del Río C.P. 67267, Juárez",
+    "Precio": 3926000,
+    "Ubicación": " , Col. Vistas del Río C.P. 67267, Juárez",
+    "Superficie": 756,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-vistas-del-rio-nuevo_leon-27322491",
+    "Lat": "25.6653063000",
+    "Lng": "-100.0989216000"
+  },
+  {
+    "Título": "Terreno comercial en Lote 10 manzana 335, Col. Valle Santa Isabel C.P. 67256, Juárez",
+    "Precio": 1500000,
+    "Ubicación": "Lote 10 manzana 335, Col. Valle Santa Isabel C.P. 67256, Juárez",
+    "Superficie": 511,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-lote-10-manzana-335-valle-santa-isabel-nuevo_leon-27795370",
+    "Lat": "25.693215",
+    "Lng": "-100.0899535"
+  },
+  {
+    "Título": "Terreno comercial en Lomas de Garcia, Col. Las Lomas C.P. 67265, Juárez",
+    "Precio": 3130000,
+    "Ubicación": "Lomas de Garcia, Col. Las Lomas C.P. 67265, Juárez",
+    "Superficie": 848,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-lomas-de-garcia-las-lomas-nuevo_leon-26482599",
+    "Lat": "25.6325308408",
+    "Lng": "-100.0936675017"
+  },
+  {
+    "Título": "Terreno comercial en PICO DE ZOCAMPA #955, Col. San Roque C.P. 67280, Juárez",
+    "Precio": 13113900,
+    "Ubicación": "PICO DE ZOCAMPA #955, Col. San Roque C.P. 67280, Juárez",
+    "Superficie": 97140,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-pico-de-zocampa-955-san-roque-nuevo_leon-3660289",
+    "Lat": "25.6048228",
+    "Lng": "-100.156666"
+  },
+  {
+    "Título": "Terreno comercial en Carretera a San Mateo #KILOMETRO 4.5, Col. Ciudad Benito Juárez Centro C.P. 67250, Juárez",
+    "Precio": 40000000,
+    "Ubicación": "Carretera a San Mateo #KILOMETRO 4.5, Col. Ciudad Benito Juárez Centro C.P. 67250, Juárez",
+    "Superficie": 43750,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-carretera-a-san-mateo-kilometro-45-ciudad-benito-juarez-centro-nuevo_leon-21785081",
+    "Lat": "25.6263584",
+    "Lng": "-100.1021798"
+  },
+  {
+    "Título": "Terreno comercial en El Sabinal, Col. Residencial Terranova C.P. 67267, Juárez",
+    "Precio": 3914496,
+    "Ubicación": "El Sabinal, Col. Residencial Terranova C.P. 67267, Juárez",
+    "Superficie": 2446,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-el-sabinal-residencial-terranova-nuevo_leon-20515536",
+    "Lat": "25.6653355000",
+    "Lng": "-100.1071693000"
+  },
+  {
+    "Título": "Terreno comercial en calle #S/D, Col. Vistas del Río C.P. 67267, Juárez",
+    "Precio": 4909970,
+    "Ubicación": "calle #S/D, Col. Vistas del Río C.P. 67267, Juárez",
+    "Superficie": 755,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-sd-vistas-del-rio-nuevo_leon-28001798",
+    "Lat": "31.6511181",
+    "Lng": "-106.3724406"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Residencial Terranova C.P. 67267, Juárez",
+    "Precio": 4900000,
+    "Ubicación": " , Col. Residencial Terranova C.P. 67267, Juárez",
+    "Superficie": 2446,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-residencial-terranova-nuevo_leon-26835187",
+    "Lat": "25.6634183",
+    "Lng": "-100.1037321"
+  },
+  {
+    "Título": "Terreno comercial en Avenida Acueducto esquina calle Democracia #000, Col. La Maestranza C.P. 67286, Juárez",
+    "Precio": 10900000,
+    "Ubicación": "Avenida Acueducto esquina calle Democracia #000, Col. La Maestranza C.P. 67286, Juárez",
+    "Superficie": 2160,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-avenida-acueducto-esquina-calle-democracia-000-la-maestranza-nuevo_leon-29165252",
+    "Lat": "25.6094217000",
+    "Lng": "-100.1658983000"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Benito Juárez Centro C.P. 67250, Juárez",
+    "Precio": 6500000,
+    "Ubicación": " , Col. Benito Juárez Centro C.P. 67250, Juárez",
+    "Superficie": 820,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-benito-juarez-centro-nuevo_leon-27860937",
+    "Lat": "25.6455929000",
+    "Lng": "-100.0877262000"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Reserva de San Roque C.P. 67277, Juárez",
+    "Precio": 20120000,
+    "Ubicación": " , Col. Reserva de San Roque C.P. 67277, Juárez",
+    "Superficie": 9145,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-reserva-de-san-roque-nuevo_leon-26085571",
+    "Lat": "25.653213",
+    "Lng": "-100.1384482"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Vistas del Río C.P. 67267, Juárez",
+    "Precio": 5200000,
+    "Ubicación": " , Col. Vistas del Río C.P. 67267, Juárez",
+    "Superficie": 755,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-vistas-del-rio-nuevo_leon-28276885",
+    "Lat": "",
+    "Lng": ""
+  },
+  {
+    "Título": "Terreno comercial en Avenida Teofilo Salinas Garza, Col. Real de San Jose C.P. 67254, Juárez",
+    "Precio": 8370000,
+    "Ubicación": "Avenida Teofilo Salinas Garza, Col. Real de San Jose C.P. 67254, Juárez",
+    "Superficie": 1674,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-avenida-teofilo-salinas-garza-real-de-san-jose-nuevo_leon-26915523",
+    "Lat": "25.653323",
+    "Lng": "-100.0814962"
+  },
+  {
+    "Título": "Terreno comercial en Camino a San Antonio #123, Col. Villas de San Antonio C.P. 67262, Juárez",
+    "Precio": 6900000,
+    "Ubicación": "Camino a San Antonio #123, Col. Villas de San Antonio C.P. 67262, Juárez",
+    "Superficie": 6911,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-camino-a-san-antonio-123-villas-de-san-antonio-nuevo_leon-25516298",
+    "Lat": "25.6530705",
+    "Lng": "-100.0794459"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Residencial Terranova C.P. 67267, Juárez",
+    "Precio": 3497855,
+    "Ubicación": " , Col. Residencial Terranova C.P. 67267, Juárez",
+    "Superficie": 2376,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-residencial-terranova-nuevo_leon-26906149",
+    "Lat": "25.6634183",
+    "Lng": "-100.1037321"
+  },
+  {
+    "Título": "Terreno comercial en AV VALLE SANTA ISABEL #1004, Col. Valle Santa Isabel C.P. 67256, Juárez",
+    "Precio": 9921100,
+    "Ubicación": "AV VALLE SANTA ISABEL #1004, Col. Valle Santa Isabel C.P. 67256, Juárez",
+    "Superficie": 2718,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-av-valle-santa-isabel-1004-valle-santa-isabel-nuevo_leon-29125451",
+    "Lat": "25.6729814",
+    "Lng": "-100.0803753"
+  },
+  {
+    "Título": "Terreno comercial en  , Col. Colinas Del Sol C.P. 67257, Juárez",
+    "Precio": 25500000,
+    "Ubicación": " , Col. Colinas Del Sol C.P. 67257, Juárez",
+    "Superficie": 5323,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-colinas-del-sol-nuevo_leon-27512399",
+    "Lat": "25.6424711",
+    "Lng": "-100.0905249"
+  },
+  {
+    "Título": "Terreno comercial en La Lobita, Col. La Lobita C.P. 67298, Juárez",
+    "Precio": 2000000,
+    "Ubicación": "La Lobita, Col. La Lobita C.P. 67298, Juárez",
+    "Superficie": 10000,
+    "Enlace": "https://propiedades.com/inmuebles/terreno-comercial-en-venta-la-lobita-la-lobita-nuevo_leon-16187664",
+    "Lat": "25.525019",
+    "Lng": "-100.114029"
+  }
+]
