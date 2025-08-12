@@ -1,4 +1,6 @@
-const SHEET_PINS1_URL = PINS1
+const SHEET_PINS1_URL =
+"https://maps.googleapis.com/maps/api/js?key=AIzaSyBimPrRAY6NuxHcucxTpZ5hxW39CDnvnLM&callback=initMap&libraries=drawing,geometry,visualization"
+
 
 const SHEET_PINS2_URL = 
 "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ5kbzFC8KW-W-nN3kHkcGRV2tjWF_bJjSe-hsfmm8JQTZ_ZsY8S6Toc-jt6RDKDGVXE3CMWGilp52T/pub?gid=928048829&single=true&output=csv";
