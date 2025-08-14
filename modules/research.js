@@ -6,40 +6,38 @@ function saveResearchPin() {
 
   const franchise = document.getElementById("research-franchise").value.trim();
   const operations = document.getElementById("research-operations").value.trim();
-  const address = document.getElementById("research-address").value.trim();
-  const location = document.getElementById("research-location").value.trim();
+  const address    = document.getElementById("research-address").value.trim();
+  const location   = document.getElementById("research-location").value.trim();
 
   if (!franchise || !operations || !address || !location) {
     alert("Por favor llena todos los campos.");
     return;
   }
 
-  // Obtener latitud y longitud
-  const latitude = selectedResearchCoords.lat();
-  const longitude = selectedResearchCoords.lng();
+  // 🔹 Aseguramos tipo número
+  const latitude  = Number(selectedResearchCoords.lat());
+  const longitude = Number(selectedResearchCoords.lng());
 
-  // Construir el objeto a guardar
-  const pinData = {
-    Franchise: franchise,
-    Operations: operations,
-    Address: address,
-    Location: location,
-    Latitude: latitude,
-    Longitude: longitude
-  };
+const pinData = {
+  Franchise: franchise,
+  Operations: operations,
+  Address: address,
+  Location: location,
+  Latitude: latitude,
+  Longitude: longitude
+};
 
-  // Recuperar array existente y agregar nuevo pin
-  const stored = JSON.parse(localStorage.getItem("researchPins") || "[]");
-  stored.push(pinData);
-  localStorage.setItem("researchPins", JSON.stringify(stored));
+  const arr = JSON.parse(localStorage.getItem("researchPins") || "[]");
+  arr.push(pinData);
+  localStorage.setItem("researchPins", JSON.stringify(arr));
 
-  // Efecto de sonido
+  // feedback
   playSound("sounds/bubble.mp3");
 
-  // Crear marcador en el mapa
+  // marcador
   const marker = new google.maps.Marker({
-    position: selectedResearchCoords,
-    map: map,
+    position: { lat: latitude, lng: longitude },
+    map,
     animation: google.maps.Animation.DROP,
     draggable: true,
     icon: {
@@ -48,31 +46,26 @@ function saveResearchPin() {
     },
     title: franchise
   });
+  marker._pinId = pinData.id;
 
-  // Almacenar referencia a los datos originales para el borrado
-  marker._pinData = pinData;
-
-  // Listener para eliminar al hacer clic
+  // eliminar (lee storage fresco)
   marker.addListener("click", () => {
-    const confirmDelete = confirm(`¿Deseas eliminar "${franchise}"?`);
-    if (!confirmDelete) return;
-
-    // Quitar marcador del mapa
+    if (!confirm(`¿Deseas eliminar "${franchise}"?`)) return;
     marker.setMap(null);
     playSound("sounds/trash.mp3");
-
-    // Filtrar localStorage por latitud/longitud
-    const updated = stored.filter(p =>
-      !(p.Latitude === marker._pinData.Latitude && p.Longitude === marker._pinData.Longitude)
-    );
+    const fresh = JSON.parse(localStorage.getItem("researchPins") || "[]");
+    const updated = fresh.filter(p => p.id !== marker._pinId);
     localStorage.setItem("researchPins", JSON.stringify(updated));
   });
 
-  // Cerrar formulario y resetear estado
+  // reset UI
   closeResearchPinForm();
   researchPinMode = false;
   selectedResearchCoords = null;
   map.setOptions({ draggableCursor: null });
+
+  // depuración rápida
+  console.table([pinData]);
 }
 
 
