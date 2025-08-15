@@ -2258,8 +2258,9 @@ popup1.classList.toggle("shifted", panel.classList.contains("open"));
 }
  
  
+ 
 function loadPins(callback) {
-  const visibleStates = ["Coahuila", "Nuevo León", "Tamaulipas", "Durango","Jalisco","Aguascalientes","Guanajuato","Baja California"];
+//const visibleStates = ["Coahuila", "Nuevo León", "Tamaulipas", "Durango","Jalisco","Aguascalientes","Guanajuato","Baja California"];
   let totalMarkersAdded = 0;
 
   function processCSVData(csvText, label) {
@@ -2398,6 +2399,8 @@ function loadPins(callback) {
     console.error("❌ Error cargando los CSV de pines:", err);
   });
 }
+
+ 
 
  
  
