@@ -2271,7 +2271,11 @@ popup1.classList.toggle("shifted", panel.classList.contains("open"));
  
  
 function loadPins(callback) {
-//const visibleStates = ["Coahuila", "Nuevo León", "Tamaulipas", "Durango","Jalisco","Aguascalientes","Guanajuato","Baja California"];
+  // Ahora visibleStates es opcional
+  const visibleStates = []; 
+  // Ejemplo: ["Coahuila", "Nuevo León"]
+  // Si está vacío -> no se filtra nada
+
   let totalMarkersAdded = 0;
 
   function processCSVData(csvText, label) {
@@ -2285,6 +2289,11 @@ function loadPins(callback) {
           const lat = parseFloat(row.Latitude);
           const lng = parseFloat(row.Longitude);
           if (isNaN(lat) || isNaN(lng)) return;
+
+          const state = row.State?.trim();
+
+          // ✅ Solo se filtra si visibleStates tiene valores
+          if (visibleStates.length > 0 && !visibleStates.includes(state)) return;
 
           const marker = new google.maps.Marker({
             position: { lat, lng },
@@ -2316,6 +2325,7 @@ function loadPins(callback) {
             });
           });
 
+          // Extra metadata
           marker.category     = row.Category?.trim()     || "Uncategorized";
           marker.subcategory  = row.Subcategory?.trim()  || "Uncategorized";
           marker.franchise    = row.Franchise?.trim()    || "Unnamed";
@@ -2406,11 +2416,7 @@ function loadPins(callback) {
   .catch(err => {
     console.error("❌ Error cargando los CSV de pines:", err);
   });
-}
-
- 
- 
- 
+} 
  
 function closeRulerPopup() { document.getElementById("ruler-popup").style.display = "none"; if (rulerPolyline) { rulerPolyline.setMap(null); rulerPolyline = null; } }
  
