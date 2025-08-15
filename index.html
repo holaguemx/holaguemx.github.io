@@ -197,6 +197,18 @@ body.dark-mode #search-input{ background: #666666; border-color: #383838; color:
 
 <body>
 
+  <div id="checking" class="muted">Verificando acceso…</div>
+  <div id="app">
+    <h1>¡Acceso concedido!</h1>
+    <p>Aquí carga tu aplicación.</p>
+    <!-- Tu JS/CSS reales van aquí -->
+  </div>
+
+
+
+
+
+
   <div id="map" style="width:100%; height:100vh;"></div>
   
   <div id="tooltip"></div>
@@ -2258,7 +2270,6 @@ popup1.classList.toggle("shifted", panel.classList.contains("open"));
 }
  
  
- 
 function loadPins(callback) {
 //const visibleStates = ["Coahuila", "Nuevo León", "Tamaulipas", "Durango","Jalisco","Aguascalientes","Guanajuato","Baja California"];
   let totalMarkersAdded = 0;
@@ -2274,9 +2285,6 @@ function loadPins(callback) {
           const lat = parseFloat(row.Latitude);
           const lng = parseFloat(row.Longitude);
           if (isNaN(lat) || isNaN(lng)) return;
-
-          const state = row.State?.trim();
-          if (!visibleStates.includes(state)) return;
 
           const marker = new google.maps.Marker({
             position: { lat, lng },
@@ -2399,8 +2407,6 @@ function loadPins(callback) {
     console.error("❌ Error cargando los CSV de pines:", err);
   });
 }
-
- 
 
  
  
@@ -5473,9 +5479,10 @@ if (wktRows.length > 1) { const wsPolys = XLSX.utils.aoa_to_sheet(wktRows); XLSX
 
 const fileName = prompt("Enter the name for the Excel file:", "Market Spots Geodata"); if (!fileName) return alert("Export cancelled."); XLSX.writeFile(workbook, `${fileName}.xlsx`);});
 
+
 </script>
 
-<script src="modules/tomtom.js"></script>, <script src="modules/city-elements.js"></script>,<script src="modules/sources.js"></script>, <script src="modules/kmz.js"></script>, <script src="modules/database.js"></script>, <script src="modules/xls.js"></script>, <script src="modules/polygons.js"></script>, <script src="modules/notepad.js"></script>, <script src="modules/kmz-url.js"></script>, <script src="modules/mkts.js"></script>, <script src="modules/portfolio.js"></script>,<script src="modules/research.js"></script>
+<script src="js/source.js"></script>,<script src="modules/tomtom.js"></script>, <script src="modules/city-elements.js"></script>,</script>, <script src="modules/kmz.js"></script>, <script src="modules/database.js"></script>, <script src="modules/xls.js"></script>, <script src="modules/polygons.js"></script>, <script src="modules/notepad.js"></script>, <script src="modules/kmz-url.js"></script>, <script src="modules/mkts.js"></script>, <script src="modules/portfolio.js"></script>,<script src="modules/research.js"></script>
 
 </script>
 
