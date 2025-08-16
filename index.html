@@ -1204,8 +1204,6 @@ map.addListener("idle", () => {
  localStorage.setItem("mapZoom", map.getZoom());
 });  
 
-localStorage.removeItem("customPolygons"); localStorage.removeItem("customPins"); localStorage.removeItem("importedKMZ"); localStorage.removeItem("excelData");
-
   tooltipDiv     = document.getElementById("tooltip");
   tooltipOverlay = new google.maps.OverlayView();
   tooltipOverlay.onAdd = function() {
@@ -1230,6 +1228,150 @@ updateSoundButton();
       }
     });
 
+
+
+function whenMapReady(cb) {
+  const tryRun = () => {
+    if (window.map instanceof google.maps.Map) {
+      if (map.getProjection()) return cb();
+      google.maps.event.addListenerOnce(map, "idle", cb);
+    } else {
+      setTimeout(tryRun, 50);
+    }
+  };
+  tryRun();
+}
+
+// En tu initMap, AL FINAL:
+whenMapReady(() => {
+  try {
+    // 1) Dibuja lo guardado (tu función existente)
+    renderImportedKMZ();
+
+    // 2) Infra de tooltip reutilizable (inline)
+    const tooltipOverlay = new google.maps.OverlayView();
+    tooltipOverlay.onAdd = () => {};
+    tooltipOverlay.draw  = () => {};
+    tooltipOverlay.setMap(map);
+    const tooltipDiv = document.getElementById("tooltip"); // debe existir
+
+    // 3) Adjuntar tooltip + eliminar a POLÍGONOS ya renderizados
+    window.importedPolygons = window.importedPolygons || [];
+    window.importedPolygons.forEach(poly => {
+      const name = poly.__name || "Polygon";
+
+      // Tooltip
+      google.maps.event.clearListeners(poly, "mouseover");
+      google.maps.event.clearListeners(poly, "mousemove");
+      google.maps.event.clearListeners(poly, "mouseout");
+
+      poly.addListener("mouseover", e => {
+        if (!tooltipDiv) return;
+        const area = google.maps.geometry.spherical.computeArea(poly.getPath()); // requiere geometry
+        const formatted = area.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+        tooltipDiv.innerHTML = `<strong>${name}</strong><br>${formatted} m²`;
+        const pos = tooltipOverlay.getProjection().fromLatLngToDivPixel(e.latLng);
+        tooltipDiv.style.left = pos.x + "px";
+        tooltipDiv.style.top  = pos.y + "px";
+        tooltipDiv.style.display = "block";
+      });
+
+      poly.addListener("mousemove", e => {
+        if (!tooltipDiv) return;
+        const pos = tooltipOverlay.getProjection().fromLatLngToDivPixel(e.latLng);
+        tooltipDiv.style.left = pos.x + "px";
+        tooltipDiv.style.top  = pos.y + "px";
+      });
+
+      poly.addListener("mouseout", () => {
+        if (tooltipDiv) tooltipDiv.style.display = "none";
+      });
+
+      // Click → eliminar polígono (sin helpers)
+      google.maps.event.clearListeners(poly, "click");
+      poly.addListener("click", () => {
+        if (!confirm(`Delete Polygon "${name}"?`)) return;
+
+        // 1) Quitar del mapa y del arreglo global
+        poly.setMap(null);
+        window.importedPolygons = window.importedPolygons.filter(p => p !== poly);
+
+        // 2) Persistir TODO lo que queda en el mapa
+        const pinsAll = (window.importedMarkers || []).map(m => ({
+          name: m.getTitle() || "Pin",
+          position: { lat: m.getPosition().lat(), lng: m.getPosition().lng() },
+          iconUrl: (() => {
+            const ic = m.getIcon();
+            return typeof ic === "string" ? ic : (ic && ic.url) || null;
+          })()
+        }));
+        const polysAll = (window.importedPolygons || []).map(pg => ({
+          name:        pg.__name || "Polygon",
+          paths:       pg.getPath().getArray().map(c => ({ lat: c.lat(), lng: c.lng() })),
+          strokeColor: pg.get("strokeColor"),
+          strokeOpacity: pg.get("strokeOpacity"),
+          strokeWeight:  pg.get("strokeWeight"),
+          fillColor:     pg.get("fillColor"),
+          fillOpacity:   pg.get("fillOpacity"),
+          clickable:     pg.get("clickable"),
+          zIndex:        pg.get("zIndex")
+        }));
+        localStorage.setItem("importedKMZ", JSON.stringify({ pins: pinsAll, polygons: polysAll }));
+      });
+    });
+
+    // 4) Adjuntar eliminar a PINES ya renderizados
+    window.importedMarkers = window.importedMarkers || [];
+    window.importedMarkers.forEach(gmarker => {
+      google.maps.event.clearListeners(gmarker, "click");
+      gmarker.addListener("click", () => {
+        const title = gmarker.getTitle();
+        if (!confirm(`Delete Marker "${title || "Pin"}"?`)) return;
+
+        // 1) Quitar del mapa y del arreglo global
+        gmarker.setMap(null);
+        window.importedMarkers = window.importedMarkers.filter(m => m !== gmarker);
+
+        // 2) Persistir TODO lo que queda en el mapa
+const pinsAll = (window.importedMarkers || []).map(m => {
+  const ic = m.getIcon();
+  const url = typeof ic === 'string' ? ic : (ic && ic.url) || null;
+  let w = 30, h = 30;
+  if (ic && typeof ic !== 'string' && ic.scaledSize) {
+    // respeta el tamaño que ya tenía el marker en el mapa
+    w = ic.scaledSize.width;
+    h = ic.scaledSize.height;
+  }
+  return {
+    name: m.getTitle() || "Pin",
+    position: { lat: m.getPosition().lat(), lng: m.getPosition().lng() },
+    iconUrl: url,
+    iconW: w,
+    iconH: h
+  };
+});
+        const polysAll = (window.importedPolygons || []).map(pg => ({
+          name:        pg.__name || "Polygon",
+          paths:       pg.getPath().getArray().map(c => ({ lat: c.lat(), lng: c.lng() })),
+          strokeColor: pg.get("strokeColor"),
+          strokeOpacity: pg.get("strokeOpacity"),
+          strokeWeight:  pg.get("strokeWeight"),
+          fillColor:     pg.get("fillColor"),
+          fillOpacity:   pg.get("fillOpacity"),
+          clickable:     pg.get("clickable"),
+          zIndex:        pg.get("zIndex")
+        }));
+        localStorage.setItem("importedKMZ", JSON.stringify({ pins: pinsAll, polygons: polysAll }));
+      });
+    });
+
+  } catch (e) {
+    console.error("Error renderizando importedKMZ:", e);
+  }
+});
+    
+
+
 let hideTooltipTimeout;
 let suspendMasterSync = false;
 const visibleMunicipios = new Set();
@@ -1237,7 +1379,7 @@ const visibleMunicipios = new Set();
 const municipioPolygons = {};
 const municipioLabels   = {};
 
-const visibleStates = new Set(['Coahuila', 'Durango', 'Nuevo León', 'Jalisco']);
+const visibleStates = new Set(['Coahuila', 'Durango', 'Nuevo León', 'Tamaulipas']);
 
 fetch('files/kmz/MX59.json')
   .then(res => res.json())
@@ -2271,11 +2413,7 @@ popup1.classList.toggle("shifted", panel.classList.contains("open"));
  
  
 function loadPins(callback) {
-  // Ahora visibleStates es opcional
-  const visibleStates = []; 
-  // Ejemplo: ["Coahuila", "Nuevo León"]
-  // Si está vacío -> no se filtra nada
-
+//const visibleStates = ["Coahuila", "Nuevo León", "Tamaulipas", "Durango","Jalisco","Aguascalientes","Guanajuato","Baja California"];
   let totalMarkersAdded = 0;
 
   function processCSVData(csvText, label) {
@@ -2289,11 +2427,6 @@ function loadPins(callback) {
           const lat = parseFloat(row.Latitude);
           const lng = parseFloat(row.Longitude);
           if (isNaN(lat) || isNaN(lng)) return;
-
-          const state = row.State?.trim();
-
-          // ✅ Solo se filtra si visibleStates tiene valores
-          if (visibleStates.length > 0 && !visibleStates.includes(state)) return;
 
           const marker = new google.maps.Marker({
             position: { lat, lng },
@@ -2325,7 +2458,6 @@ function loadPins(callback) {
             });
           });
 
-          // Extra metadata
           marker.category     = row.Category?.trim()     || "Uncategorized";
           marker.subcategory  = row.Subcategory?.trim()  || "Uncategorized";
           marker.franchise    = row.Franchise?.trim()    || "Unnamed";
@@ -2416,7 +2548,11 @@ function loadPins(callback) {
   .catch(err => {
     console.error("❌ Error cargando los CSV de pines:", err);
   });
-} 
+}
+
+ 
+ 
+ 
  
 function closeRulerPopup() { document.getElementById("ruler-popup").style.display = "none"; if (rulerPolyline) { rulerPolyline.setMap(null); rulerPolyline = null; } }
  
@@ -5488,7 +5624,7 @@ const fileName = prompt("Enter the name for the Excel file:", "Market Spots Geod
 
 </script>
 
-<script src="modules/sources.js"></script>,<script src="modules/tomtom.js"></script>, <script src="modules/city-elements.js"></script>,</script>, <script src="modules/kmz.js"></script>, <script src="modules/database.js"></script>, <script src="modules/xls.js"></script>, <script src="modules/polygons.js"></script>, <script src="modules/notepad.js"></script>, <script src="modules/kmz-url.js"></script>, <script src="modules/mkts.js"></script>, <script src="modules/portfolio.js"></script>,<script src="modules/research.js"></script>
+<script src="js/source.js"></script>,<script src="modules/tomtom.js"></script>, <script src="modules/city-elements.js"></script>,</script>, <script src="modules/kmz.js"></script>, <script src="modules/database.js"></script>, <script src="modules/xls.js"></script>, <script src="modules/polygons.js"></script>, <script src="modules/notepad.js"></script>, <script src="modules/kmz-url.js"></script>, <script src="modules/mkts.js"></script>, <script src="modules/portfolio.js"></script>,<script src="modules/research.js"></script>
 
 </script>
 
